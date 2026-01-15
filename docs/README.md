@@ -11,18 +11,18 @@ Don't expect it to be constant, but I won't mind checking a pull request!
 - - [ ] Season 7
   - [ ] Other languages
 ### Junior (same JSON type)
-- [ ] Nursery Rhymes
-- - [ ] Already included
-- - [ ] Up to December 2025
-- [ ] Pokémon Fun
-- - [ ] Already included
-- - [ ] Up to December 2025
-- [ ] Sing-a-long Songs
-- - [ ] Already included
-- - [ ] Up to December 2025
-- [ ] Sleepy Time
-- - [ ] Already included
-- - [ ] Up to December 2025
+-  - [ ] Nursery Rhymes
+      - - [X] Already included
+      - - [ ] Up to December 2025
+ -  - [ ] Pokémon Fun
+      - - [ ] Already included
+      - - [ ] Up to December 2025
+ -  - [ ] Sing-a-long Songs
+      - - [ ] Already included
+      - - [ ] Up to December 2025
+ -  - [ ] Sleepy Time
+      - - [ ] Already included
+      - - [ ] Up to December 2025
 ## Specials
 - - [ ] Pokémon GENERATIONS
   - [ ] Pokémon ORIGINS
