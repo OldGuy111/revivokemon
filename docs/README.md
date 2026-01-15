@@ -3,6 +3,35 @@
 I felt a lack of new episodes from [Seiya Dev.](https://github.com/seiya-dev/)'s client compared to the YouTube channel, so here I go trying to get it up to date!
 Don't expect it to be constant, but I won't mind checking a pull request!
 
+# Bundles
+## Current
+### Bundle 1
+* Season 1 to Season 5 episode 30
+* Bidoof's Big Stand
+* Pokétoon
+* Pokémon Kids TV Nursery Rhymes
+## Coming soon
+### Bundle 2
+* New thumbnails for Season 5 episode 5 to 19
+* Season 5 episodes 31 to 52
+* Pokémon Kids TV Pokémon Fun
+* Pokémon Evolutions
+### Bundle 3
+* Season 5 episodes 52 to 64
+* Pokémon Twilight Wings
+### Bundle 4
+* Season 6 episodes 1 to 20
+* Pokémon Kids TV Sing-a-long Songs
+* Pokémon: Path to the Peak
+### Bundle 5
+* Season 6 episodes 20 to 40
+* Pokémon Generations
+### Bundle 6
+* Season 7 episodes 1 to 20
+* Pokémon Kids TV Sleepy Time
+* Pokémon: Hisuian Snow
+
+
 # Checklist (marked in bold means [partially] available)
 ## Series
 - [ ] **Season 5** (currently up to episode 30)
