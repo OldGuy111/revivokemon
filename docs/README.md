@@ -31,42 +31,6 @@ Don't expect it to be constant, but I won't mind checking a pull request!
 * Pokémon Kids TV Sleepy Time
 * Pokémon: Hisuian Snow
 
-
-# Checklist (marked in bold means [partially] available)
-## Series
-- [ ] **Season 5** (currently up to episode 30)
-    - [X] Revert descriptions to original Pokémon TV's
-    - [ ] **All episodes**
-    - [ ] Other languages
-- [ ] Season 6
-  - [ ] All episodes
-  - [ ] Other languages
-- [ ] Season 7
-  - [ ] All episodes
-  - [ ] Other languages
-### Junior (same JSON type)
-- [ ] **Nursery Rhymes**
-  - [X] ***Already included**
-  - [ ] Up to December 2025
-- [ ] Pokémon Fun
-  - [ ] Already included
-  - [ ] Up to December 2025
-- [ ] Sing-a-long Songs
-  - [ ] Already included
-  - [ ] Up to December 2025
-- [ ] Sleepy Time
-  - [ ] Already included
-  - [ ] Up to December 2025
-## Specials
-- [ ] Pokémon GENERATIONS
-- [ ] Pokémon ORIGINS
-- [ ] Pokémon Twilight Wings
-- [ ] Pokémon Evolutions
-- [X] Bidoof's Big Stand
-- [X] Pokémon Hisuian Snow
-- [X] POKÉTOON
-- [X] Path to the Peak
-
 Original from [Seiya Dev.](https://github.com/seiya-dev/)
 
 # Original description
