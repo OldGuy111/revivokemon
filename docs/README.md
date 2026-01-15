@@ -1,24 +1,28 @@
 I felt a lack of new episodes to the client compared to the YouTube channel, so here I go trying to get it up to date!
+Don't expect it to be constant, but I won't mind checking a pull request!
 
-I'll do 2 episodes a series, 2 series a day (not guaranteed everyday).
 # Checklist
 ## Series
 - - [ ] Season 5
+  - [ ] Mesh original files and new files
+  - [ ] Other languages
 - - [ ] Season 6
+  - [ ] Other languages
 - - [ ] Season 7
+  - [ ] Other languages
 ### Junior (same JSON type)
--  -  - [ ] Nursery Rhymes
-      - - [ ] Already included
-      - - [ ] Up to December 2025
--  -  - [ ] Pokémon Fun
-      - - [ ] Already included
-      - - [ ] Up to December 2025
--  -  - [ ] Sing-a-long Songs
-      - - [ ] Already included
-      - - [ ] Up to December 2025
--  -  - [ ] Sleepy Time
-      - - [ ] Already included
-      - - [ ] Up to December 2025
+- [ ] Nursery Rhymes
+- - [ ] Already included
+- - [ ] Up to December 2025
+- [ ] Pokémon Fun
+- - [ ] Already included
+- - [ ] Up to December 2025
+- [ ] Sing-a-long Songs
+- - [ ] Already included
+- - [ ] Up to December 2025
+- [ ] Sleepy Time
+- - [ ] Already included
+- - [ ] Up to December 2025
 ## Specials
 - - [ ] Pokémon GENERATIONS
   - [ ] Pokémon ORIGINS
