@@ -3,8 +3,8 @@
 I felt a lack of new episodes from [Seiya Dev.](https://github.com/seiya-dev/)'s client compared to the YouTube channel, so here I go trying to get it up to date!
 Don't expect it to be constant, but I won't mind checking a pull request!
 
-# About the *sandbox* branch
-This branch contains more content than released and will probably have unfinished content, so expect nonfunctioning or malfunctioning episodes. The content will be finished from here and then sent to the *nightly* branch.
+# The branches
+The *sandbox* contains more content than released and will probably have unfinished content, so expect nonfunctioning or malfunctioning episodes. The content will be finished from there and then sent to the *nightly* branch, which will be merged with *master*.
 
 Original from [Seiya Dev.](https://github.com/seiya-dev/)
 
