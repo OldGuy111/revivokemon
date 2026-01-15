@@ -3,40 +3,46 @@
 I felt a lack of new episodes from [Seiya Dev.](https://github.com/seiya-dev/)'s client compared to the YouTube channel, so here I go trying to get it up to date!
 Don't expect it to be constant, but I won't mind checking a pull request!
 
-# Checklist (marked in bold means [partially] available)
-## Series
-- [ ] **Season 5** (currently up to episode 30)
-    - [X] Revert descriptions to original Pokémon TV's
-    - [ ] **All episodes**
-    - [ ] Other languages
-- [ ] Season 6
-  - [ ] All episodes
-  - [ ] Other languages
-- [ ] Season 7
-  - [ ] All episodes
-  - [ ] Other languages
-### Junior (same JSON type)
-- [ ] **Nursery Rhymes**
-  - [X] ***Already included**
-  - [ ] Up to December 2025
-- [ ] Pokémon Fun
-  - [ ] Already included
-  - [ ] Up to December 2025
-- [ ] Sing-a-long Songs
-  - [ ] Already included
-  - [ ] Up to December 2025
-- [ ] Sleepy Time
-  - [ ] Already included
-  - [ ] Up to December 2025
-## Specials
-- [ ] Pokémon GENERATIONS
-- [ ] Pokémon ORIGINS
-- [ ] Pokémon Twilight Wings
-- [ ] Pokémon Evolutions
-- [X] Bidoof's Big Stand
-- [X] Pokémon Hisuian Snow
-- [X] POKÉTOON
-- [X] Path to the Peak
+# Waves
+Every wave will be released at 00:00 GMT. There will be 6 flash waves to catch up on content before the weekly waves.
+*Data may change anytime.
+## Current
+### Base (Jan 15 2026)
+* Season 1 to Season 5 episode 30
+* Bidoof's Big Stand
+* Pokétoon
+* Pokémon Kids TV Nursery Rhymes
+### Flash Wave 1 (Jan 18 2026)
+* New thumbnails for Season 5 episode 5 to 19
+* Season 5 episodes 31 to 52
+* Pokémon Kids TV Pokémon Fun
+## Coming soon
+### Flash Wave 2 (Jan 21 2026)
+* Season 5 episodes 52 to 64
+* Pokémon Twilight Wings
+### Flash Wave 3 (Jan 24 2026)
+* Season 6 episodes 1 to 20
+* Pokémon Evolutions
+* Pokémon Kids TV Sing-a-long Songs
+### Flash Wave 4 (Jan 27 2026)
+* Season 6 episodes 20 to 40
+* Pokémon Generations
+### Flash Wave 5 (Jan 30 2026)
+* Season 7 episodes 1 to 12
+* Pokémon Kids TV Sleepy Time
+* Pokémon: Hisuian Snow
+### Flash Wave 6 (Feb 2 2026)
+* Season 7 episodes 13 to 26
+* Pokémon: Path to the Peak
+### Weekly Wave 1 (Feb 8 2026)
+* Season 7 episodes 27 to 30
+### Weekly Wave 2 (Feb 15 2026)
+* Season 7 episodes 31 to 35
+
+...and so on goes with the weekly waves.
+
+
+
 
 Original from [Seiya Dev.](https://github.com/seiya-dev/)
 
