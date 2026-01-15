@@ -28,7 +28,7 @@ Don't expect it to be constant, but I won't mind checking a pull request!
 - [ ] Pokémon ORIGINS
 - [ ] Pokémon Twilight Wings
 - [ ] Pokémon Evolutions
-- [ ] Bidoof's Big Stand
+- [X] Bidoof's Big Stand
 - [ ] Pokémon Hisuian Snow
 - [ ] POKÉTOON
 - [ ] Path to the Peak
