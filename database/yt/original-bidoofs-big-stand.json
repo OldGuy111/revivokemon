@@ -1,0 +1,27 @@
+{
+    "id": "bidoofs-big-stand",
+    "title": "Bidoof’s Big Stand",
+    "description": "Look out! Bidoof bumbles into trouble in the new animated short Bidoof’s Big Stand. Catch the adventure now!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/bidoofs-big-stand/bidoofs-big-stand-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/bidoofs-big-stand/bidoofs-big-stand-1660x940-en.png"
+    },
+    "category_id": 4,
+    "category": "specials",
+    "order": -1641917336,
+    "media": [
+        {
+            "id": "55186a238c8e4b358e4bb2376a7656fe",
+            "season": "",
+            "episode": "",
+            "title": "Bidoof's Big Stand",
+            "description": "A bumbling Bidoof with a tendency to bite off more than it can chew finds itself between a rock and a hard place as it embarks on a journey to find its place in the world.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/bidoofs-big-stand/bidoofs_big_stand_ss01.png",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/bidoofs-big-stand/bidoofs_big_stand_ss01_360_206.jpg"
+            },
+            "poketv_url": "https://s2.content.video.llnw.net/smedia/4953336d7f544f678a12270b176ea386/0S/v-OpRr6NBv9xogU4pr_f9k3lfqU8gFdIJDrN-Mzv0/bidoofsbigstand_v1_eng.mp4",
+            "embed_url": ""
+        }
+    ]
+}
