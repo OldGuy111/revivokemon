@@ -32,7 +32,7 @@ Don't expect it to be constant, but I won't mind checking a pull request!
 - [ ] Pokémon Evolutions
 - [X] Bidoof's Big Stand
 - [ ] Pokémon Hisuian Snow
-- [ ] POKÉTOON
+- [X] POKÉTOON
 - [ ] Path to the Peak
 
 Original from [Seiya Dev.](https://github.com/seiya-dev/)
