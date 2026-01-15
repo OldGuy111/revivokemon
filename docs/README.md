@@ -1,13 +1,13 @@
 ![A cartoon television with an eary orange creature with yellow cheeks, eyes, tiny nose and mouth inside. Its ears stick out. At the right of the screen stands the text REVIVOKÉMON in low caps italic.](https://github.com/OldGuy111/revivokemon/blob/wipepisodes/revivokemon.png)
 
-I felt a lack of new episodes to the client compared to the YouTube channel, so here I go trying to get it up to date!
+I felt a lack of new episodes from [Seiya Dev.](https://github.com/seiya-dev/)'s client compared to the YouTube channel, so here I go trying to get it up to date!
 Don't expect it to be constant, but I won't mind checking a pull request!
 
-# Checklist
+# Checklist (marked in bold means [partially] available)
 ## Series
-- [ ] Season 5
-    - [X] Merge original files and new files
-    - [ ] All episodes
+- [ ] **Season 5** (currently up to episode 30)
+    - [X] Revert descriptions to original Pokémon TV's
+    - [ ] **All episodes**
     - [ ] Other languages
 - [ ] Season 6
   - [ ] All episodes
@@ -16,8 +16,8 @@ Don't expect it to be constant, but I won't mind checking a pull request!
   - [ ] All episodes
   - [ ] Other languages
 ### Junior (same JSON type)
-- [ ] Nursery Rhymes
-  - [X] Already included
+- [ ] **Nursery Rhymes**
+  - [X] ***Already included**
   - [ ] Up to December 2025
 - [ ] Pokémon Fun
   - [ ] Already included
