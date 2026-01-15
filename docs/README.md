@@ -6,7 +6,7 @@ Don't expect it to be constant, but I won't mind checking a pull request!
 # Checklist
 ## Series
 - [ ] Season 5
-    - [ ] Mesh original files and new files
+    - [ ] Merge original files and new files
     - [ ] Other languages
 - [ ] Season 6
   - [ ] Other languages
