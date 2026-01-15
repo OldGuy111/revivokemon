@@ -21,7 +21,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep01_ss01_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=W4deOtus5FY"
+            "embed_url": "https://www.youtube.com/embed/W4deOtus5FY"
         },
         {
             "id": "ca897f3107dc49419b02054cb793e998",
@@ -34,7 +34,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep02_ss01_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=AV_NnmVnboI"
+            "embed_url": "https://www.youtube.com/embed/AV_NnmVnboI"
         },
         {
             "id": "e5f2545de6784470b21ec9f0d4fe5ab0",
@@ -47,7 +47,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep03_ss01_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=Z_F4IEQFdM8"
+            "embed_url": "https://www.youtube.com/embed/Z_F4IEQFdM8"
         },
         {
             "id": "96716d9128cd44e9ac7a8ae4519761a9",
@@ -60,7 +60,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep04_ss01_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=k-USp7qxGPQ&pp=ygUWd2FpdCBmb3IgbWUsIG1hZ2lrYXJwIQ%3D%3D"
+            "embed_url": "https://www.youtube.com/embed/k-USp7qxGPQ&pp=ygUWd2FpdCBmb3IgbWUsIG1hZ2lrYXJwIQ%3D%3D"
         },
         {
             "id": "8b4d64eddc084c33bfd7d97356225d2b",
@@ -73,7 +73,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep05_ss01_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=Tj-MuKoLTN8"
+            "embed_url": "https://www.youtube.com/embed/Tj-MuKoLTN8"
         },
         {
             "id": "e5ab7378ba2b467dad93bd524442dfdf",
@@ -86,7 +86,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep06_ss01_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=5qZU-WIzq68"
+            "embed_url": "https://www.youtube.com/embed/5qZU-WIzq68"
         },
         {
             "id": "b72053fa96da4654b4184e74d2edad4c",
@@ -99,7 +99,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep07_ss01_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=H2Z2AM99AQw"
+            "embed_url": "https://www.youtube.com/embed/H2Z2AM99AQw"
         },
         {
             "id": "93623be9e7bc40de9637be13c6999696",
@@ -112,7 +112,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/poketoon/poketoon_ep08_ss04_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=vTIpFjGTEvE"
+            "embed_url": "https://www.youtube.com/embed/vTIpFjGTEvE"
         }
     ]
 }
