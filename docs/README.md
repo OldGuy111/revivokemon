@@ -34,7 +34,7 @@ Don't expect it to be constant, but I won't mind checking a pull request!
 - [ ] Pokémon Twilight Wings
 - [ ] Pokémon Evolutions
 - [X] Bidoof's Big Stand
-- [ ] Pokémon Hisuian Snow
+- [X] Pokémon Hisuian Snow
 - [X] POKÉTOON
 - [X] Path to the Peak
 
