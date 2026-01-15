@@ -6,11 +6,14 @@ Don't expect it to be constant, but I won't mind checking a pull request!
 # Checklist
 ## Series
 - [ ] Season 5
-    - [ ] Merge original files and new files
+    - [X] Merge original files and new files
+    - [ ] All episodes
     - [ ] Other languages
 - [ ] Season 6
+  - [ ] All episodes
   - [ ] Other languages
 - [ ] Season 7
+  - [ ] All episodes
   - [ ] Other languages
 ### Junior (same JSON type)
 - [ ] Nursery Rhymes
