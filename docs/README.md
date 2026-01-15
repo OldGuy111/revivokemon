@@ -1,39 +1,35 @@
 ![A cartoon television with an eary orange creature with yellow cheeks, eyes, tiny nose and mouth inside. Its ears stick out. At the right of the screen stands the text REVIVOKÉMON in low caps italic.](https://github.com/OldGuy111/revivokemon/blob/wipepisodes/revivokemon.png)
 
-I felt a lack of new episodes to the client compared to the YouTube channel, so here I go trying to get it up to date!
+I felt a lack of new episodes from [Seiya Dev.](https://github.com/seiya-dev/)'s client compared to the YouTube channel, so here I go trying to get it up to date!
 Don't expect it to be constant, but I won't mind checking a pull request!
 
-# Checklist
-## Series
-- [ ] Season 5
-    - [ ] Mesh original files and new files
-    - [ ] Other languages
-- [ ] Season 6
-  - [ ] Other languages
-- [ ] Season 7
-  - [ ] Other languages
-### Junior (same JSON type)
-- [ ] Nursery Rhymes
-  - [X] Already included
-  - [ ] Up to December 2025
-- [ ] Pokémon Fun
-  - [ ] Already included
-  - [ ] Up to December 2025
-- [ ] Sing-a-long Songs
-  - [ ] Already included
-  - [ ] Up to December 2025
-- [ ] Sleepy Time
-  - [ ] Already included
-  - [ ] Up to December 2025
-## Specials
-- [ ] Pokémon GENERATIONS
-- [ ] Pokémon ORIGINS
-- [ ] Pokémon Twilight Wings
-- [ ] Pokémon Evolutions
-- [X] Bidoof's Big Stand
-- [ ] Pokémon Hisuian Snow
-- [X] POKÉTOON
-- [ ] Path to the Peak
+# Bundles
+## Current
+### Bundle 1
+* Season 1 to Season 5 episode 30
+* Bidoof's Big Stand
+* Pokétoon
+* Pokémon Kids TV Nursery Rhymes
+## Coming soon
+### Bundle 2
+* New thumbnails for Season 5 episode 5 to 19
+* Season 5 episodes 31 to 52
+* Pokémon Kids TV Pokémon Fun
+* Pokémon Evolutions
+### Bundle 3
+* Season 5 episodes 52 to 64
+* Pokémon Twilight Wings
+### Bundle 4
+* Season 6 episodes 1 to 20
+* Pokémon Kids TV Sing-a-long Songs
+* Pokémon: Path to the Peak
+### Bundle 5
+* Season 6 episodes 20 to 40
+* Pokémon Generations
+### Bundle 6
+* Season 7 episodes 1 to 20
+* Pokémon Kids TV Sleepy Time
+* Pokémon: Hisuian Snow
 
 Original from [Seiya Dev.](https://github.com/seiya-dev/)
 
