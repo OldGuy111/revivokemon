@@ -21,7 +21,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/hisuian-snow/hisuian_snow_ep01_ss01_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=thhRi11aTI8"
+            "embed_url": "https://www.youtube.com/embed/thhRi11aTI8"
         },
         {
             "id": "3b91e4be74384c94a889a0bcf35d5615",
@@ -34,7 +34,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/hisuian-snow/hisuian_snow_ep02_ss01_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=zflsMl4_b0U"
+            "embed_url": "https://www.youtube.com/embed/zflsMl4_b0U"
         },
         {
             "id": "ea00a0fc550d479c907bb9efeb57c9a6",
@@ -47,7 +47,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/hisuian-snow/hisuian_snow_ep03_ss01_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=OLpFe1_qOgI"
+            "embed_url": "https://www.youtube.com/embed/OLpFe1_qOgI"
         }
     ]
 }
