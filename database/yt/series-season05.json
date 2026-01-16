@@ -399,6 +399,292 @@
             },
             "poketv_url": "",
             "embed_url": "https://youtube.com/embed/bL47sJxDRk8"
+        },
+        {
+            "id": "a94ba3eaaf304547b06e13187dc44a0c",
+            "season": "5",
+            "episode": "31",
+            "title": "Some Like It Hot",
+            "description": "Ash, Misty, and Brock face many roadblocks on the path to success, some metaphoric and others in the form of gigantic Magcargo that refuse to step aside and let a traveler pass.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep31_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep31_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/8-uyFJxx62s"
+        },
+        {
+            "id": "1ea77bc0e0924006ba564f93cc89f4e0",
+            "season": "5",
+            "episode": "32",
+            "title": "Hocus Pokémon",
+            "description": "Brock rarely meets a girl whom he doesn't find bewitching, but on encountering a particular young woman, even Ash and Misty can't deny that there is something magical about her.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep32_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep32_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Gm4atqEgVMk"
+        },
+        {
+            "id": "3e0cc113900a403e857f53f6ad114a66",
+            "season": "5",
+            "episode": "33",
+            "title": "As Clear as Crystal",
+            "description": "When a tangle with Team Rocket leaves Pikachu desperately exhausted, a young passerby offers to restore Pikachu's energy.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep33_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep33_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/xjPh2QajwXs"
+        },
+        {
+            "id": "bc59dc6bec1c40db930855d150f23a51",
+            "season": "5",
+            "episode": "34",
+            "title": "Same Old Song and Dance",
+            "description": "In the midst of their travels, Ash and friends meet up with a young girl who, along with her two Igglybuff assistants, stars in her own musical variety television program.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep34_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep34_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/2uJ4Qr9v4oQ"
+        },
+        {
+            "id": "65019dd3961b46a7b408850f3d086ca0",
+            "season": "5",
+            "episode": "35",
+            "title": "Enlighten Up",
+            "description": "As Ash and friends approach the site where Ash will earn his eighth badge, they fall victim to an unexpected Team Rocket trap.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep35_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep35_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/69KmNTqhvZ8"
+        },
+        {
+            "id": "adaca0dc8e964920a42668fec22ed8c9",
+            "season": "5",
+            "episode": "36",
+            "title": "Will the Real Oak Please Stand Up?",
+            "description": "Hearing of the posh reception prepared for the host and guest of a radio show to be recorded before a live audience, Jessie and James of Team Rocket quickly announce that they are in fact the long-awaited celebrities.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep36_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep36_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/dx8-ZccTHOY"
+        },
+        {
+            "id": "af61dd7e598a47598cbcf2a85709ba81",
+            "season": "5",
+            "episode": "37",
+            "title": "Wish Upon a Star Shape",
+            "description": "Ash, Misty, and Brock are traveling along when they notice a strange shape falling from the sky. They run in to investigate, but soon realized that they were not the only witnesses of this event.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep37_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep37_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/xMrBWjCGkCc"
+        },
+        {
+            "id": "e2caa20059074e2e8937cd258c7832f2",
+            "season": "5",
+            "episode": "38",
+            "title": "Outrageous Fortunes",
+            "description": "On meeting up with a proud Pokémon trainer who dares all comers to face his Poliwrath, Misty and Ash quickly rise to the challenge.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep38_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep38_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/_2FQu-gL0Ls"
+        },
+        {
+            "id": "22700425fa114c3381b7d26f93a46360",
+            "season": "5",
+            "episode": "39",
+            "title": "One Trick Phony",
+            "description": "Seeing that Ash just can't get enough battling, a trainer who loses to him suggests as she leaves that he give a local Pokémon battle park a try.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep39_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep39_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/GtpXTXahM9U"
+        },
+        {
+            "id": "035880f514e64c70a2d1984651b34fb9",
+            "season": "5",
+            "episode": "40",
+            "title": "I Politoed Ya So",
+            "description": "When Ash, Misty, and Brock pause for a quaint picnic by a lake, Politoed wanders off and is mistaken by another trainer for her own Politoed, the rhythm leader in her Pokémon cheerleading squad that had gone AWOL.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep40_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep40_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/gbMOZXS_gBk"
+        },
+        {
+            "id": "e3f7171234dd4249bb7e661fa8c73b16",
+            "season": "5",
+            "episode": "41",
+            "title": "Beauty is Skin Deep",
+            "description": "Finally reaching the outskirts of Blackthorn City, Ash pushes to quickly seek out the gym where he hopes to earn his final Johto badge.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep41_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep41_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/eD3CNYkogPU"
+        },
+        {
+            "id": "b528e0fc85fb40688d99e41036fe2976",
+            "season": "5",
+            "episode": "42",
+            "title": "Fangs For Nothing",
+            "description": "No sooner has Ash begun what he hopes will be his final gym battle in the Johto League than Team Rocket once again throws a wrench into his plans, making off with the Dragon Fang.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep42_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep42_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/at9uYV_B0S8"
+        },
+        {
+            "id": "1e8423895a7346f8a6f12810bab8a580",
+            "season": "5",
+            "episode": "43",
+            "title": "Great Bowls of Fire",
+            "description": "Immediately after entering an area considered sacrosanct by the Dragon Pokémon that dwell there, Team Rocket sets off a chain of events that enrages the area's Dragonite guardian.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep43_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep43_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/JS3g6yT9ihE"
+        },
+        {
+            "id": "27b553cfd80448749e7d48fba0debc0f",
+            "season": "5",
+            "episode": "44",
+            "title": "Better Eight Than Never",
+            "description": "Having finally seen stability restored to the Blackthorn Gym, Ash and Claire face off in a gym battle.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep44_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep44_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/u2TkmvL2tVI"
+        },
+        {
+            "id": "16de0b4b21154deeb460af07897b6f65",
+            "season": "5",
+            "episode": "45",
+            "title": "Why? Wynaut",
+            "description": "Having defeated Clair and earned his eighth gym badge, Ash must now set out for the Johto League championship, which he learns is to be held on Mt Silver in three months time.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep45_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep45_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Jwh9g1dapZM"
+        },
+        {
+            "id": "76bcbbe879374eb9ac1288c6e185a987",
+            "season": "5",
+            "episode": "46",
+            "title": "Just Add Water",
+            "description": "On the road back to New Bark Town, Ash and friends stop for a rest near the ocean. There they spot a sign advertising a synchronized Pokémon swimming event.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep46_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep46_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/IVtUczqbOqo"
+        },
+        {
+            "id": "b6e3bc8a173f430d8fc93b09441ea7ac",
+            "season": "5",
+            "episode": "47",
+            "title": "Lapras of Luxury",
+            "description": "Ash and friends return to New Bark Town, Professor Elm sends him on an errand to retrieve a Pokémon egg from a nearby marine Pokémon laboratory.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep47_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep47_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/lAtIfHIaKdk"
+        },
+        {
+            "id": "b58238e1122043309d46f375a3745973",
+            "season": "5",
+            "episode": "48",
+            "title": "Hatch Me If You Can",
+            "description": "Questions as to what Pokémon waits inside the egg Ash and friends have been carrying for Professor Elm are finally answered when it hatches into a Larvitar.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep48_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep48_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Vmo_dagskV4"
+        },
+        {
+            "id": "c48d95d2bbde4254ba1d3d389cf8e3e4",
+            "season": "5",
+            "episode": "49",
+            "title": "Entei at Your Own Risk",
+            "description": "As Ash and friends continue their travels with Larvitar, it remains wary of all other Pokémon and people, particularly of Misty.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep49_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep49_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/WBumqF5gwLE"
+        },
+        {
+            "id": "73bdce5f7ced40caa8b0074a8250c25e",
+            "season": "5",
+            "episode": "50",
+            "title": "A Crowning Achievement",
+            "description": "Brock leads Ash and Misty toward a beautiful lake he has read about in his guidebook, but when they arrive at its supposed location, they find nothing but a dried-up stream, surrounded by a number of thirsty Slowpoke.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep50_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep50_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/RjIIIbsePMY"
+        },
+        {
+            "id": "947070deed154f21b6977b2e8441e31f",
+            "season": "5",
+            "episode": "51",
+            "title": "Here's Lookin' at You, Elekid",
+            "description": "A troublesome Elekid begins harassing Larvitar only moments before Team Rocket swoops in and captures both rare Pokémon in a high-tensile steel net.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep51_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep51_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/xyRPYlKoV6Q"
+        },
+        {
+            "id": "ac3e5e0615b34eaf8c7ebd0167e4ebf4",
+            "season": "5",
+            "episode": "52",
+            "title": "You're a Star, Larvitar",
+            "description": "Ash and friends report back to Professor Elm as they reach the base of Mount Silver, where they hope to return their Larvitar to its birthplace.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep52_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep52_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/G6gKw8q0eCY"
         }
     ]
 }
