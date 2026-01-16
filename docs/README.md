@@ -4,8 +4,8 @@ I felt a lack of new episodes from [Seiya Dev.](https://github.com/seiya-dev/)'s
 Don't expect it to be constant, but I won't mind checking a pull request!
 
 # Waves
-Every wave will be released at 00:00 GMT. There will be 6 flash waves to catch up on content before the weekly waves.
-*Data may change anytime.
+There will be 6 flash waves to catch up on content before the weekly waves.
+*Information may change anytime.
 ## Current
 ### Base (Jan 15 2026)
 * Season 1 to Season 5 episode 30
