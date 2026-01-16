@@ -801,7 +801,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep09_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=inxZmZi0pEk"
+            "embed_url": "https://www.youtube.com/embed/inxZmZi0pEk"
         },
         {
             "id": "34bf284b2e914cb390912083b11c3d2a",
@@ -814,7 +814,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep10_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=7nbLB_KaSzE"
+            "embed_url": "https://www.youtube.com/embed/7nbLB_KaSzE"
         },
         {
             "id": "cc543a3421af433b9a6b5dd8a3f053bd",
@@ -827,7 +827,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep11_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=JoRU_94DxjE"
+            "embed_url": "https://www.youtube.com/embed/JoRU_94DxjE"
         },
         {
             "id": "f3ef73dad98b4df1ad794ceeb8886004",
@@ -840,7 +840,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep12_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=X2nCbKQodPs"
+            "embed_url": "https://www.youtube.com/embed/X2nCbKQodPs"
         }
     ]
 }
