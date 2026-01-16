@@ -34,7 +34,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep02_ss01_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=ZOSoQxSHKKE"
+            "embed_url": "https://www.youtube.com/embed/ZOSoQxSHKKE"
         },
         {
             "id": "7a1116f68ea44a35b81a148fa5012aa0",
@@ -60,7 +60,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep04_ss01_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=gfsT2uqJPOc"
+            "embed_url": "https://www.youtube.com/embed/gfsT2uqJPOc"
         },
         {
             "id": "cfe9f1e5b2f34b7db768933c46aefbd4",
@@ -73,7 +73,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep05_ss01_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=liZuy6ufYMs"
+            "embed_url": "https://www.youtube.com/embed/liZuy6ufYMs"
         },
         {
             "id": "c45d24fbdee84091a3a2a29596b07ff8",
@@ -86,7 +86,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep06_ss01_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=CIxj6cUMm7M"
+            "embed_url": "https://www.youtube.com/embed/CIxj6cUMm7M"
         },
         {
             "id": "3d863899d6d34d2cba0c0f8b50bbc771",
@@ -99,7 +99,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep07_ss01_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=3-144RjSRWI"
+            "embed_url": "https://www.youtube.com/embed/3-144RjSRWI"
         },
         {
             "id": "f16c392ab43d44d19e279eb3d434f155",
@@ -112,7 +112,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep08_ss01_360_206.png"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/watch?v=rbtybA7xT2M"
+            "embed_url": "https://www.youtube.com/embed/rbtybA7xT2M"
         }
     ]
 }
