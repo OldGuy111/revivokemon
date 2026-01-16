@@ -1,0 +1,118 @@
+{
+    "id": "twilight-wings",
+    "title": "Pokémon: Twilight Wings",
+    "description": "Leon visits the Isle of Armor in The Gathering of Stars, a special new episode of Pokémon: Twilight Wings, now on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/twilight-wings/twilight-wings-1125x1500-en.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/twilight-wings/the-gathering-of-stars-1660x940-en.jpg"
+    },
+    "category_id": 4,
+    "category": "specials",
+    "order": -1579097627,
+    "media": [
+        {
+            "id": "6bb975ffe5804f33b9937f1ac8137318",
+            "season": "",
+            "episode": "",
+            "title": "Episode 1: Letter",
+            "description": "The initial chapter of the new seven-episode animated series set in the Galar region is now available for you to enjoy.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep01_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep01_ss01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/rYDmL5VH-uk"
+        },
+        {
+            "id": "d345a727dbaa4fffb06dc2733994a5de",
+            "season": "",
+            "episode": "",
+            "title": "Episode 2: Training",
+            "description": "After losing to Galar’s Champion, Leon, Fighting-type Gym Leader Bea sets out with her Pokémon to elevate their training. Will she find her inner resolve and grow stronger, or will she succumb to the pressure of defeat?",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep02_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep02_ss01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/ZOSoQxSHKKE"
+        },
+        {
+            "id": "7a1116f68ea44a35b81a148fa5012aa0",
+            "season": "",
+            "episode": "",
+            "title": "Episode 3: Buddy",
+            "description": "Hop idolizes his older brother, Leon, who along with his partner Pokémon, Charizard, have earned the title of Champion. Wooloo, Hop’s partner Pokémon, is jealous of the admiration shown for Leon’s Charizard and decides to prove that it’s also worthy of the Champion title.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep03_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep03_ss01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/P0cXpOnfX6I"
+        },
+        {
+            "id": "545be45327aa46f7b54ddff3e7e315f3",
+            "season": "",
+            "episode": "",
+            "title": "Episode 4: Early-Evening Waves",
+            "description": "Nessa, an incredibly popular Gym Leader and model, has always strived to be the best. Her focus is split between the two professions, and Chairman Rose advises her to choose one path or the other if she truly wants to be number one. Will she sacrifice one dream in pursuit of the other?",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep04_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep04_ss01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/gfsT2uqJPOc"
+        },
+        {
+            "id": "cfe9f1e5b2f34b7db768933c46aefbd4",
+            "season": "",
+            "episode": "",
+            "title": "Episode 5: Assistant",
+            "description": "There’s never a moment’s rest for Oleana as she solves problems big and small to keep Galar running smoothly. But sometimes a break puts everything back in perspective and reminds us why we do what we do.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep05_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep05_ss01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/liZuy6ufYMs"
+        },
+        {
+            "id": "c45d24fbdee84091a3a2a29596b07ff8",
+            "season": "",
+            "episode": "",
+            "title": "Episode 6: Moonlight",
+            "description": "After getting into an argument with his friend John, Tommy wants to make amends. He enlists Allister, Galar’s Ghost-type Gym Leader, to help in a most unusual way.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep06_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep06_ss01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/CIxj6cUMm7M"
+        },
+        {
+            "id": "3d863899d6d34d2cba0c0f8b50bbc771",
+            "season": "",
+            "episode": "",
+            "title": "Episode 7: Sky",
+            "description": "The day of Leon’s Championship match has arrived, and thanks to John’s letter, all the kids at the hospital are invited to attend! But in his excitement, John oversleeps and almost misses his chance to go to the stadium. Will he be able to make it to the battle in time?",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep07_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep07_ss01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/3-144RjSRWI"
+        },
+        {
+            "id": "f16c392ab43d44d19e279eb3d434f155",
+            "season": "",
+            "episode": "",
+            "title": "Pokémon: Twilight Wings—The Gathering of Stars",
+            "description": "Leon heads to the Isle of Armor to meet with his former mentor, Mustard, and ask for his support. By gathering star Trainers from across Galar, he’ll create a tournament unlike any other!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep08_ss01.png",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/original/twilight-wings/twilight_wings_ep08_ss01_360_206.png"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/rbtybA7xT2M"
+        }
+    ]
+}
