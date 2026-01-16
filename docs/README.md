@@ -4,8 +4,9 @@ I felt a lack of new episodes from [Seiya Dev.](https://github.com/seiya-dev/)'s
 Don't expect it to be constant, but I won't mind checking a pull request!
 
 # Waves
-Every wave will be released at 00:00 GMT. There will be 6 flash waves to catch up on content before the weekly waves.
-*Data may change anytime.
+
+There will be 6 flash waves to catch up on content before the weekly waves.
+*Information may change anytime.
 ## Current
 ### Base (Jan 15 2026)
 * Season 1 to Season 5 episode 30
@@ -20,10 +21,10 @@ Every wave will be released at 00:00 GMT. There will be 6 flash waves to catch u
 ### Flash Wave 2 (Jan 21 2026)
 * Season 5 episodes 52 to 64
 * Pokémon Twilight Wings
+* Pokémon Kids TV Sing-a-long Songs
 ### Flash Wave 3 (Jan 24 2026)
 * Season 6 episodes 1 to 20
 * Pokémon Evolutions
-* Pokémon Kids TV Sing-a-long Songs
 ### Flash Wave 4 (Jan 27 2026)
 * Season 6 episodes 20 to 40
 * Pokémon Generations
