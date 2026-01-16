@@ -20,10 +20,10 @@ Every wave will be released at 00:00 GMT. There will be 6 flash waves to catch u
 ### Flash Wave 2 (Jan 21 2026)
 * Season 5 episodes 52 to 64
 * Pokémon Twilight Wings
+* Pokémon Kids TV Sing-a-long Songs
 ### Flash Wave 3 (Jan 24 2026)
 * Season 6 episodes 1 to 20
 * Pokémon Evolutions
-* Pokémon Kids TV Sing-a-long Songs
 ### Flash Wave 4 (Jan 27 2026)
 * Season 6 episodes 20 to 40
 * Pokémon Generations
