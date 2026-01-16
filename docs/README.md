@@ -21,7 +21,7 @@ There will be 6 flash waves to catch up on content before the weekly waves.
 * Season 5 episodes 52 to 64
 * Pokémon Twilight Wings
 * Pokémon Kids TV Sing-a-long Songs
-* ## Coming soon
+## Coming soon
 ### Flash Wave 3 (Jan 17 2026)
 * Season 6 episodes 1 to 20
 * Pokémon Evolutions
@@ -38,7 +38,7 @@ There will be 6 flash waves to catch up on content before the weekly waves.
 ### Weekly Wave 1 (Feb 8 2026)
 * Season 7 episodes 18 to 30
 
-and so stabilizes as 5 episodes per week.
+...and then it stabilizes, as shown below - 5 episodes every Sunday:
 ### Weekly Wave 2 (Feb 15 2026)
 * Season 7 episodes 31 to 35
 ### Weekly Wave 3 (Feb 22 2026)
