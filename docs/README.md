@@ -4,6 +4,7 @@ I felt a lack of new episodes from [Seiya Dev.](https://github.com/seiya-dev/)'s
 Don't expect it to be constant, but I won't mind checking a pull request!
 
 # Waves
+
 There will be 6 flash waves to catch up on content before the weekly waves.
 *Information may change anytime.
 ## Current
@@ -12,11 +13,11 @@ There will be 6 flash waves to catch up on content before the weekly waves.
 * Bidoof's Big Stand
 * Pokétoon
 * Pokémon Kids TV Nursery Rhymes
-## Coming soon
 ### Flash Wave 1 (Jan 18 2026)
 * New thumbnails for Season 5 episode 5 to 19
 * Season 5 episodes 31 to 52
 * Pokémon Kids TV Pokémon Fun
+## Coming soon
 ### Flash Wave 2 (Jan 21 2026)
 * Season 5 episodes 52 to 64
 * Pokémon Twilight Wings
