@@ -1,52 +1,8 @@
 ![A cartoon television with an eary orange creature with yellow cheeks, eyes, tiny nose and mouth inside. Its ears stick out. At the right of the screen stands the text REVIVOKÉMON in low caps italic.](https://github.com/OldGuy111/revivokemon/blob/master/revivokemon.png)
 
-I felt a lack of new episodes from [Seiya Dev.](https://github.com/seiya-dev/)'s client compared to the YouTube channel, so here I go trying to get it up to date!
-Don't expect it to be constant, but I won't mind checking a pull request!
+This is a Pokémon TV clone focused on thumbnail accuracy, access to series, specials and children's content and multiplatform support.
 
-# Waves
-
-There will be 6 flash waves to catch up on content before the weekly waves.
-*Information may change anytime.
-## Current
-### Base (Jan 15 2026)
-* Season 1 to Season 5 episode 30
-* Bidoof's Big Stand
-* Pokétoon
-* Pokémon Kids TV Nursery Rhymes
-### Flash Wave 1 (Jan 16 2026)
-* New thumbnails for Season 5 episode 5 to 19
-* Season 5 episodes 31 to 52
-* Pokémon Kids TV Pokémon Fun
-### Flash Wave 2 (Jan 16 2026)
-* Season 5 episodes 52 to 64
-* Pokémon Twilight Wings
-* Pokémon Kids TV Sing-a-long Songs
-## Coming soon
-### Flash Wave 3 (Jan 17 2026)
-* Season 6 episodes 1 to 20
-* Pokémon Evolutions
-### Flash Wave 4 (Jan 18 2026)
-* Season 6 episodes 20 to 40
-* Pokémon Generations
-### Flash Wave 5 (Jan 20 2026)
-* Season 7 episodes 1 to 12
-* Pokémon Kids TV Sleepy Time
-* Pokémon: Hisuian Snow
-### Flash Wave 6 (Jan 21 2026)
-* Season 7 episodes 13 to 17
-* Pokémon: Path to the Peak
-### Weekly Wave 1 (Feb 8 2026)
-* Season 7 episodes 18 to 30
-
-...and then it stabilizes, as shown below - 5 episodes every Sunday:
-### Weekly Wave 2 (Feb 15 2026)
-* Season 7 episodes 31 to 35
-### Weekly Wave 3 (Feb 22 2026)
-* Season 7 episodes 36 to 40
-### Weekly Wave 3 (Mar 1 2026)
-* Season 7 episodes 41 to 45
-
-...and so on.
+I will add content progressively.
 
 # The branches
 The *sandbox* contains more content than released and will probably have unfinished content, so expect nonfunctioning or malfunctioning episodes. The content will be finished from there and then sent to the *nightly* branch, which will be merged with *master*.
