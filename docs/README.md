@@ -1,6 +1,6 @@
 ![A cartoon television with an eary orange creature with yellow cheeks, eyes, tiny nose and mouth inside. Its ears stick out. At the right of the screen stands the text REVIVOKÉMON in low caps italic.](https://github.com/OldGuy111/revivokemon/blob/master/revivokemon.png)
 
-_I ended up forgetting this project and may not update things too soon._
+_Updates are not guaranteed. If you'd like to continue this project, open up a pull request!_
 
 The objective of this project is to not only reunite the available episodes of Pokémon: The Series, but also the specials and children's content available on YouTube on one single easy-to-access place.
 Don't expect it to be constant, but I won't mind checking a pull request!
