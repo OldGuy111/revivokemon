@@ -17,8 +17,10 @@ Below is the list of content. Movies and Pokémon Origins will not be added as t
 * Kids TV Pokémon Fun
 * Kids TV Sing-a-long Songs
 * Kids TV Sleepy Time (with ASMR bonuses!)
-## To do
 * Pokémon Evolutions
 * Pokémon: Hisuian Snow
 * Pokémon: Path to the Peak
-
+## To do
+* Episodes as they come
+* Extra Kids TV content
+* Download thumbnails (currently depends on pokemon.com leftovers)
