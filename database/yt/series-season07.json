@@ -1,0 +1,690 @@
+{
+    "id": "season07",
+    "title": "Pokémon: Advanced Challenge",
+    "description": "Is Ash up to the Advanced Challenge of facing both Team Magma and Team Aqua? Find out in the seventh season of Pokémon the Series, now on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season07/season07-1125x1500-en.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season07/season07-1660x940-en.png"
+    },
+    "category_id": 1.1,
+    "category": "series",
+    "order": -7000,
+    "media": [
+        {
+            "id": "26c3fc483581447bacd0ef5ddefa1297",
+            "season": "7",
+            "episode": "1",
+            "title": "What You Seed is What You Get",
+            "description": "Ash and friends are leaving Mauville City, but Ash wants to go to the Pokémon Gym in Lavaridge Town while May wants to compete in a Pokémon Contest at Fallarbor Town.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep01_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/2pfoBYZuqNQ"
+        },
+        {
+            "id": "fcb10be9ba5a4a008d30747858f40c17",
+            "season": "7",
+            "episode": "2",
+            "title": "Let Bagons Be Bagons",
+            "description": "Ash and friends are headed to Fallarbor Town when they are nearly hit by a Bagon jumping off a cliff.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep02_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep02_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/T49sUrSphFo"
+        },
+        {
+            "id": "4e6a38473c824d01af660ea207952959",
+            "season": "7",
+            "episode": "3",
+            "title": "The Princess and the Togepi",
+            "description": "Ash and friends welcome an old friend—Misty! She's received an invitation to a Togepi Festival, and is soon greeted by Team Rocket disguised as the operating committee for the festival.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep03_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep03_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Jnt-KrwZrtM"
+        },
+        {
+            "id": "890b5c6990db4f85b052ced1cb03ed7f",
+            "season": "7",
+            "episode": "4",
+            "title": "A Togepi Mirage",
+            "description": "Shedinja attacks Misty and friends, but they are protected by Togepi using Safeguard. Everyone is then transported into the Togepi Paradise, located inside the mirage floating above the temple.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep04_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep04_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/2rI8VcLwNJs"
+        },
+        {
+            "id": "92b54de0dedc47f3978558f80e3086da",
+            "season": "7",
+            "episode": "5",
+            "title": "Candid Camerupt",
+            "description": "Ash and his friends are walking through the desert when they pass out because of the heat. They are rescued by the Winstrate Family.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep05_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep05_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/L5M-k7uY0Sc"
+        },
+        {
+            "id": "a9d770596b454f1582e7cbbd08008ae7",
+            "season": "7",
+            "episode": "6",
+            "title": "Love at First Flight",
+            "description": "Ash and friends are still on their way to Fallarbor Town and stop by Lake May for a rest, where they spot an Illumise and some Volbeat practicing for the May Festival.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep06_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep06_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/MTUuko7U8v4"
+        },
+        {
+            "id": "ee4d749c9e6d47588ad3d78509d47949",
+            "season": "7",
+            "episode": "7",
+            "title": "I Feel Skitty!",
+            "description": "May is practicing for her next Pokémon Contest, when Torchic finds a Skitty in the bushes. May wants to catch it, but it's too sick to battle.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep07_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep07_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/v5HDHEgg4LE"
+        },
+        {
+            "id": "02313249bbec4589b115fc0cff3b2af9",
+            "season": "7",
+            "episode": "8",
+            "title": "Zig Zag Zangoose",
+            "description": "Ash and friends are traveling when a Zangoose runs up in front of them. It is followed by its Trainer, their old friend Nicolai. Ash challenges Nicolai to a Pokémon battle.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep08_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep08_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/zzdv8i-C7hE"
+        },
+        {
+            "id": "48c27a4ea6694c1aa828dde2cdcffc9d",
+            "season": "7",
+            "episode": "9",
+            "title": "Maxxed Out!",
+            "description": "Ash and friends stop at a Pokémon Center where May's Skitty pops out of its Poké Ball and causes trouble. A kid that looks a lot like comes up to yell at them—and his name is also Max!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep09_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep09_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/7mYYv3gWl30"
+        },
+        {
+            "id": "c8811f15c59b4962be4197fbd149e111",
+            "season": "7",
+            "episode": "10",
+            "title": "Pros and Con Artists",
+            "description": "May and friends finally arrive in Fallarbor Town, ready for the next Pokémon Contest.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep10_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep10_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/2VWgxqYZBsQ"
+        },
+        {
+            "id": "28d69ed6cfbc42659ae816770ce1c527",
+            "season": "7",
+            "episode": "11",
+            "title": "Come What May!",
+            "description": "May is competing in her second Pokémon Contest and manages to make it to the next round along with Drew, Grace, and a disguised Jessie.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep11_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep11_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/l8-iTLbvdPw"
+        },
+        {
+            "id": "6570e014aa3547aa87ab1c801586a0a0",
+            "season": "7",
+            "episode": "12",
+            "title": "Cheer Pressure",
+            "description": "Ash meets an old friend: Batcher from Mt. Lighthouse! He's a member of a pep squad school that cheers at Pokémon battles, led by a man named Sheridan.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep12_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep12_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/HniTh55mcaw"
+        },
+        {
+            "id": "cf9efb41acad4d34be4dc7ee17e6065a",
+            "season": "7",
+            "episode": "13",
+            "title": "Game Winning Assist",
+            "description": "Ash and friends are fleeing a group of rampaging Slugma along the Fiery Path, when they escape down a hill and end up on a Numel ranch.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep13_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep13_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/76uXWax_zXI"
+        },
+        {
+            "id": "3a1677a717ad495184f80756260e2aad",
+            "season": "7",
+            "episode": "14",
+            "title": "Fight for the Meteorite",
+            "description": "The gang rushes to the cable car headed up Mt. Chimney, boarding it just in time along with a disguised Team Rocket.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep14_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep14_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/BV7HiQ-gM2Y"
+        },
+        {
+            "id": "cbda32f0e9aa45f1907046869522eaee",
+            "season": "7",
+            "episode": "15",
+            "title": "Poetry Commotion!",
+            "description": "Ash and friends arrive in Lavaridge Town. Ash heads straight for the Gym, where the Gym Leader Flannery is running around on fire.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep15_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep15_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/9ZukR69jSPc"
+        },
+        {
+            "id": "ecd406f7c1af4d49a6d91ff92206b39a",
+            "season": "7",
+            "episode": "16",
+            "title": "Going, Going, Yawn",
+            "description": "Ash uses Corphish in his Gym battle with Flannery. Flannery chooses Magcargo first, which is defeated by Corphish's Crabhammer.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep16_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep16_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/IkVgfHVd6Lw"
+        },
+        {
+            "id": "238fe4d2c8a54695b4c22848f128b2cb",
+            "season": "7",
+            "episode": "17",
+            "title": "Going for a Spinda",
+            "description": "Ash decides to head to Petalburg City for his next Gym battle. On the road, the gang runs into a group of Spinda.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep17_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep17_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/ITAhonrAqUs"
+        },
+        {
+            "id": "e311312113904a40a32a7b6d44e11f2c",
+            "season": "7",
+            "episode": "18",
+            "title": "All Torkoal, No Play",
+            "description": "Ash and friends are walking through the Valley of Steel on their way to Petalburg Gym when they encounter a Torkoal being attacked by a Skarmory and several Magnemite.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep18_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep18_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/shvDwmo3BGc"
+        },
+        {
+            "id": "d08b87697f294ca3819ae7df74d90c62",
+            "season": "7",
+            "episode": "19",
+            "title": "Manectric Charge",
+            "description": "Ash and friends return to Mauville City, where they encounter a carnival run by Team Rocket. They let all their Pokémon out to enjoy the festivities, and Team Rocket tries to steal them.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep19_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep19_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/O10lC-EZ7RM"
+        },
+        {
+            "id": "642e1d72ba0c456c9cec079b4775f64a",
+            "season": "7",
+            "episode": "20",
+            "title": "Delcatty Got Your Tongue",
+            "description": "The kids are on their way to Verdanturf Town when they are waylaid by another Team Rocket scheme.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep20_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep20_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/9FYI6EMfc6w"
+        },
+        {
+            "id": "232e188758f84d149ee385c770d53ffc",
+            "season": "7",
+            "episode": "21",
+            "title": "Disaster of Disguise",
+            "description": "Drew loses a Pokémon battle to the mysterious \"Phantom,\" a masked Pokémon Trainer using a Dusclops.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep21_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep21_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/NA-E-IvIvdY"
+        },
+        {
+            "id": "4980093e814e4c5a94adc58a56b4096b",
+            "season": "7",
+            "episode": "22",
+            "title": "Disguise Da Limit",
+            "description": "Jessie is competing under an alias in a Contest, and her Dustox takes the lead in the first round.  May's Skitty fails to do a Blizzard attack, losing points and putting May behind.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep22_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep22_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/77dcb5ff26A"
+        },
+        {
+            "id": "c889d04174764b8897c68c89015b3ebe",
+            "season": "7",
+            "episode": "23",
+            "title": "Take the Lombre Home",
+            "description": "Ash and friends are headed to Petalburg City so he can earn his fifth Gym badge. They fall into yet another Team Rocket scheme to steal Pikachu but are saved by a wild Solrock.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep23_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep23_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/9UycZ16xXq4"
+        },
+        {
+            "id": "ac22a088432f4a3b8afba20ba413ef3a",
+            "season": "7",
+            "episode": "24",
+            "title": "True Blue Swablu",
+            "description": "May and friends are walking through the woods when they find a wounded Swablu. Swablu puts the kids to sleep with Sing, but Torchic wakes them up by pecking their noses.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep24_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep24_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/oETNQyNUjVo"
+        },
+        {
+            "id": "f8249e9db7b240d78872c0c188fc015b",
+            "season": "7",
+            "episode": "25",
+            "title": "Gulpin It Down",
+            "description": "Ash and friends are in a town close to Petalburg City, when their picnic is gobbled up by a passing Gulpin. They overhear an emergency announcement instructing everyone to evacuate.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep25_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep25_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/0UojMWLR7Os"
+        },
+        {
+            "id": "a1aa878048024ec889efa30fbc72e95f",
+            "season": "7",
+            "episode": "26",
+            "title": "Exploud and Clear",
+            "description": "Ash and friends are eating lunch in the woods when they notice that Treecko has wandered off. After failing to convince the Grass-type to come down from a tree, lunch is disrupted by a rampaging Loudred.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep26_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep26_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/2VfUg5sGuzE"
+        },
+        {
+            "id": "938216ad13054530a9c374950724a080",
+            "season": "7",
+            "episode": "27",
+            "title": "Go Go Ludicolo",
+            "description": "Ash and friends are almost to Petalburg City. Ash can't wait to battle Gym Leader Norman, while May and Max look forward to seeing their parents again.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep27_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep27_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/rQFcpOZtK44"
+        },
+        {
+            "id": "f86a4382332d4669a40a44be0be3e0d3",
+            "season": "7",
+            "episode": "28",
+            "title": "A Double Dilemma",
+            "description": "The friends arrive in North Petalburg and stop by the Pokémon Center. Team Rocket arrives in town and they decide to disguise themselves.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep28_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep28_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/eiqtx8BwxzI"
+        },
+        {
+            "id": "36d7d16f0fb1456eaceb019a9725563c",
+            "season": "7",
+            "episode": "29",
+            "title": "Love, Petalburg Style!",
+            "description": "Ash and friends finally arrive in Petalburg City. Ash heads to the Pokémon Center to take care of his team while everyone else visits May and Max's house.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep29_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep29_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/gTUZBqxN5dI"
+        },
+        {
+            "id": "7cf30260a494474b953f271700e169c7",
+            "season": "7",
+            "episode": "30",
+            "title": "Balance of Power",
+            "description": "Ash challenges Gym Leader Norman for a badge. While they battle, Team Rocket is busy digging a tunnel under the Gym.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep30_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep30_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/HpazzjHzrXE"
+        },
+        {
+            "id": "9f54251deea54348803e7382080bc5db",
+            "season": "7",
+            "episode": "31",
+            "title": "Six Pack Attack",
+            "description": "Ash and friends decide to visit Professor Birch. On the road they are nearly run over by Birch in his jeep, on his way to the port to pick up Professor Oak.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep31_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep31_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Yi2UVijDkOY"
+        },
+        {
+            "id": "94aafa4e23c74853b88850e46026cee7",
+            "season": "7",
+            "episode": "32",
+            "title": "The Bicker the Better",
+            "description": "The kids are on their way to Fortree City, but May is delaying them. Ash starts to argue with her, and the two kids continue to bicker as they walk. They are interrupted by a couple named Andi and Oscar, who challenge May and Ash to a tag battle.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep32_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep32_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Xe3DbAhmqPg"
+        },
+        {
+            "id": "a0e09ba66de64727bd65b0787f71c9db",
+            "season": "7",
+            "episode": "33",
+            "title": "Grass Hysteria!",
+            "description": "Ash and friends are lost in a forest when they are attacked by a Skarmory that kidnaps May.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep33_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep33_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/JmY_Gvak87s"
+        },
+        {
+            "id": "2ca0db89381d4e708d861ce6ff54bd4e",
+            "season": "7",
+            "episode": "34",
+            "title": "Hokey Poké Balls",
+            "description": "The kids arrive in a city where May lets her Bulbasaur to enjoy the scenery. Meanwhile, Team Rocket is at the Pokémon Center  making \"repairs\" to the transporter machine.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep34_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep34_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/VoioM-Cg7Mc"
+        },
+        {
+            "id": "c29194957fa341e494e38badab772e8a",
+            "season": "7",
+            "episode": "35",
+            "title": "Whiscash and Ash",
+            "description": "The kids have stopped at a lakeside camp site on their way to Fortree City. Ash trips and drops his badge case into the lake, where it is eaten up by a giant Whiscash.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep35_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep35_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Ml6QKFp0DvA"
+        },
+        {
+            "id": "7780b73a0e36468f8ac33fe4ca152c84",
+            "season": "7",
+            "episode": "36",
+            "title": "Me, Myself and Time",
+            "description": "The kids are crossing a mountain in the fog, and Ash trips and slides down a cliff with Pikachu. He encounters a mysterious woman singing a strange song.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep36_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep36_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/B8w-dsbLmnY"
+        },
+        {
+            "id": "db18760aff564b2e856621b29b1be534",
+            "season": "7",
+            "episode": "37",
+            "title": "A Fan with a Plan",
+            "description": "May is headed for the Rubello Town Pokémon Contest, where at least one ribbon is needed to enter.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep37_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep37_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/M5yu0OqOKMM"
+        },
+        {
+            "id": "1d9c3254947e4b8c85d99afc5d0d45b5",
+            "season": "7",
+            "episode": "38",
+            "title": "Cruisin' For a Losin'",
+            "description": "The Rubello Pokémon Contest begins! Savannah is still nervous, but May is overconfident.  Both of them do well in the first round performances.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep38_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep38_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/ILcequdWXfA"
+        },
+        {
+            "id": "dd9660bb995c44ce8a05a0f9fcf5031a",
+            "season": "7",
+            "episode": "39",
+            "title": "Pearls Are a Spoink's Best Friend",
+            "description": "The kids are eating breakfast when Skitty runs off and encounters a Spoink that has lost its pearl. The Spoink shows how it rolled away, so the kids help look around the forest.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep39_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep39_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/pLbLdJHpCTY"
+        },
+        {
+            "id": "e65ecf9a321a48a496fcd2dd3a142eab",
+            "season": "7",
+            "episode": "40",
+            "title": "That's Just Swellow",
+            "description": "While a competition is going on, Jessie and Meowth have been tricking Trainers into leaving their Pokémon behind for a special \"relaxing\" treatment. They trap the Pokémon into a net and prepare to run.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep40_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep40_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/sSRlIJVO5Cw"
+        },
+        {
+            "id": "22767cfc13554e029c829105f70e2fe4",
+            "season": "7",
+            "episode": "41",
+            "title": "Take This House and Shuppet",
+            "description": "Ash and friends are lost outside when it starts to rain. They eventually make their way to a mansion and get locked inside.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep41_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep41_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/UncvvO7nkFs"
+        },
+        {
+            "id": "f84d3d35112941168a9eef3ed00573ba",
+            "season": "7",
+            "episode": "42",
+            "title": "A Shroomish Skirmish",
+            "description": "Team Rocket is starving, and they end up stealing apples from a group of Shroomish. Some of the Shroomish become angry enough that they evolve into Breloom, then attack Team Rocket.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep42_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep42_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Y9kyY56aqUA"
+        },
+        {
+            "id": "7c19eca90f274a2ca8e9c2d5a69f153b",
+            "season": "7",
+            "episode": "43",
+            "title": "Unfair Weather Friends",
+            "description": "Ash and the gang are headed to Fortree City when it starts raining and then snowing. They run for shelter and meet a Castform who leads them onward.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep43_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep43_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/y373XlWpKfo"
+        },
+        {
+            "id": "4fe73363c04f4b99bd85f57c1fbb6507",
+            "season": "7",
+            "episode": "44",
+            "title": "Who's Flying Now?",
+            "description": "Ash and friends climb the steps to the Fortree City Gym—only to find out that the Gym Leader is busy in town with the Feather Carnival.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep44_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep44_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/1QwrRdxo2xQ"
+        },
+        {
+            "id": "4f178963b67a44a382536dbe7796f53c",
+            "season": "7",
+            "episode": "45",
+            "title": "Sky High Gym Battle!",
+            "description": "Ash begins his Gym battle with Winona by sending out Grovyle against her Altaria. Grovyle takes out Altaria with Leaf Blade. Next up is Pelipper, a Water-and-Flying-type Pokémon.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep45_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep45_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/smKMys6Kmjg"
+        },
+        {
+            "id": "02a0c077cbeb4d8394c71562543dfd41",
+            "season": "7",
+            "episode": "46",
+            "title": "Lights, Camerupt, Action!",
+            "description": "Ash is ready for his next badge—which means heading to Mossdeep City. To get there, Ash and friends will need to take the ferry in Lilycove City.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep46_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep46_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/WmGKZSkQ1HU"
+        },
+        {
+            "id": "8d0ebd17a8874f3c8dd360156236582a",
+            "season": "7",
+            "episode": "47",
+            "title": "Crazy as a Lunatone",
+            "description": "Ken and Mary of the Pokémon Mystery Club are once again looking for a Pokémon from outer space, checking the site of a meteor crash.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep47_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep47_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/JNj9cR_h_f8"
+        },
+        {
+            "id": "ffd70f82a05742c0bf0c6c6ac9087344",
+            "season": "7",
+            "episode": "48",
+            "title": "The Garden of Eatin'",
+            "description": "The kids have stopped by the Banana Slakoth Garden on their way to Lilycove City, but the gate is closed and the trees have no fruit on them.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep48_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep48_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/DMcsIpB14P4"
+        },
+        {
+            "id": "4eb91c92b1fe4cca93f11ba2a381bcac",
+            "season": "7",
+            "episode": "49",
+            "title": "A Scare to Remember",
+            "description": "As Ash and friends walk to Lilycove City, a tree comes crashing down in front of them—pushed over by Team Rocket in their newest giant robot!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep49_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep49_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/e___K3UvMF4"
+        },
+        {
+            "id": "849a88c85b0a45f094ee489bf4ff33f3",
+            "season": "7",
+            "episode": "50",
+            "title": "PokéBlock, Stock, and Berry",
+            "description": "The kids finally arrive in Lilycove City, and Ash is starving. They decide to head to a restaurant that serves omelets, but Pikachu runs off, leading them to the berry market.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep50_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep50_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/TtK4iJDnPeg"
+        },
+        {
+            "id": "4527bdfed8f34ceeafe542d5aaf6d0a3",
+            "season": "7",
+            "episode": "51",
+            "title": "Lessons in Lilycove",
+            "description": "Combusken's Fire Spin is spiraling out of control in the Lilycove Contest Hall. Combusken protects May, who takes control by having the Fire- and Fighting-type unleash a fireball and perform Sky Uppercut.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep51_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep51_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/B74zCwAIKeI"
+        },
+        {
+            "id": "57e767b5399d48f69d4186ccb8269bff",
+            "season": "7",
+            "episode": "52",
+            "title": "Judgment Day!",
+            "description": "The kids are running for the ferry to Lilycove and jump on the boat they see leaving only to discover it's actually a boat to Bomba Island. Once they arrive on the island, they meet a young Trainer named Jimmy.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep52_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep52_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/99HJRv6TDvE"
+        }
+    ]
+}
