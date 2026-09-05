@@ -27,6 +27,11 @@ Below is the list of content. Movies and Pokémon Origins will not be added as t
 * Extra Kids TV content
 * Download thumbnails (currently depends on pokemon.com leftovers)
 * Terms of Use and Privacy Policy
+* UI revamp
+  * Home screen
+* Region-specific content
+* "Stunts" (check database/us folder)
+* Find a way to change video languages on YT embeds
 
 # Original description
 ## Pokemon TV
