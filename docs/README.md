@@ -26,6 +26,7 @@ Below is the list of content. Movies and Pokémon Origins will not be added as t
 * Episodes as they come
 * Extra Kids TV content
 * Download thumbnails (currently depends on pokemon.com leftovers)
+* Terms of Use and Privacy Policy
 
 # Original description
 ## Pokemon TV
