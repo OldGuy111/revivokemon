@@ -1,0 +1,690 @@
+{
+    "id": "season08",
+    "title": "Pokémon: Advanced Battle",
+    "description": "Groudon, Kyogre, the Grand Festival, the Hoenn League—what DOESN’T Ash deal with in the eighth season of Pokémon the Series? See it now on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-1125x1500-en.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season08/season08-1660x940-en.png"
+    },
+    "category_id": 1.1,
+    "category": "series",
+    "order": -8000,
+    "media": [
+        {
+            "id": "e90459c420884fdab5ba7ed98cf3f59b",
+            "season": "8",
+            "episode": "1",
+            "title": "Clamperl of Wisdom",
+            "description": "Our heroes reconnect with an unlucky Spoink, and it's still having trouble holding onto its pearl!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep01_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/gP1uHA39ksc"
+        },
+        {
+            "id": "47e013fcff4a4dfa9f25419cfb91d8eb",
+            "season": "8",
+            "episode": "2",
+            "title": "The Relicanth Really Can",
+            "description": "Ash and friends join a treasure hunter to explore the deep sea, but Team Rocket is right behind them!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep02_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep02_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/T2_caCZ99q0"
+        },
+        {
+            "id": "09b4441171e14c9aadaad63e05c837c1",
+            "season": "8",
+            "episode": "3",
+            "title": "The Evolutionary War",
+            "description": "When a Gorebyss-versus-Huntail rivalry develops between two islands, our heroes must get to the bottom of it!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep03_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep03_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/5bpEtQgYO-g"
+        },
+        {
+            "id": "6466df3be5494120ba9829b50a984e4b",
+            "season": "8",
+            "episode": "4",
+            "title": "Training Wrecks",
+            "description": "The residents of Muscle Island are dedicated to physical fitness—but can they keep up with Ash in a Pokémon battle?",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep04_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep04_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/3VLIapc3EHY"
+        },
+        {
+            "id": "fa5d8a5730894373958a7c2a17d90661",
+            "season": "8",
+            "episode": "5",
+            "title": "Gaining Groudon",
+            "description": "After a rescue at sea, our heroes find themselves aboard Team Magma's submarine and learn more about the group's plan for world domination!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep05_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep05_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/D-Yw-SZ3wNU"
+        },
+        {
+            "id": "a5f5c07c17b7429c9e438fae6787e865",
+            "season": "8",
+            "episode": "6",
+            "title": "The Scuffle of Legends",
+            "description": "Team Aqua and Team Magma have awakened the ancient Legendary Pokémon Groudon and Kyogre! Can Ash and friends escape?",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep06_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep06_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/huscOMa-6vY"
+        },
+        {
+            "id": "d17612c4a1794ab283b8d56bcbf841f2",
+            "season": "8",
+            "episode": "7",
+            "title": "It's Still Rocket Roll to Me",
+            "description": "A Team Rocket strike on Mossdeep City drags our heroes—plus the city's twin Gym Leaders—into a space-shuttle scheme!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep07_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep07_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/2O1nhl_klDI"
+        },
+        {
+            "id": "e750779e5e824697a6b0023d7170f560",
+            "season": "8",
+            "episode": "8",
+            "title": "Solid as a Solrock",
+            "description": "Ash takes on the Mossdeep Gym, going up against two Gym Leaders at once!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep08_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep08_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/oc7Y2cZrcOY"
+        },
+        {
+            "id": "5faa2059578a4337a7d14f39f843984c",
+            "season": "8",
+            "episode": "9",
+            "title": "Vanity Affair",
+            "description": "After winning his seventh Gym badge, Ash can't stop bragging about his battle skills…until he runs into a member of the Elite Four!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep09_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep09_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/v7lnr9dKrhA"
+        },
+        {
+            "id": "38f1d65f70f74cd5b22470832a757b78",
+            "season": "8",
+            "episode": "10",
+            "title": "Where's Armaldo?",
+            "description": "In an island nature preserve, Ash and friends come face to face with several Pokémon thought to be extinct!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep10_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep10_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/g3Ntlgmg_lw"
+        },
+        {
+            "id": "7936c192dbfb4632949b7e88b2c834af",
+            "season": "8",
+            "episode": "11",
+            "title": "A Cacturne for the Worse",
+            "description": "May competes in a Pokémon Contest, where another Coordinator tries to sabotage her performance!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep11_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep11_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Z4HnESWD8lk"
+        },
+        {
+            "id": "4d77442981ad4779a2c8c8f8a5c51c14",
+            "season": "8",
+            "episode": "12",
+            "title": "Claydol Big and Tall",
+            "description": "When our heroes discover an enormous Poké Ball on an island, Team Rocket's meddling unleashes an ancient destructive force!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep12_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep12_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/jmc_ECxRw0g"
+        },
+        {
+            "id": "1183273ee04345d2983b87bd10734961",
+            "season": "8",
+            "episode": "13",
+            "title": "Once in a Mawile",
+            "description": "Ash and friends meet a talented Trainer who performs a ribbon dance with her Mawile…until Team Rocket gets in the way!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep13_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep13_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/WDXyUZwoNf0"
+        },
+        {
+            "id": "897cd76db4ba4cdd923115747eb2bc35",
+            "season": "8",
+            "episode": "14",
+            "title": "Beg, Burrow, and Steal",
+            "description": "To help a local researcher, our heroes explore a massive underground labyrinth created by a group of Trapinch…and get into some trouble along the way!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep14_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep14_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/bjVqovCvUW0"
+        },
+        {
+            "id": "fd34cf92bff24ab187aa4992e36a8ee2",
+            "season": "8",
+            "episode": "15",
+            "title": "Absol-ute Disaster",
+            "description": "An Absol appears to warn a village of danger, but the villagers think it's the one causing the trouble! Can our heroes clear up this misunderstanding?",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep15_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep15_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/CeOOVTvj5QE"
+        },
+        {
+            "id": "e6fd37460ca943db87e3fc30c38f832a",
+            "season": "8",
+            "episode": "16",
+            "title": "Let It Snow, Let It Snow, Let It Snorunt!",
+            "description": "When a mischievous Snorunt steals Ash's hard-earned Gym badges, Ash chases after it—right into a raging snowstorm!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep16_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep16_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/x8ZxeIv84rU"
+        },
+        {
+            "id": "7095a5b227cc415c957a5e5e332d7c28",
+            "season": "8",
+            "episode": "17",
+            "title": "Do I Hear a Ralts?",
+            "description": "Max finds an injured Ralts and tries to get it to a Pokémon Center, but its friends Gardevoir and Kirlia think our heroes are trying to steal it!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep17_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep17_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/dvqprWyLQOU"
+        },
+        {
+            "id": "9d9feef6a5014894ac0d895a655e81bd",
+            "season": "8",
+            "episode": "18",
+            "title": "The Great Eight Fate!",
+            "description": "Ash gets ready for his final Gym battle in the Hoenn region: a Double Battle against Gym Leader Juan, who used to be a Pokémon Coordinator!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep18_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep18_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/yaH8cvHueH8"
+        },
+        {
+            "id": "579bc822874a4e33a28225c89497b6c6",
+            "season": "8",
+            "episode": "19",
+            "title": "Eight Ain't Enough",
+            "description": "Ash and Juan battle it out in the Sootopolis Gym! Can Ash win his eighth Gym badge to qualify for the Hoenn League?",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep19_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep19_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/rNm1Hx8aL9k"
+        },
+        {
+            "id": "feff161f13a34e0e84485f0769a2008e",
+            "season": "8",
+            "episode": "20",
+            "title": "Showdown At Linoone!",
+            "description": "When May discovers that two of her Poké Balls are missing, she naturally assumes it's Team Rocket! But the culprit could be someone else entirely…",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep20_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep20_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/3euRZiq7iPw"
+        },
+        {
+            "id": "de87e6df7825486bb97b9e983bf47566",
+            "season": "8",
+            "episode": "21",
+            "title": "Who, What, When, Where, Wynaut?",
+            "description": "When Team Rocket interrupts a practice battle between May and her rival Drew, our heroes and their Pokémon have to sort out a big mix-up!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep21_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep21_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/DZ9B04aWBsw"
+        },
+        {
+            "id": "57952f1f8bd346ec82fe00f8173377e1",
+            "season": "8",
+            "episode": "22",
+            "title": "Date Expectations",
+            "description": "Our heroes are delayed by a herd of Donphan on their way to Pacifidlog Town! Can May make it onto the ferry in time for her final Pokémon Contest?",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep22_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep22_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/rK0dGpYj-38"
+        },
+        {
+            "id": "4067be446d824461be99c3a685d16909",
+            "season": "8",
+            "episode": "23",
+            "title": "Mean With Envy",
+            "description": "May enters the Pacifidlog Contest, where she goes up against rivals Joshua and Erica, plus a mysterious competitor known only as \"The Jester\"…",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep23_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep23_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/BUigSKj7acM"
+        },
+        {
+            "id": "51914103ec364839bda81ced5495bcce",
+            "season": "8",
+            "episode": "24",
+            "title": "Pacifidlog Jam",
+            "description": "May competes against an unusual Meowth in the second round of the Pacifidlog Contest. Can she win the last ribbon she needs to qualify for the Grand Festival?",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep24_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep24_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/33nUBmAPJrU"
+        },
+        {
+            "id": "9943dc5f3780495498913a6e5bd1d4d6",
+            "season": "8",
+            "episode": "25",
+            "title": "Berry, Berry Interesting",
+            "description": "When our heroes stumble upon a wonderful berry harvest, May takes the opportunity to make some Pokéblocks for the Grand Festival, drawing the attention of a hungry Munchlax!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep25_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep25_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Evffx_CQ13g"
+        },
+        {
+            "id": "5563c84b1865474fa9a0ac27a2a4b03a",
+            "season": "8",
+            "episode": "26",
+            "title": "Less Is Morrison",
+            "description": "Ash meets Morrison, another Trainer who's on his way to compete in the Hoenn League, and the two immediately become fierce rivals!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep26_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep26_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/YupMZYgEUMA"
+        },
+        {
+            "id": "bb73d5991be14789b2c11322369e4ff2",
+            "season": "8",
+            "episode": "27",
+            "title": "The Ribbon Cup Caper!",
+            "description": "Aboard a luxury liner bound for Slateport City and the Grand Festival, our heroes must help Officer Jenny catch a master thief!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep27_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep27_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/IErQ8ke8J0M"
+        },
+        {
+            "id": "8e1c237450f7422b956b7613aa15e7e7",
+            "season": "8",
+            "episode": "28",
+            "title": "Hi Ho Silver Wind!",
+            "description": "On the first day of the Grand Festival, May runs into her deceitful rival Harley once more!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep28_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep28_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/c7gKmm277pk"
+        },
+        {
+            "id": "e7030b72b5914b6caa631291e54249b3",
+            "season": "8",
+            "episode": "29",
+            "title": "Deceit and Assist",
+            "description": "Ash meets a Coordinator whose ribbons have been stolen, and May listens to some bad advice before her first performance in the Grand Festival!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep29_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep29_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/aCVJPxVJmIo"
+        },
+        {
+            "id": "ab516539b7894cf798534039ef662c3c",
+            "season": "8",
+            "episode": "30",
+            "title": "Rhapsody in Drew",
+            "description": "May is up against Harley in the second round of the Grand Festival! Can she triumph over his treacherous tactics?",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep30_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep30_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/DH65pqFGICQ"
+        },
+        {
+            "id": "2650fff53307403b9867bca26c4bc352",
+            "season": "8",
+            "episode": "31",
+            "title": "Island Time",
+            "description": "When our heroes win free tickets to Ever Grande City for the Hoenn League Championships, they're delighted—until it becomes clear this is another of Team Rocket's schemes!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep31_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep31_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/kH2dAtXuUlE"
+        },
+        {
+            "id": "11e1ad386cb24c3a9877221d3d0daff0",
+            "season": "8",
+            "episode": "32",
+            "title": "Like a Meowth to a Flame",
+            "description": "While training for the Hoenn League, Ash meets fellow Trainer Tyson and his Meowth in boots, and they discover that the ceremonial torch has been stolen!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep32_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep32_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/zA4N2y8-UBQ"
+        },
+        {
+            "id": "999014a0be704d63ae889180feb40618",
+            "season": "8",
+            "episode": "33",
+            "title": "Saved by the Beldum",
+            "description": "Ash, Morrison, and Tyson register for the Hoenn League, and it appears that Tyson's Meowth has an unfortunate past…",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep33_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep33_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/RLWhw6-CC6c"
+        },
+        {
+            "id": "5fcd77fb553d491ba87dc1e351ec7166",
+            "season": "8",
+            "episode": "34",
+            "title": "From Brags to Riches",
+            "description": "In the qualifying rounds, Ash faces a serious challenge: he has to win three matches in a row, and each match is a Double Battle!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep34_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep34_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Uoy7eA9HYL4"
+        },
+        {
+            "id": "dd406fa0fad6455993479886ba5de6f8",
+            "season": "8",
+            "episode": "35",
+            "title": "Shocks and Bonds",
+            "description": "Ash has made it through the qualifying rounds, but now he faces an impressive Trainer named Katie in a full battle, where both of them will use all six of their Pokémon!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep35_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep35_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/whZ3siIUPxo"
+        },
+        {
+            "id": "7b98b855f89b437e92dad05e4a17331d",
+            "season": "8",
+            "episode": "36",
+            "title": "A Judgment Brawl",
+            "description": "Ash has fallen behind in his full battle against Katie! Can he recover and make it to the second round?",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep36_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep36_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/9zH0hV_eSmk"
+        },
+        {
+            "id": "2289beb34609495ba55016d21ef33eb4",
+            "season": "8",
+            "episode": "37",
+            "title": "Choose It or Lose It",
+            "description": "Ash faces his friend and rival Morrison in the second round of the Hoenn League!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep37_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep37_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/rJ-08x9gpIc"
+        },
+        {
+            "id": "d360505677844a928d61e168b642e9ea",
+            "season": "8",
+            "episode": "38",
+            "title": "At the End of the Fray",
+            "description": "Ash goes up against his rival Tyson in the quarterfinals of the Hoenn League!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep38_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep38_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/cJjHFetMqn8"
+        },
+        {
+            "id": "d58b79d3c4f64f3594e49e9742d4eef9",
+            "season": "8",
+            "episode": "39",
+            "title": "The Scheme Team",
+            "description": "The Hoenn League is over, and it's time for Ash to bid farewell to his traveling companions and head home—but he can't resist one more challenge from a Gym Leader along the way!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep39_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep39_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/PXnxmYXMUG0"
+        },
+        {
+            "id": "aa0785c0083147ddb085183a62d918fa",
+            "season": "8",
+            "episode": "40",
+            "title": "The Right Place and the Right Mime",
+            "description": "Max and May come to visit Ash in Pallet Town, along with Misty and Brock, and they all make plans for another journey together—this time, to the Battle Frontier!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep40_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep40_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/6kZ6MqbfAP4"
+        },
+        {
+            "id": "8aa74edb91e445499baf27d482564054",
+            "season": "8",
+            "episode": "41",
+            "title": "A Real Cleffa-Hanger",
+            "description": "Our heroes stop for a picnic at the base of Mt. Moon, where they encounter the rarely seen Cleffa, Clefairy, and Clefable!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep41_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep41_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/TNqGc-KpmMs"
+        },
+        {
+            "id": "96272810447a456dbe7b01053a97a2a4",
+            "season": "8",
+            "episode": "42",
+            "title": "Numero Uno Articuno",
+            "description": "On the way to Ash's first match at the Battle Frontier, our heroes see the Legendary Pokémon Articuno flying through a snowstorm!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep42_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep42_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/ScoDg1dSHDg"
+        },
+        {
+            "id": "e9ab66b6c5d04d838341a669a5430ba8",
+            "season": "8",
+            "episode": "43",
+            "title": "The Symbol Life",
+            "description": "Ash calls in his old friend Charizard to help in his battle against Frontier Brain Noland and his friend Articuno!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep43_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep43_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/RR0v4WO0ZGg"
+        },
+        {
+            "id": "f1322864088b4ebfa4a75b1c00578559",
+            "season": "8",
+            "episode": "44",
+            "title": "Hooked on Onix",
+            "description": "Provoked by Team Rocket, hordes of Rock-type Pokémon attack our heroes on their way to the Battle Arena!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep44_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep44_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/xbxQJEjhVew"
+        },
+        {
+            "id": "c4eb9e66716b4807bfb23df8fd216ab9",
+            "season": "8",
+            "episode": "45",
+            "title": "Rough, Tough Jigglypuff",
+            "description": "Ash and friends fall into a trap set by a man who wants to catch a Jigglypuff for his daughter's birthday!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep45_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep45_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/F4GsWlJrHrQ"
+        },
+        {
+            "id": "b28764e59b684382b2b67feb7a45ac23",
+            "season": "8",
+            "episode": "46",
+            "title": "On Cloud Arcanine",
+            "description": "May and her rival Drew go after the same Arcanine, both hoping to catch it for their next Contest!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep46_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep46_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/41ByisvmsNc"
+        },
+        {
+            "id": "4252d8e14d99417ebef5ba55cd49155d",
+            "season": "8",
+            "episode": "47",
+            "title": "Sitting Psyduck",
+            "description": "Ash and friends rescue a sad Psyduck from a group of Fighting types, but they can't figure out how to cheer it up…",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep47_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep47_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/zhDxsV3xEnc"
+        },
+        {
+            "id": "ef99d089f9484a5fa362f7497c200e00",
+            "season": "8",
+            "episode": "48",
+            "title": "Hail to the Chef!",
+            "description": "Our heroes and Team Rocket check out a new restaurant owned by two sisters who can't stop squabbling!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep48_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep48_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/AnKuxbFS6Vk"
+        },
+        {
+            "id": "46cb9fac081949a4b8cbbc3f1165e73d",
+            "season": "8",
+            "episode": "49",
+            "title": "Caterpie's Big Dilemma",
+            "description": "After a scientific experiment goes awry, Ash and friends try to track down a Caterpie that has grown to enormous proportions!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep49_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep49_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/FqCAaC_wUWA"
+        },
+        {
+            "id": "373c1910bc964577ae7b7c643b05cf98",
+            "season": "8",
+            "episode": "50",
+            "title": "The Saffron Con",
+            "description": "Our heroes are in Saffron City for May's first Pokémon Contest in the Kanto region—and her shady rival Harley is competing, too!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep50_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep50_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/wsI4JwjErmA"
+        },
+        {
+            "id": "7ea75aec42ef410d928d5c380bc3c616",
+            "season": "8",
+            "episode": "51",
+            "title": "A Hurdle for Squirtle",
+            "description": "The Saffron Pokémon Contest is under way! Can May win her first ribbon in the Kanto region?",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep51_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep51_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/qQDWePTWo58"
+        },
+        {
+            "id": "4dd6879037ce43f8a4cfaa946e082037",
+            "season": "8",
+            "episode": "52",
+            "title": "Pasta la Vista!",
+            "description": "Ash checks out the Fighting Dojo in Saffron City and ends up getting recruited as a new student!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep52_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep52_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/6TilMinUomI"
+        }
+    ]
+}
