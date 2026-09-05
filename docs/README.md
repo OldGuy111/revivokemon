@@ -1,4 +1,6 @@
 ![A cartoon television with an eary orange creature with yellow cheeks, eyes, tiny nose and mouth inside. Its ears stick out. At the right of the screen stands the text REVIVOKÉMON in low caps italic.](https://github.com/OldGuy111/revivokemon/blob/master/revivokemon.png)
+# Revivokémon
+**REVIVOKÉMON HAS BEEN OFFICIALY RELEASED!**
 
 YouTube isn't a good way to watch Pokémon episodes and seiyadev's pokemon-tv:
 * removes the original covers and descriptions, and
