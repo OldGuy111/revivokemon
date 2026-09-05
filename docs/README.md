@@ -6,7 +6,7 @@ YouTube isn't a good way to watch Pokémon episodes and seiyadev's pokemon-tv:
 
 That's where Revivokémon comes in.
 # Content
-Movies will not be added as they are not available on YouTube officially.
+Below is the list of content. Movies and Pokémon Origins will not be added as they are not available on YouTube officially.
 ## Done content
 * Season 1 to 10 - as far as September 5th, 2026
 * Pokémon Generations
@@ -16,9 +16,11 @@ Movies will not be added as they are not available on YouTube officially.
 * Kids TV Nursery Rhymes
 * Kids TV Pokémon Fun
 * Kids TV Sing-a-long Songs
-## To do
-* Pokémon Origins
+* Kids TV Sleepy Time (with ASMR bonuses!)
 * Pokémon Evolutions
 * Pokémon: Hisuian Snow
 * Pokémon: Path to the Peak
-* Kids TV Sleepy Time
+## To do
+* Episodes as they come
+* Extra Kids TV content
+* Download thumbnails (currently depends on pokemon.com leftovers)
