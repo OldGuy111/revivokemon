@@ -4,7 +4,7 @@ YouTube isn't a good way to watch Pokémon episodes and seiyadev's pokemon-tv:
 * removes the original covers and descriptions, and
 * doesn't have specials nor Pokémon Kids TV content.
 
-That's where Revivokémon comes in.
+That's where Revivokémon comes in. I hope you like it!
 # Content
 Below is the list of content. Movies and Pokémon Origins will not be added as they are not available on YouTube officially.
 ## Done content
@@ -24,3 +24,15 @@ Below is the list of content. Movies and Pokémon Origins will not be added as t
 * Episodes as they come
 * Extra Kids TV content
 * Download thumbnails (currently depends on pokemon.com leftovers)
+
+# Original description
+## Pokemon TV
+- [Official Pokemon TV is dead](https://www.pokemon.com/us/pokemon-news/pokemon-tv-to-discontinue-in-march-2024)
+
+## Pokemon TV viewer
+- [Watch PTV](https://poke-tv.vercel.app/)
+
+## Warning about scammers 
+Official domain for this project is [poke-tv.vercel.app](https://poke-tv.vercel.app/), all others can be or maybe created by scammers
+
+
