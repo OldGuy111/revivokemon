@@ -56,8 +56,8 @@
             "title": "ASMR: Hanging Out with Piplup",
             "description": "ASMR is a soothing sound that is comfortable to listen to. Hang out with Piplup, lounging around and trying to behave... most of the time. (Wearing headphones is recommended!)",
             "images": {
-                "large": "web/img/piplup_cover.jpg",
-                "medium": "web/img/piplup_206p.jpg"
+                "large": "img/piplup_cover.jpg",
+                "medium": "img/piplup_206p.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/TUS6KQOzRVA"
@@ -69,8 +69,8 @@
             "title": "ASMR: Pikachu by the Patio",
             "description": "ASMR is a soothing sound that is comfortable to listen to. Spend the afternoon with Pikachu! (Wearing headphones is recommended!)",
             "images": {
-                "large": "web/img/pikachu_cover.jpg",
-                "medium": "web/img/pikachu_206p.jpg"
+                "large": "img/pikachu_cover.jpg",
+                "medium": "img/pikachu_206p.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/T1O3VzZR0iQ"
