@@ -22,11 +22,11 @@ Below is the list of content. Movies and Pokémon Origins will not be added as t
 * Pokémon Evolutions
 * Pokémon: Hisuian Snow
 * Pokémon: Path to the Peak
+* [Terms of Use and Privacy Policy](https://github.com/OldGuy111/revivokemon/wiki)
 ## To do
 * Episodes as they come
 * Extra Kids TV content
 * Download thumbnails (currently depends on pokemon.com leftovers)
-* Terms of Use and Privacy Policy
 * UI revamp
   * Home screen
 * Region-specific content

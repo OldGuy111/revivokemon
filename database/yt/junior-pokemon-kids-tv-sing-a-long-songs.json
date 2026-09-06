@@ -243,6 +243,32 @@
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/lxiiVhnEG4I"
+        },
+        {
+            "id": "HowDidThatEvenHappen",
+            "season": "",
+            "episode": "",
+            "title": "Chansey, Come Back!",
+            "description": "Deep in the grass of the Safari Zone lives a Pokémon that calls the jungle home - Chansey!",
+            "images": {
+                "large": "img/chansey_cover.jpg",
+                "medium": "img/chansey_206p.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/09_YtlDyChE"
+        },
+        {
+            "id": "SomethingsOffWithTheLooks",
+            "season": "",
+            "episode": "",
+            "title": "My Buddy Growlithe",
+            "description": "My buddy Growlithe, adventuring we'll go♪ This is the \"Growlithe Song\", a song full of Growlithe's charm. Let's sing together!",
+            "images": {
+                "large": "img/growlithe_cover.jpg",
+                "medium": "img/growlithe_206p.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/ByVIq88cYPo"
         }
     ]
 }

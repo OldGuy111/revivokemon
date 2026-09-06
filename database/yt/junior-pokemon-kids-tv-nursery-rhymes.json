@@ -243,6 +243,45 @@
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/-wFx85q_KQE"
+        },
+        {
+            "id": "YIPPEEIPPYAYE",
+            "season": "",
+            "episode": "",
+            "title": "She'll Be Coming 'Round the Mountain",
+            "description": "Pikachu and friends are coming 'round the mountain! Who will join the fun? Let's sing together♪",
+            "images": {
+                "large": "img/round_cover.jpg",
+                "medium": "img/round_206p.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/sr5RXQlFrjo"
+        },
+        {
+            "id": "TheEggDidntEvenCrack",
+            "season": "",
+            "episode": "",
+            "title": "Humpty Dumpty",
+            "description": "It's the English nursery rhyme “Humpty Dumpty.” Three Togepi are sitting on a wall and...? Let's sing along together!",
+            "images": {
+                "large": "img/humpty_cover.jpg",
+                "medium": "img/humpty_206p.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/7Q3mPPBudds"
+        },
+        {
+            "id": "ItsABoyIMeanAPenguin",
+            "season": "",
+            "episode": "",
+            "title": "Little Boy Blue",
+            "description": "Little boy blue come blow your horn♪ Let's sing together!",
+            "images": {
+                "large": "img/boy_cover.jpg",
+                "medium": "img/boy_206p.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/9TgjbciJ2ZA"
         }
     ]
 }
