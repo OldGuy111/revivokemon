@@ -1,0 +1,66 @@
+{
+    "id": "same-species-showdowns",
+    "title": "Same-Species Showdowns",
+    "description": "No, you’re not seeing double—it’s a same-species showdown in Pokémon: The First Movie and classic Pokémon the Series episodes.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/same-species-showdowns/same-species-showdowns-1125x1500-en.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/same-species-showdowns/same-species-showdowns-1660x940.jpg"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1651244212,
+    "media": [
+        {
+            "id": "c449bf55a450472ab6ed69ad89c96a60",
+            "season": "1",
+            "episode": "4",
+            "title": "Challenge of the Samurai",
+            "description": "Samurai challenges Ash to a battle, and Ash gets the advantage when his Metapod defends itself against Samurai's Pinsir.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep04_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep04_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/PEUL-1_zGWI"
+        },
+        {
+            "id": "f53c1fbc853f4be68678685e25486502",
+            "season": "7",
+            "episode": "45",
+            "title": "Sky High Gym Battle!",
+            "description": "Ash begins his Gym battle with Winona by sending out Grovyle against her Altaria. Grovyle takes out Altaria with Leaf Blade. Next up is Pelipper, a Water-and-Flying-type Pokémon.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep45_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep45_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/smKMys6Kmjg"
+        },
+        {
+            "id": "11e1ad386cb24c3a9877221d3d0daff0",
+            "season": "8",
+            "episode": "32",
+            "title": "Like a Meowth to a Flame",
+            "description": "While training for the Hoenn League, Ash meets fellow Trainer Tyson and his Meowth in boots, and they discover that the ceremonial torch has been stolen!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep32_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep32_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/zA4N2y8-UBQ"
+        },
+        {
+            "id": "f527396f80514977ac68d5f4888bac3a",
+            "season": "9",
+            "episode": "40",
+            "title": "Duels of the Jungle",
+            "description": "On the way to Fennel Valley, Ash's Aipom scampers away and runs into a Weavile with an attitude. Aipom's up for a battle, but Weavile deals it a harsh defeat!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep40_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep40_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/YgCUMJo3bYI"
+        }
+    ]
+}

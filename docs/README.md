@@ -1,4 +1,4 @@
-![A cartoon television with an eary orange creature with yellow cheeks, eyes, tiny nose and mouth inside. Its ears stick out. At the right of the screen stands the text REVIVOKÉMON in low caps italic.](https://github.com/OldGuy111/revivokemon/blob/master/revivokemon.png)
+![A cartoon television with an eary orange creature with yellow cheeks, eyes, tiny nose and mouth inside. Its ears stick out of the television. At the right of the screen stands the text REVIVOKÉMON in low caps italic.](https://github.com/OldGuy111/revivokemon/blob/master/revivokemon.png)
 # Revivokémon
 **REVIVOKÉMON HAS BEEN OFFICIALY RELEASED!**
 
@@ -11,6 +11,7 @@ That's where Revivokémon comes in. I hope you like it!
 Below is the list of content. Movies and Pokémon Origins will not be added as they are not available on YouTube officially.
 ## Done content
 * Season 1 to 10 - as far as September 5th, 2026
+* Seasons 1 to 4 with original thumbnails
 * Pokémon Generations
 * Pokémon Twilight Wings
 * Bidoof's Big Stand
@@ -22,15 +23,15 @@ Below is the list of content. Movies and Pokémon Origins will not be added as t
 * Pokémon Evolutions
 * Pokémon: Hisuian Snow
 * Pokémon: Path to the Peak
+* Stuns - mini-compilations (as far as the episodes go)
 * [Terms of Use and Privacy Policy](https://github.com/OldGuy111/revivokemon/wiki)
 ## To do
 * Episodes as they come
 * Extra Kids TV content
-* Download thumbnails (currently depends on pokemon.com leftovers)
 * UI revamp
   * Home screen
 * Region-specific content
-* "Stunts" (check database/us folder)
+* Integrate buttons to YT embed API
 * Find a way to change video languages on YT embeds
 
 # Original description

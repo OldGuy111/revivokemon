@@ -1,0 +1,53 @@
+{
+    "id": "ketchum-catches-a-career",
+    "title": "Ketchum Catches a Career",
+    "description": "Ketchum Catches a Career, demonstrating wildly varied interests and talents on Pokémon TV.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/ketchum-catches-a-career/ketchum-catches-a-career-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/ketchum-catches-a-career/ketchum-catches-a-career-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1695387902,
+    "media": [
+        {
+            "id": "d120746b3bd1413fa79e9fdd0ec1e2d6",
+            "season": "1",
+            "episode": "20",
+            "title": "Bye Bye Butterfree",
+            "description": "When the party sees a flock of Butterfree flying above the ocean, Brock, as a Pokémon breeder, explains that it is the Butterfree's egg-laying season.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep20_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep20_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/T23nJU-KwZo"
+        },
+        {
+            "id": "c03d22833df648ef8445ae2488682385",
+            "season": "1",
+            "episode": "22",
+            "title": "The Tower of Terror",
+            "description": "In search of a ghost Pokémon, Ash heads immediately for a tower in Lavender Town where they are said to dwell.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep22_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep22_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/hrANeOomxRw"
+        },
+        {
+            "id": "684fb56cc1824790b2cd5612b794726d",
+            "season": "3",
+            "episode": "31",
+            "title": "The Fire-ing Squad!",
+            "description": "An unexpected Pokémon firefighting competition reunites our heroes with some old friends, the Squirtle Squad! But they are in desperate need of some leadership, so Ash and Squirtle rejoin the ranks.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep42_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep42_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/6XmwBX-N-FA"
+        }
+    ]
+}

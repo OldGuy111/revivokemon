@@ -1,0 +1,92 @@
+{
+    "id": "ash-and-team-rocket",
+    "title": "Frenemies Forever",
+    "description": "Watch as enemies become frenemies on Pokémon TV.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/ash-and-team-rocket/ash-and-team-rocket-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/ash-and-team-rocket/ash-and-team-rocket-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1644598126,
+    "media": [
+        {
+            "id": "27bd4db241f44893b4ebeafbab892f1a",
+            "season": "1",
+            "episode": "14",
+            "title": "Electric Shock Showdown",
+            "description": "Our heroes finally reach Vermillion City, and they discover that the Pokémon Center is filled with Pokémon hurt during battles with Lt. Surge, the Vermillion City Gym Leader.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep14_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep14_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Cd-3_QOIjgU"
+        },
+        {
+            "id": "2940992230844021a2f0ce391e3863c8",
+            "season": "1",
+            "episode": "16",
+            "title": "Pokémon Shipwreck",
+            "description": "Our heroes are revealed in the middle of a trap concocted by Team Rocket.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep16_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep16_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/326R_Lhua5w"
+        },
+        {
+            "id": "913102c358be4a2683e57fd84938dc90",
+            "season": "3",
+            "episode": "18",
+            "title": "Charizard's Burning Ambition",
+            "description": "When Ash hears of the nearby Charicific Valley, he is sure a quick trip would be just the thing to reignite his Charizard's flagging spirits.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep29_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep29_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/hOSXkiZ_8zY"
+        },
+        {
+            "id": "1604ef2db4d74426a1039b328abc99bc",
+            "season": "3",
+            "episode": "39",
+            "title": "Forest Grumps",
+            "description": "When an Ursaring attack leaves Team Rocket and our heroes in compromising positions, compromise they do, members of each team being paired with members of the other.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep50_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep50_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Z2wJCfy211c"
+        },
+        {
+            "id": "cfd5556431fa47009bfd0bd50dc781f6",
+            "season": "5",
+            "episode": "2",
+            "title": "Fly Me to the Moon",
+            "description": "Our heroes discover an island on which the Pidgey population—long protected by environmental regulation and free from predators—has grown to unusually stout proportions and virtually abandoned any desire for flight.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep02_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep02_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/59zUkOZEL70"
+        },
+        {
+            "id": "4d77442981ad4779a2c8c8f8a5c51c14",
+            "season": "8",
+            "episode": "12",
+            "title": "Claydol Big and Tall",
+            "description": "When our heroes discover an enormous Poké Ball on an island, Team Rocket's meddling unleashes an ancient destructive force!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep12_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep12_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/jmc_ECxRw0g"
+        }
+    ]
+}

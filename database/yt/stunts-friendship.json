@@ -1,0 +1,53 @@
+{
+    "id": "friendship",
+    "title": "Pokémon Pals",
+    "description": "Join the fun as we check out the bonds of friendship between Pokémon in this collection of classic episodes.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/friendship/friendship-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/friendship/friendship-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1659107570,
+    "media": [
+        {
+            "id": "16b66cdcf4ff4c788ffe8d6db62dbbd9",
+            "season": "2",
+            "episode": "43",
+            "title": "A Way Off Day Off",
+            "description": "Team Rocket doesn't take a day off from trying to steal Pikachu... will they catch our heroes off guard?",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep43_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep43_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/9YXTu-Q8J2M"
+        },
+        {
+            "id": "9231f40fafec402b9dc80b258a923331",
+            "season": "4",
+            "episode": "23",
+            "title": "Houndoom's Special Delivery",
+            "description": "When Team Rocket attacks our heroes as they travel through a mountain pass, Weezing's Smoke Screen attack separates Togepi and Misty.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep23_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep23_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/P0Jj_IABtSo"
+        },
+        {
+            "id": "02d205393d4348cea2bb15d79775befe",
+            "season": "7",
+            "episode": "42",
+            "title": "A Shroomish Skirmish",
+            "description": "Team Rocket is starving, and they end up stealing apples from a group of Shroomish. Some of the Shroomish become angry enough that they evolve into Breloom, then attack Team Rocket.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep42_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep42_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Y9kyY56aqUA"
+        }
+    ]
+}

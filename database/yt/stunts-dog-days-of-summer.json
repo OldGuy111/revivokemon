@@ -1,0 +1,66 @@
+{
+    "id": "dog-days-of-summer",
+    "title": "Dog Days of Summer",
+    "description": "It’s impawsible to have a rough day watching Dog Days of Summer on Pokémon TV.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/dog-days-of-summer/dog-days-of-summer-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/dog-days-of-summer/dog-days-of-summer-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1692977977,
+    "media": [
+        {
+            "id": "2c06631d21be48fe918afbb8b22e1d98",
+            "season": "2",
+            "episode": "8",
+            "title": "The Battle of the Badge",
+            "description": "Ash and friends finally make their way to Viridian City where Ash hopes to earn his Earth Badge.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep08_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep08_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/VQFtkKgOVGk"
+        },
+        {
+            "id": "87eec0ff20ba4f688b8e1d217fa97740",
+            "season": "3",
+            "episode": "8",
+            "title": "Snubbull Snobbery",
+            "description": "With pet food prepared by a French chef, rooms of WalkMaster exercise equipment and closets stocked with the latest in Pokémon fashion, life couldn't be much better for a Palm Hills Snubbull.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep19_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep19_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/wSAa8vQNdhc"
+        },
+        {
+            "id": "75c68d5c793b493b88fc0a2be9b3fa20",
+            "season": "4",
+            "episode": "18",
+            "title": "The Trouble With Snubbull",
+            "description": "As our heroes take a brief rest near a river, Ash sees a Snubbull rush by on the opposite bank.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep18_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep18_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/2_qGrYE9TDw"
+        },
+        {
+            "id": "39aa9f11bbde409c9c417066c863e439",
+            "season": "5",
+            "episode": "19",
+            "title": "Extreme Pokémon",
+            "description": "On their way to Mahogany City, Ash, Misty, and Brock run into Gary and his Arcanine practicing for a meet.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep19_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep19_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/xl0zw6TyvYI"
+        }
+    ]
+}

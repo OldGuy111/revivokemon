@@ -1,0 +1,66 @@
+{
+    "id": "failures-of-ash",
+    "title": "The Many Failures of Ash Ketchum",
+    "description": "Watch Ash attempt (and fail) to become a Champion on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/failures-of-ash/1125x1500-en.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/failures-of-ash/2048x1152.jpg"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1572624229,
+    "media": [
+        {
+            "id": "2e4729524d154be2891eacaa5b79782b",
+            "season": "2",
+            "episode": "25",
+            "title": "Friend and Foe Alike",
+            "description": "A twist of fate pits Ash and his new friend, Richie, against each other in the fifth round of the Pokémon League Competition.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep25_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep25_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/aW85odlbP8w"
+        },
+        {
+            "id": "f1af730f2e2444519fcfd3bf33404c3e",
+            "season": "5",
+            "episode": "61",
+            "title": "Play with Fire!",
+            "description": "Ash is battling Harrison from Hoenn at the Johto League Silver Conference. It's a close match the whole way through, but one by one Harrison knocks out Totodile, Snorlax, and Noctowl.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep09_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep09_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/inxZmZi0pEk"
+        },
+        {
+            "id": "34bf284b2e914cb390912083b11c3d2a",
+            "season": "5",
+            "episode": "62",
+            "title": "Johto Photo Finish",
+            "description": "Our hero is at the end of a tough battle with Harrison at the Johto League Silver Conference. The winner of this battle will go on to the semi-finals.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep10_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep10_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/7nbLB_KaSzE"
+        },
+        {
+            "id": "e8ed81b89cc54ff2a06ed407cbc07fbd",
+            "season": "8",
+            "episode": "38",
+            "title": "At the End of the Fray",
+            "description": "It's the battle between Ash and Tyson to decide who moves on to the final four of the Hoenn League, and Glalie and Sceptile are already out!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep38_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep38_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/cJjHFetMqn8"
+        }
+    ]
+}

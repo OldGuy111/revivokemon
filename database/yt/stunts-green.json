@@ -1,0 +1,66 @@
+{
+    "id": "green",
+    "title": "Green Pokémon Galore",
+    "description": "Go green with Ash and Pikachu by watching Pokémon the Series episodes featuring green Pokémon on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/green/green-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/green/green-2048x1152.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1615566505,
+    "media": [
+        {
+            "id": "138ff51bac3843c98330645d4ae5bfde",
+            "season": "1",
+            "episode": "10",
+            "title": "Bulbasaur and the Hidden Village",
+            "description": "Ash and Misty, while arguing, discover an Oddish. As Misty's Starmie weakens the Oddish, a Bulbasaur appears and fights Starmie while the Oddish runs off into the woods.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep10_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep10_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/nfpsYGAGzF0"
+        },
+        {
+            "id": "dc6a5bbf5b144d32a5b8cbe73e7f86ae",
+            "season": "3",
+            "episode": "10",
+            "title": "Chikorita Rescue",
+            "description": "Ash encounters a wild Chikorita and engages it in battle, thinking to add it to his team.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep21_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep21_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/4GHQtiQQFYo"
+        },
+        {
+            "id": "675b24d28c89486cae846474c734809a",
+            "season": "6",
+            "episode": "7",
+            "title": "Tree's a Crowd",
+            "description": "Deep in the woods, Ash spies a Treecko. He's wanted to catch a Treecko since he first saw one at Professor Birch's laboratory.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep19_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep19_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/28KtMUVkJuw"
+        },
+        {
+            "id": "d9a469df5ad249ec8ec4c1f50903a263",
+            "season": "10",
+            "episode": "5",
+            "title": "Gettin' Twiggy With It",
+            "description": "Team Rocket's latest Pikachu-snatching plan slips up, and Pikachu ends up lost in the woods. It's found by a friendly Turtwig who defends Pikachu from Team Rocket, but mistakes Ash for a foe as well!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep05_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep05_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/avm4LtW5oGM"
+        }
+    ]
+}

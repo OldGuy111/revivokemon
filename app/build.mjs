@@ -118,9 +118,10 @@ async function indexDb(){
         const dbData = [];
         for(let f of ccfolder){
             const chData = jsonLoad(dirPath(cc) + f);
-            if(chData.category_id == 2){
-                continue;
-            }
+            // The "stunts" are a good idea, keep
+            // if(chData.category_id == 2){
+            //    continue;
+            //}
             dbData.push(chData);
         }
         dbData.sort(sortItems);

@@ -1,0 +1,79 @@
+{
+    "id": "flower-power",
+    "title": "Pokémon Flower Power",
+    "description": "Celebrate spring as Ash and his friends meet all sorts of flowery Pokémon in classic episodes of Pokémon the Series.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/flower-power/flower-power-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/flower-power/flower-power-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1648226454,
+    "media": [
+        {
+            "id": "eaacae9f06734237a6b799e17ae21714",
+            "season": "1",
+            "episode": "48",
+            "title": "Bulbasaur's Mysterious Garden",
+            "description": "In the course of his journey, Ash battles a mountaineer Pokémon trainer he encountered in a small wooded area.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep48_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep48_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/SpYyPHhvCFQ"
+        },
+        {
+            "id": "e7f6c528c5c64b5eac5e30422bf413ea",
+            "season": "3",
+            "episode": "19",
+            "title": "Grin to Win!",
+            "description": "The annual Sunflora contest is only a day away and yet our hero's new friend and Sunflora Trainer is unable to convince her star Pokémon to compete.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep30_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep30_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/d-uK1M7ElDo"
+        },
+        {
+            "id": "ae6f881c9efd4abbb6c14e48b67b3c50",
+            "season": "5",
+            "episode": "30",
+            "title": "Whichever Way the Wind Blows",
+            "description": "Hardly taking a second to relish his latest gym victory, Ash quickly sets course for the next gym in Blackthorn City.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep30_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep30_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://youtube.com/embed/bL47sJxDRk8"
+        },
+        {
+            "id": "cc626a4a0e8047cba54e8e6955eced7d",
+            "season": "5",
+            "episode": "58",
+            "title": "Tie One On!",
+            "description": "As the Johto League Silver Conference gets underway, Ash will take on Jackson from New Bark Town. Ash is looking forward to the match, but perhaps not as much as his Bulbasaur.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep06_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep06_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/_1tM6tV9qN4"
+        },
+        {
+            "id": "24bb55cf6b694f9f9c1f2d2569c55d21",
+            "season": "6",
+            "episode": "35",
+            "title": "Win, Lose, or Drew!",
+            "description": "May enters Beautifly in the beauty contest, but Team Rocket is too late to enter their Dustox. At the competitions, the person in line right before May is none other than her rival Drew.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep47_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep47_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/cwYWR5bzmlg"
+        }
+    ]
+}

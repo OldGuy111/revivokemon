@@ -1,0 +1,53 @@
+{
+    "id": "summer-2023",
+    "title": "Dive In with Pokémon",
+    "description": "Cool off with a collection of Pokémon the Series episodes featuring all sorts of swimming excitement.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/summer/2023/summer-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/summer/2023/summer-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1598619860,
+    "media": [
+        {
+            "id": "cabc7c652142473f88d158984d296b84",
+            "season": "2",
+            "episode": "13",
+            "title": "The Pi-Kahuna",
+            "description": "In an effort to train hard and maintain top shape for the Pokémon League, Ash decides to try some surfing.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep13_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep13_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/be4-hKKU9gQ"
+        },
+        {
+            "id": "76bcbbe879374eb9ac1288c6e185a987",
+            "season": "5",
+            "episode": "46",
+            "title": "Just Add Water",
+            "description": "On the road back to New Bark Town, Ash and friends stop for a rest near the ocean. There they spot a sign advertising a synchronized Pokémon swimming event.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep46_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep46_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/IVtUczqbOqo"
+        },
+        {
+            "id": "898e0dcf03034852a6d09386c6518d4c",
+            "season": "6",
+            "episode": "19",
+            "title": "Sharpedo Attack!",
+            "description": "Ash and company are sailing toward Dewford Town, thanks to their new friends Mr. Briney and his Wingull, Peeko.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep31_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep31_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/d3NZjHQuYvQ"
+        }
+    ]
+}

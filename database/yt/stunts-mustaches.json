@@ -1,0 +1,40 @@
+{
+    "id": "mustaches",
+    "title": "Magnificent Mustaches",
+    "description": "Watch a stash of classic episodes featuring Pokémon with the most magnificent of mustaches.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/mustaches/mustaches-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/mustaches/mustaches-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1678461954,
+    "media": [
+        {
+            "id": "fb65911f65ed4d4588cbe3180451027c",
+            "season": "2",
+            "episode": "18",
+            "title": "The Ancient Puzzle of Pokémopolis",
+            "description": "While Ash and Brock are busy training for the Pokémon League, they inadvertently uncover a hidden temple containing Pokémon fossils.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep18_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep18_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/L7jmc-Nlf_g"
+        },
+        {
+            "id": "e3d752e71381493eb0abe537d5add353",
+            "season": "8",
+            "episode": "18",
+            "title": "The Great Eight Fate!",
+            "description": "Ash gets ready for his final Gym battle in the Hoenn region: a Double Battle against Gym Leader Juan, who used to be a Pokémon Coordinator!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep18_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep18_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/yaH8cvHueH8"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "fishing",
+    "title": "Gone Fishin’ for Pokémon",
+    "description": "Get hooked on this collection of Pokémon the Series episodes that feature Ash and his friends going fishing.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/fishing/fishing-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/fishing/fishing-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1658460193,
+    "media": [
+        {
+            "id": "0cf7e04d9c3846af92345ed202dc838d",
+            "season": "4",
+            "episode": "11",
+            "title": "Hook, Line and Stinker",
+            "description": "As our heroes take a break at a shady stream, Misty's Poliwhirl is attacked by a Poliwrath!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep11_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep11_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/7yLIggbC4J4"
+        },
+        {
+            "id": "e7b6e9c622944ce99b059a6b9cb80206",
+            "season": "7",
+            "episode": "35",
+            "title": "Whiscash and Ash",
+            "description": "The kids have stopped at a lakeside camp site on their way to Fortree City. Ash trips and drops his badge case into the lake, where it is eaten up by a giant Whiscash.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep35_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep35_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Ml6QKFp0DvA"
+        },
+        {
+            "id": "93c24099dabe425191ce6afc4f50e746",
+            "season": "9",
+            "episode": "7",
+            "title": "On Olden Pond",
+            "description": "Ash and his friends visit a famous fishing spot that looks oddly abandoned. Ash still manages to hook a Crawdaunt, which he challenges with Corphish.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep07_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep07_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/6mnFIdUFW8s"
+        }
+    ]
+}

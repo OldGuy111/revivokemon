@@ -1,0 +1,79 @@
+{
+    "id": "cave-escapades",
+    "title": "Cave Escapades",
+    "description": "Take a deep dive into darkened caverns as Ash and company go spelunking in this collection of episodes.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/cave-escapades/cave-escapades-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/cave-escapades/cave-escapades-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1683906345,
+    "media": [
+        {
+            "id": "e37a8860524a4358a6d4c5af336a64a8",
+            "season": "1",
+            "episode": "6",
+            "title": "Clefairy and the Moon Stone",
+            "description": "Will Team Rocket steal the Moon Stone? Are there other Clefairy lurking about, and do they carry Moon Stones, too? And is the legend of the Moon Stone true?",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep06_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep06_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/iaxkOJZxzQM"
+        },
+        {
+            "id": "6f705d068fb443e4b785d1d9481bdad6",
+            "season": "2",
+            "episode": "33",
+            "title": "The Crystal Onix",
+            "description": "While riding around the Orange Islands on his Lapras, Ash finds a mysterious message in a bottle, which leads the gang on a new adventure.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep33_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep33_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/qdju1COuRvQ"
+        },
+        {
+            "id": "b7c51ced1e1d4bd4af962501d9c66e25",
+            "season": "4",
+            "episode": "10",
+            "title": "A Hot Water Battle",
+            "description": "Arriving at a beautiful hot springs, Ash, Misty and Brock decide they and their Pokémon need to take a much needed break from their journey.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep10_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep10_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/uj_0liP4KEE"
+        },
+        {
+            "id": "74a22b5a2143480e8e667ef3f39b010c",
+            "season": "6",
+            "episode": "22",
+            "title": "A Hole Lotta Trouble",
+            "description": "Ash and the gang finally arrive at Granite Cave. Team Rocket is already in the cave, perfecting their next attempt to capture Pikachu.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep34_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep34_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/ULunh5gdl-8"
+        },
+        {
+            "id": "121d4f0a797641a6a763f3d182ec0303",
+            "season": "9",
+            "episode": "26",
+            "title": "Pokémon Ranger - Deoxys' Crisis (Part 1)",
+            "description": "Our heroes spot a confused flock of Pokémon and realize something isn't right, especially once an unusual aurora appears in the sky and their Poké Balls and PokéNav stop working!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep26_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep26_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/h45fr00bkfg"
+        }
+    ]
+}

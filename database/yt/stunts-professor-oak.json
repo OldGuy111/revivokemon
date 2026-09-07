@@ -1,0 +1,105 @@
+{
+    "id": "professor-oak",
+    "title": "The Pokémon Poet",
+    "description": "Professor Oak proudly presents playful Pokémon poetry on Pokémon TV.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/professor-oak/professor-oak-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/professor-oak/professor-oak-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1627661114,
+    "media": [
+        {
+            "id": "f3e38e3d7f224382b18771924d73e04c",
+            "season": "1",
+            "episode": "24",
+            "title": "Primeape Goes Bananas",
+            "description": "On their way to Celadon City, our heroes encounter Mankey, a wild Pokémon that if rubbed the wrong way can go into uncontrollable fits.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep24_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep24_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/9aLD8SGoPIc"
+        },
+        {
+            "id": "adaca0dc8e964920a42668fec22ed8c9",
+            "season": "5",
+            "episode": "36",
+            "title": "Will the Real Oak Please Stand Up?",
+            "description": "Hearing of the posh reception prepared for the host and guest of a radio show to be recorded before a live audience, Jessie and James of Team Rocket quickly announce that they are in fact the long-awaited celebrities.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep36_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep36_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/dx8-ZccTHOY"
+        },
+        {
+            "id": "87360efa7f8e4d819cecc910cbff25e6",
+            "season": "6",
+            "episode": "23",
+            "title": "Gone Corphishin'",
+            "description": "Team Rocket is lounging on the beach when suddenly a mysterious creature zooms along the beach and launches Team Rocket out of sight.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep35_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep35_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/01Lbn9-oqwY"
+        },
+        {
+            "id": "627dd7dcf29943b180d91cc490222a32",
+            "season": "7",
+            "episode": "15",
+            "title": "Poetry Commotion!",
+            "description": "Ash and friends arrive in Lavaridge Town. Ash heads straight for the Gym, where the Gym Leader Flannery is running around on fire.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep15_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep15_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/9ZukR69jSPc"
+        },
+        {
+            "id": "aa0785c0083147ddb085183a62d918fa",
+            "season": "8",
+            "episode": "40",
+            "title": "The Right Place and the Right Mime",
+            "description": "Ash has returned to Pallet Town to find a reunion of friends! May stops by Ash's house but Ash has left for Professor Oak's lab.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep40_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep40_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/6kZ6MqbfAP4"
+        },
+        {
+            "id": "cfd00b730ab14bcd88a8ea4ab407bf31",
+            "season": "9",
+            "episode": "42",
+            "title": "The Unbeatable Lightness of Seeing",
+            "description": "Ash is still recovering from his defeat at the Battle Pyramid, while May is also melancholy about her own defeat at the Grand Festival.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep42_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep42_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/erjGo1JWBHI"
+        },
+        {
+            "id": "55364280125e4493a774c9f0368ce409",
+            "season": "10",
+            "episode": "3",
+            "title": "When Pokémon Worlds Collide",
+            "description": "Paul catches a Starly and challenges Ash to a battle—but without Pikachu, Ash doesn't have enough Pokémon for a 3-on-3 battle!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep03_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep03_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/n_-A9bnRDHI"
+        }
+    ]
+}

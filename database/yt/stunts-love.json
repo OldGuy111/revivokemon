@@ -1,0 +1,66 @@
+{
+    "id": "love",
+    "title": "Pokémon in Love",
+    "description": "Feel the Pokémon love on Pokémon TV this February.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/love/love-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/love/love-2048x1152.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1613144553,
+    "media": [
+        {
+            "id": "d120746b3bd1413fa79e9fdd0ec1e2d6",
+            "season": "1",
+            "episode": "20",
+            "title": "Bye Bye Butterfree",
+            "description": "When the party sees a flock of Butterfree flying above the ocean, Brock, as a Pokémon breeder, explains that it is the Butterfree's egg-laying season.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep20_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep20_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/T23nJU-KwZo"
+        },
+        {
+            "id": "875ce4b9add44f819c1d4d94e4b12002",
+            "season": "2",
+            "episode": "16",
+            "title": "Go West Young Meowth",
+            "description": "The gang heads to Hollywood for the premiere of Pokémon in Love and Meowth is forced to look back on his painful past.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep16_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep16_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/IcbL2_S2I1w"
+        },
+        {
+            "id": "0c8a2a1ab99848a18a2b32cf8f903479",
+            "season": "3",
+            "episode": "37",
+            "title": "Love, Totodile Style",
+            "description": "Ash's Totodile falls head over tail for a passing Azumarill, but is still unsuccessful in having its feelings requited when Team Rocket kidnap the Pokémon before Totodile's eyes.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep48_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep48_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/_1n_mGRca7s"
+        },
+        {
+            "id": "00f5855d4da946a7b0ab1ae0ad46cbc7",
+            "season": "7",
+            "episode": "6",
+            "title": "Love at First Flight",
+            "description": "Ash and friends are still on their way to Fallarbor Town and stop by Lake May for a rest, where they spot an Illumise and some Volbeat practicing for the May Festival.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep06_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep06_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/MTUuko7U8v4"
+        }
+    ]
+}

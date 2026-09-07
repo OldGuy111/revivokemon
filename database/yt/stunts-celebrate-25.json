@@ -1,0 +1,144 @@
+{
+    "id": "celebrate-25",
+    "title": "Celebrate Pokémon the Series",
+    "description": "Celebrate 25 seasons of Pokémon the Series with a marathon featuring one episode from every season.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/celebrate/25/celebrate-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/celebrate/25/celebrate-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1697816112,
+    "media": [
+        {
+            "id": "7fe404392a77410e88af4a19ca20184f",
+            "season": "1",
+            "episode": "1",
+            "title": "Pokémon - I Choose You!",
+            "description": "Meet Ash Ketchum, a 10-year-old boy full of imagination, confidence, and dreams that are almost too big for his village of Pallet Town—plus the desire to become a Pokémon Master!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep01_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/z3hMX65Khtg"
+        },
+        {
+            "id": "dd23d642ddd64090bd53c0694a54373b",
+            "season": "2",
+            "episode": "49",
+            "title": "Charizard Chills",
+            "description": "Ash, Tracey and Misty are sailing along on Lapras when they almost crash into another Pokémon trainer wanting to battle Ash.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep49_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep49_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/R9SQMo70NY8"
+        },
+        {
+            "id": "fcc52bed65fa42a7bae90e9d8959a4f0",
+            "season": "3",
+            "episode": "18",
+            "title": "Charizard's Burning Ambition",
+            "description": "When Ash hears of the nearby Charicific Valley, he is sure a quick trip would be just the thing to reignite his Charizard's flagging spirits.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep29_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep29_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/hOSXkiZ_8zY"
+        },
+        {
+            "id": "6880c27fe4ca4ed89a654cdc1419499c",
+            "season": "4",
+            "episode": "32",
+            "title": "Freeze Frame",
+            "description": "On their quest to capture Articuno on film, Todd and our heroes run into a frozen Jigglypuff!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep32_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep32_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/td9L5F0DLmI"
+        },
+        {
+            "id": "8563d52a09b743dc80998510d9d79c98",
+            "season": "5",
+            "episode": "18",
+            "title": "For Ho-Oh the Bells Toll",
+            "description": "When Ash, Misty, and Brock run to investigate a mysterious chorus of bells that spontaneously ring out, they chance to meet their old friend Morty and a Pokémon researcher of his acquaintance.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep18_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep18_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/dqIOG-PtYbk"
+        },
+        {
+            "id": "a5c250d17c46455ea8c86b0199ebba67",
+            "season": "6",
+            "episode": "6",
+            "title": "A Poached Ego",
+            "description": "Our heroes are headed for Rustboro City, where Ash hopes to have his first real gym battle in Hoenn.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep18_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep18_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/to3DRMm5L8g"
+        },
+        {
+            "id": "4eb91c92b1fe4cca93f11ba2a381bcac",
+            "season": "7",
+            "episode": "49",
+            "title": "A Scare to Remember",
+            "description": "As Ash and friends walk to Lilycove City, a tree comes crashing down in front of them—pushed over by Team Rocket in their newest giant robot!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep49_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep49_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/e___K3UvMF4"
+        },
+        {
+            "id": "1900754178f148d4ad19549b302634e3",
+            "season": "8",
+            "episode": "40",
+            "title": "The Right Place and the Right Mime",
+            "description": "Max and May come to visit Ash in Pallet Town, along with Misty and Brock, and they all make plans for another journey together—this time, to the Battle Frontier!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep40_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep40_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/6kZ6MqbfAP4"
+        },
+        {
+            "id": "bcac93b68f6c47c4861462c81089c8d3",
+            "season": "9",
+            "episode": "18",
+            "title": "Cutting the Ties That Bind",
+            "description": "Ash has arrived at Metallica Island, home of the Battle Palace. He's ready for battle, but Sceptile isn't—its attack moves still aren't working and it runs away in frustration.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep18_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep18_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/sHJnAa9KpBI"
+        },
+        {
+            "id": "326303d3082b4e19b472f5f066a87abb",
+            "season": "10",
+            "episode": "22",
+            "title": "Borrowing on Bad Faith",
+            "description": "When Ash and his friends pass a village that's holding an informal Pokémon Contest where the prize is a year's supply of fruit, Dawn is eager to enter.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep22_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep22_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/rKj-N6n4K74"
+        }
+    ]
+}

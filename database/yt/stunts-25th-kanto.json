@@ -1,0 +1,105 @@
+{
+    "id": "25th-kanto",
+    "title": "Return to Kanto",
+    "description": "Revisit Ash’s home region in classic Pokémon the Series episodes as our 25 years of Pokémon celebration continues.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/kanto/kanto-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/kanto/kanto-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1633709129,
+    "media": [
+        {
+            "id": "7fe404392a77410e88af4a19ca20184f",
+            "season": "1",
+            "episode": "1",
+            "title": "Pokémon - I Choose You!",
+            "description": "Meet Ash Ketchum, a 10-year-old boy full of imagination, confidence, and dreams that are almost too big for his village of Pallet Town—plus the desire to become a Pokémon Master!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep01_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/z3hMX65Khtg"
+        },
+        {
+            "id": "c03d22833df648ef8445ae2488682385",
+            "season": "1",
+            "episode": "22",
+            "title": "The Tower of Terror",
+            "description": "In search of a ghost Pokémon, Ash heads immediately for a tower in Lavender Town where they are said to dwell.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep22_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep22_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/hrANeOomxRw"
+        },
+        {
+            "id": "a31de3de5db74a60a5bdba568a70ae7c",
+            "season": "1",
+            "episode": "25",
+            "title": "Pokémon Scent-sation!",
+            "description": "The party arrives in Celadon City, a perfectly pleasant town full of large department stores, condominiums, and fancy arcades.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep25_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep25_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/rrQmjrZedac"
+        },
+        {
+            "id": "9da942f70dba46019df441babf792c4a",
+            "season": "2",
+            "episode": "4",
+            "title": "Volcanic Panic",
+            "description": "Ash continues his quest to attain his Volcano Badge once he finally locates the gym that is suspended above a pool of molten lava!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep04_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep04_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/fokk0u5Yr5Y"
+        },
+        {
+            "id": "41efafcaac5e42ebb46f59e162f7e79d",
+            "season": "2",
+            "episode": "8",
+            "title": "The Battle of the Badge",
+            "description": "Ash and friends finally make their way to Viridian City where Ash hopes to earn his Earth Badge.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep08_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep08_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/VQFtkKgOVGk"
+        },
+        {
+            "id": "373c1910bc964577ae7b7c643b05cf98",
+            "season": "8",
+            "episode": "50",
+            "title": "The Saffron Con",
+            "description": "Our heroes are in Saffron City for May's first Pokémon Contest in the Kanto region—and her shady rival Harley is competing, too!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep50_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep50_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/wsI4JwjErmA"
+        },
+        {
+            "id": "92f83f093df347a2b6312e82f9656f91",
+            "season": "9",
+            "episode": "12",
+            "title": "Time-Warp Heals All Wounds",
+            "description": "While our heroes are stopped at a Pokémon Center, Squirtle runs off—never a good idea when Team Rocket is lurking nearby!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep12_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep12_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/o1RGpdIuC4g"
+        }
+    ]
+}

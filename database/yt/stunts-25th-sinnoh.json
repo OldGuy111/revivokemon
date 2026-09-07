@@ -1,0 +1,53 @@
+{
+    "id": "25th-sinnoh",
+    "title": "Sinnoh’s Sensational First Partner Pokémon",
+    "description": "Meet Sinnoh’s Sensational First Partner Pokémon on Pokémon TV.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/sinnoh/sinnoh-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/25th/sinnoh/sinnoh-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1625843559,
+    "media": [
+        {
+            "id": "d9a469df5ad249ec8ec4c1f50903a263",
+            "season": "10",
+            "episode": "5",
+            "title": "Gettin' Twiggy With It",
+            "description": "Team Rocket's latest Pikachu-snatching plan slips up, and Pikachu ends up lost in the woods. It's found by a friendly Turtwig who defends Pikachu from Team Rocket, but mistakes Ash for a foe as well!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep05_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep05_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/avm4LtW5oGM"
+        },
+        {
+            "id": "1125df073fbc497e9e21758ce90ec27e",
+            "season": "10",
+            "episode": "7",
+            "title": "Like It or Lup It",
+            "description": "It's a rough day for hero and villain alike, as Dawn's Piplup struggles to perfect a move for the upcoming Pokémon Contest and Team Rocket struggles to find something to eat.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep07_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep07_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/zD4GLhMfdFg"
+        },
+        {
+            "id": "ee25536bc2c644c1bdc92e058cbc85a6",
+            "season": "10",
+            "episode": "27",
+            "title": "Settling a Not-So-Old Score",
+            "description": "The Floaroma Town Contest has just started, and Dawn's already in trouble! Pachirisu gets spooked before Dawn can even start their appeal, and only Dawn's quick thinking and a Poffin treat can calm it down.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep27_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep27_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/pOmYPJCcfRM"
+        }
+    ]
+}

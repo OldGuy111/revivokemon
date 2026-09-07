@@ -1,0 +1,53 @@
+{
+    "id": "triumphs-of-ash",
+    "title": "The Many Triumphs of Ash Ketchum",
+    "description": "Watch Ash’s greatest(?) triumphs on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/triumphs-of-ash/1125x1500-en.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/triumphs-of-ash/2048x1152.jpg"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1579709078,
+    "media": [
+        {
+            "id": "10596faf5eb6466782e30ba5037f8b7b",
+            "season": "1",
+            "episode": "3",
+            "title": "Ash Catches a Pokémon",
+            "description": "Team Rocket shows up to steal Pikachu—they realize that there's really something special about this Pokémon—and Ash vows to defend himself.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep03_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep03_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/ObtS79k2NM4"
+        },
+        {
+            "id": "b18dcec6bff148c5b900641dfd185fc3",
+            "season": "3",
+            "episode": "13",
+            "title": "The Double Trouble Header",
+            "description": "In a Pokémon battle, Ash soundly defeats an ambitious young Trainer, who runs away dejectedly.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep13_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep13_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/SJEy7hIBZU8"
+        },
+        {
+            "id": "791962ccba4a4d38bc35b36d2c7a382b",
+            "season": "7",
+            "episode": "40",
+            "title": "That's Just Swellow",
+            "description": "While a competition is going on, Jessie and Meowth have been tricking Trainers into leaving their Pokémon behind for a special \"relaxing\" treatment. They trap the Pokémon into a net and prepare to run.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep40_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep40_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/sSRlIJVO5Cw"
+        }
+    ]
+}

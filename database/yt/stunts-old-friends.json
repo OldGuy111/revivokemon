@@ -1,0 +1,40 @@
+{
+    "id": "old-friends",
+    "title": "Old Friends Return",
+    "description": "Goodbyes don’t have to be forever! Ash reunites with some old friends in classic Pokémon the Series episodes on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/old-friends/old-friends-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/old-friends/old-friends-2048x1152.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1611936630,
+    "media": [
+        {
+            "id": "2ef726290e7c4ba78e7631ed086e6897",
+            "season": "4",
+            "episode": "30",
+            "title": "Moving Pictures",
+            "description": "On their way to Olivine City, our heroes run into their old friend and shutterbug, Todd! As Todd and our friends catch up, a frozen Sunkern falls from the sky.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep30_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep30_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/F-e8KGGhgmA"
+        },
+        {
+            "id": "4e23cc3915ad410091d7560ef0a5b9cb",
+            "season": "4",
+            "episode": "32",
+            "title": "Freeze Frame",
+            "description": "On their quest to capture Articuno on film, Todd and our heroes run into a frozen Jigglypuff!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep32_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep32_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/td9L5F0DLmI"
+        }
+    ]
+}

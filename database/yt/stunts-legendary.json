@@ -1,0 +1,27 @@
+{
+    "id": "legendary",
+    "title": "Legendary Pokémon Spotlight",
+    "description": "See incredible Legendary Pokémon in action in classic movies and Pokémon the Series episodes on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/legendary/legendary-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/legendary/legendary-2048x1152.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1603458274,
+    "media": [
+        {
+            "id": "a5f5c07c17b7429c9e438fae6787e865",
+            "season": "8",
+            "episode": "6",
+            "title": "The Scuffle of Legends",
+            "description": "Team Magma and Team Aqua continue to fight on Monsu Island. The Red Orb, which can control Kyogre, is currently held by the Team Aqua Leader Archie.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep06_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep06_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/huscOMa-6vY"
+        }
+    ]
+}

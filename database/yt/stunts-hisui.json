@@ -1,0 +1,53 @@
+{
+    "id": "hisui",
+    "title": "Hisui’s First Partner Pokémon",
+    "description": "Relive classic adventures starring Rowlet, Cyndaquil, and Oshawott, the first partner Pokémon of Pokémon Legends: Arceus.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/hisui/hisui-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/hisui/hisui-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1643389621,
+    "media": [
+        {
+            "id": "39d33a3095e14e059ac46d1cadc8ce50",
+            "season": "3",
+            "episode": "14",
+            "title": "A Bout With Sprout",
+            "description": "Our heroes are recruited as guest instructors at a youth Pokémon Academy.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep25_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep25_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/aLPLcXM9iHQ"
+        },
+        {
+            "id": "1409a72ed6a64a40b553507bcdd51607",
+            "season": "3",
+            "episode": "17",
+            "title": "Tanks A Lot!",
+            "description": "Team Rocket's most recent super vehicle, the Arbotank, is their ticket to world domination.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep28_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep28_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Z2RJwAuj6a8"
+        },
+        {
+            "id": "96714035b1734842a2ce0ce3b00d8331",
+            "season": "3",
+            "episode": "25",
+            "title": "Good 'Quil Hunting",
+            "description": "With Charizard gone and no fire Pokémon to call his own, Ash is overjoyed to come across a Cyndaquil in the wild.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep36_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep36_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/RWYt9Iaa3No"
+        }
+    ]
+}

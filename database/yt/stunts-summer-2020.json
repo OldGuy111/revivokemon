@@ -1,0 +1,66 @@
+{
+    "id": "summer-2020",
+    "title": "Summer Fun with Pokémon",
+    "description": "Fun in the sun awaits Ash, Pikachu, and their friends in a collection of summertime episodes on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/summer/2020/summer-1125x1500-en.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/summer/2020/summer-2048x1152.jpg"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1598619860,
+    "media": [
+        {
+            "id": "54898875c4a340448cce8c5c58196016",
+            "season": "2",
+            "episode": "5",
+            "title": "Beach Blank-out Blastoise",
+            "description": "As Ash and the gang are rushing to catch the last ferry off of Cinnabar Island, they stumble over a rare Pokémon in trouble.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep05_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep05_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/mDGVc3Sc_H4"
+        },
+        {
+            "id": "48efb4ee70174e238d74eaf12a557918",
+            "season": "2",
+            "episode": "13",
+            "title": "The Pi-Kahuna",
+            "description": "In an effort to train hard and maintain top shape for the Pokémon League, Ash decides to try some surfing.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep13_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep13_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/be4-hKKU9gQ"
+        },
+        {
+            "id": "76bcbbe879374eb9ac1288c6e185a987",
+            "season": "5",
+            "episode": "46",
+            "title": "Just Add Water",
+            "description": "On the road back to New Bark Town, Ash and friends stop for a rest near the ocean. There they spot a sign advertising a synchronized Pokémon swimming event.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep46_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep46_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/IVtUczqbOqo"
+        },
+        {
+            "id": "7c25d6ecceff4db085eb22146315a168",
+            "season": "6",
+            "episode": "32",
+            "title": "Brave the Wave!",
+            "description": "Ash charges out in the early morning, ready to challenge the Dewford Gym. Upon arriving at the door to the Gym, Ash is bowled over by a group of energetic surfers charging out of the door.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep32_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep32_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/oHMGqu3WTGM"
+        }
+    ]
+}

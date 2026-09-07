@@ -1,0 +1,53 @@
+{
+    "id": "partner-premieres",
+    "title": "Partner Premieres",
+    "description": "Celebrate new beginnings on Pokémon TV in January!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/partner-premieres/partner-premieres-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/partner-premieres/partner-premieres-2048x1152.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1610727490,
+    "media": [
+        {
+            "id": "7fe404392a77410e88af4a19ca20184f",
+            "season": "1",
+            "episode": "1",
+            "title": "Pokémon - I Choose You!",
+            "description": "Meet Ash Ketchum, a 10-year-old boy full of imagination, confidence, and dreams that are almost too big for his village of Pallet Town—plus the desire to become a Pokémon Master!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep01_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/z3hMX65Khtg"
+        },
+        {
+            "id": "3fe7752ba09141f0b0f7756d1981c6b2",
+            "season": "6",
+            "episode": "1",
+            "title": "Get the Show on the Road",
+            "description": "Team Rocket's failed attempt to catch Pikachu has left the little yellow Pokémon dangerously ill. Littleroot Town has no Pokémon Center so Ash turns to Professor Birch for help.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep13_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep13_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/zwDm6zeCw9w"
+        },
+        {
+            "id": "b1924dd62c274c5f8f34baea61f48958",
+            "season": "10",
+            "episode": "1",
+            "title": "Following a Maiden's Voyage",
+            "description": "It's always exciting when new Pokémon Trainers receives their first Pokémon, but for a girl named Dawn, things will be far more exciting than she'd ever imagined!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep01_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/iPxSEVCvLLE"
+        }
+    ]
+}

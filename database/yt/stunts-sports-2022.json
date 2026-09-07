@@ -1,0 +1,53 @@
+{
+    "id": "sports-2022",
+    "title": "Enjoy Sports with Pokémon!",
+    "description": "Pokémon and Trainers come together in the spirit of sports in Pokémon the Series.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/sports/2022/sports-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/sports/2022/sports-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1627054187,
+    "media": [
+        {
+            "id": "e0cb8ca2aef749129968d78d403c2cec",
+            "season": "1",
+            "episode": "32",
+            "title": "The Flame Pokémon-athon!",
+            "description": "Our heroes come to a prairie where the Laramies, a family of Pokémon Ranchers live. They learn from a daughter of the Laramie family that a race is held at the ranch once a year to measure the growth of everyone's Pokémon.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep32_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep32_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/RYdXQlBjjPI"
+        },
+        {
+            "id": "b18dcec6bff148c5b900641dfd185fc3",
+            "season": "3",
+            "episode": "2",
+            "title": "The Double Trouble Header",
+            "description": "In a Pokémon battle, Ash soundly defeats an ambitious young Trainer, who runs away dejectedly.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep13_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep13_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/PoZbww_nhBc"
+        },
+        {
+            "id": "ffd48b01be094da79fe641f1aef6782f",
+            "season": "7",
+            "episode": "40",
+            "title": "That's Just Swellow",
+            "description": "While a competition is going on, Jessie and Meowth have been tricking Trainers into leaving their Pokémon behind for a special \"relaxing\" treatment. They trap the Pokémon into a net and prepare to run.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep40_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep40_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/sSRlIJVO5Cw"
+        }
+    ]
+}
