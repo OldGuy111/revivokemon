@@ -12,8 +12,8 @@
     "media": [
         {
             "id": "s03e01",
-            "season": "3",
-            "episode": 1,
+            "season": "03",
+            "episode": "01",
             "title": "The Pokémon Water War",
             "description": "Our heroes’ plans are interrupted by a raging fire in a nearby warehouse. When they try to fight the flames, they quickly find themselves in need of the local fire department: Team Wartortle!",
             "images": {
@@ -25,8 +25,8 @@
         },
         {
             "id": "s03e02",
-            "season": "3",
-            "episode": 2,
+            "season": "03",
+            "episode": "02",
             "title": "Pokémon Food Fight",
             "description": "When Snorlax's Poké Ball breaks, Ash has a huge problem on his hands: How can our heroes get the slumbering Snorlax over a mountain pass to the nearest Pokémon Center?",
             "images": {
@@ -38,8 +38,8 @@
         },
         {
             "id": "s03e03",
-            "season": "3",
-            "episode": 3,
+            "season": "03",
+            "episode": "03",
             "title": "Pokémon Double Trouble",
             "description": "Ash is anxious to win the final badge of the Orange League, and soon gets a taste of this Gym Leader’s strength as she helps him fend off another Team Rocket sneak attack! ",
             "images": {
@@ -51,8 +51,8 @@
         },
         {
             "id": "s03e04",
-            "season": "3",
-            "episode": 4,
+            "season": "03",
+            "episode": "04",
             "title": "The Wacky Watcher",
             "description": "Discovering a scientist’s submarine at sea, our heroes are soon surrounded by his life’s research: a school of splashing Magikarp! They want to help him study Magikarp Evolution, but Team Rocket has other ideas…",
             "images": {
@@ -64,8 +64,8 @@
         },
         {
             "id": "s03e05",
-            "season": "3",
-            "episode": 5,
+            "season": "03",
+            "episode": "05",
             "title": "The Stun Spore Detour",
             "description": "With Ash and Tracey paralyzed by a wild Vileplume’s Stun Spore, it’s up to Misty to find a local plant and save the day!",
             "images": {
@@ -77,8 +77,8 @@
         },
         {
             "id": "s03e06",
-            "season": "3",
-            "episode": 6,
+            "season": "03",
+            "episode": "06",
             "title": "Hello Pummelo",
             "description": "With his four Orange League badges in hand, Ash has one last challenge to face before he can be crowned Champion of the Orange League. Does he have what it takes?",
             "images": {
@@ -90,8 +90,8 @@
         },
         {
             "id": "s03e07",
-            "season": "3",
-            "episode": 7,
+            "season": "03",
+            "episode": "07",
             "title": "Enter The Dragonite",
             "description": "Ash’s battle for the Orange League Winner’s Trophy rages on, and it soon becomes apparent that he will have to take on a powerful Dragonite to become the Orange League Champion!",
             "images": {
@@ -103,8 +103,8 @@
         },
         {
             "id": "s03e08",
-            "season": "3",
-            "episode": 8,
+            "season": "03",
+            "episode": "08",
             "title": "Viva Las Lapras",
             "description": "Trying to rescue a local school of Lapras from would-be poachers, our heroes must find a way to convince these distrustful Pokémon they are friends...before it’s too late!",
             "images": {
@@ -116,8 +116,8 @@
         },
         {
             "id": "s03e09",
-            "season": "3",
-            "episode": 9,
+            "season": "03",
+            "episode": "09",
             "title": "The Underground Round Up",
             "description": "With Pallet Town on their minds, our heroes are searching for a ferry, but soon discover the port is abandoned...except for some explosive Electrode! Can Ash stop Team Rocket before the ferry goes up in smoke?",
             "images": {
@@ -129,8 +129,8 @@
         },
         {
             "id": "s03e10",
-            "season": "3",
-            "episode": 10,
+            "season": "03",
+            "episode": "10",
             "title": "The Tent Situation",
             "description": "Ash has an eventful homecoming with a surprise visit from an old friend, a visit to see Professor Oak, and a Team Rocket raid. There’s no place like home!",
             "images": {
@@ -142,8 +142,8 @@
         },
         {
             "id": "s03e11",
-            "season": "3",
-            "episode": 11,
+            "season": "03",
+            "episode": "11",
             "title": "A Rivalry Revival",
             "description": "After Gary comes to the rescue against Team Rocket, Ash seizes an opportunity…at long last, our hero gets to challenge his rival to their very first Pokémon battle!",
             "images": {
@@ -155,8 +155,8 @@
         },
         {
             "id": "s03e12",
-            "season": "3",
-            "episode": 12,
+            "season": "03",
+            "episode": "12",
             "title": "Don't Touch That 'Dile!",
             "description": "Ash begins his journey in Johto, a region largely unexplored and populated with Pokémon entirely new to him and his friends.",
             "images": {
@@ -168,8 +168,8 @@
         },
         {
             "id": "s03e13",
-            "season": "3",
-            "episode": 13,
+            "season": "03",
+            "episode": "13",
             "title": "The Double Trouble Header!",
             "description": "On the road again, Ash and his Charizard soundly defeat an ambitious rookie Trainer named Casey. Upset, she runs away before Ash can comfort her—the perfect time for Team Rocket to strike! ",
             "images": {
@@ -181,8 +181,8 @@
         },
         {
             "id": "s03e14",
-            "season": "3",
-            "episode": 14,
+            "season": "03",
+            "episode": "14",
             "title": "A Sappy Ending!",
             "description": "In a forest that's being destroyed by rampaging Pinsir, Ash has to enlist the help of the local Heracross to protect their home! But it turns out these Pokémon look tougher than they act…",
             "images": {
@@ -194,8 +194,8 @@
         },
         {
             "id": "s03e15",
-            "season": "3",
-            "episode": 15,
+            "season": "03",
+            "episode": "15",
             "title": "Roll On, Pokémon!",
             "description": "On their way to Violet City, our heroes arrive in a valley where Donphan are used to harvest precious stones. Needless to say, the Team Rocket villains aren't far behind them!",
             "images": {
@@ -207,8 +207,8 @@
         },
         {
             "id": "s03e16",
-            "season": "3",
-            "episode": 16,
+            "season": "03",
+            "episode": "16",
             "title": "Illusion Confusion!",
             "description": "The forest can be a scary place at night, especially when you’re lost! Our heroes will need some help to get out of this mess. It's Hoothoot to the rescue!",
             "images": {
@@ -220,8 +220,8 @@
         },
         {
             "id": "s03e17",
-            "season": "3",
-            "episode": 17,
+            "season": "03",
+            "episode": "17",
             "title": "Flower Power!",
             "description": "On their first stop in a city since New Bark Town, our heroes decide to help an insecure Bellossom dance troupe regain their confidence and perform in an upcoming exhibition!",
             "images": {
@@ -233,8 +233,8 @@
         },
         {
             "id": "s03e18",
-            "season": "3",
-            "episode": 18,
+            "season": "03",
+            "episode": "18",
             "title": "Spinarak Attack!",
             "description": "Ash and the gang arrive in a town besieged by apparent copycat crimes mimicking a legendary master thief. The town’s hopes lie with these young Trainers...how can they stop this criminal duo and their Meowth accomplice?",
             "images": {
@@ -246,8 +246,8 @@
         },
         {
             "id": "s03e19",
-            "season": "3",
-            "episode": 19,
+            "season": "03",
+            "episode": "19",
             "title": "Snubbull Snobbery!",
             "description": "When our heroes return an unhappy Snubbull to its wealthy Trainer, it sparks off a series of events that will change the Pokémon’s life forever!",
             "images": {
@@ -259,8 +259,8 @@
         },
         {
             "id": "s03e20",
-            "season": "3",
-            "episode": 20,
+            "season": "03",
+            "episode": "20",
             "title": "The Little Big Horn!",
             "description": "When Brock discovers a hurt and frightened Stantler in a nearby park, he decides to nurse it back to health. But with Jessie, James and Meowth on his case, can he keep Stantler safe?",
             "images": {
@@ -272,8 +272,8 @@
         },
         {
             "id": "s03e21",
-            "season": "3",
-            "episode": 21,
+            "season": "03",
+            "episode": "21",
             "title": "Chikorita Rescue!",
             "description": "Still on the road to Violet City, Ash encounters a wild Chikorita and tries to catch it. Chikorita proves to be a tougher opponent than he originally thought, and things only get worse when Team Rocket arrives…",
             "images": {
@@ -285,8 +285,8 @@
         },
         {
             "id": "s03e22",
-            "season": "3",
-            "episode": 22,
+            "season": "03",
+            "episode": "22",
             "title": "Once In A Blue Moon!",
             "description": "Professor Oak’s errand to deliver the mysterious GS Ball to a Poké Ball expert is interrupted when a Quagsire with an eye for round objects steals the GS Ball for a nocturnal ritual…",
             "images": {
@@ -298,8 +298,8 @@
         },
         {
             "id": "s03e23",
-            "season": "3",
-            "episode": 23,
+            "season": "03",
+            "episode": "23",
             "title": "The Whistle Stop!",
             "description": "Under yet another Team Rocket ambush, a young Trainer and her Ledyba help our heroes see them off. But, amidst the chaos, her Ledyba get separated from the group—where could they be?",
             "images": {
@@ -311,8 +311,8 @@
         },
         {
             "id": "s03e24",
-            "season": "3",
-            "episode": 24,
+            "season": "03",
+            "episode": "24",
             "title": "Ignorance is Blissey!",
             "description": "Our heroes make a rest stop in a Pokémon Center, which is run by a kind-hearted but misguided Blissey. Things only get worse when an old friend of Blissey's drops in unexpectedly…",
             "images": {
@@ -324,8 +324,8 @@
         },
         {
             "id": "s03e25",
-            "season": "3",
-            "episode": 25,
+            "season": "03",
+            "episode": "25",
             "title": "A Bout With Sprout!",
             "description": "Finally reaching Violet City, Ash’s search for the Gym is halted by a trip to the local Pokémon Academy. Ash does well playing teacher, until one pupil takes off with Pikachu!",
             "images": {
@@ -337,8 +337,8 @@
         },
         {
             "id": "s03e26",
-            "season": "3",
-            "episode": 26,
+            "season": "03",
+            "episode": "26",
             "title": "Fighting Flyer With Fire!",
             "description": "It’s finally time for Ash’s first Johto League Gym battle, and he’s feeling confident. But Falkner’s Flying-type Pokémon prove to be tough competition! Can Ash take the win—and his first Gym badge? ",
             "images": {
@@ -350,8 +350,8 @@
         },
         {
             "id": "s03e27",
-            "season": "3",
-            "episode": 27,
+            "season": "03",
+            "episode": "27",
             "title": "For Crying Out Loud!",
             "description": "Back on the road after his first Johto Gym badge win, Ash and the gang find a cute Marill that won’t stop crying! Nothing our heroes try will stop it, and a Team Rocket raid certainly won’t help! ",
             "images": {
@@ -363,8 +363,8 @@
         },
         {
             "id": "s03e28",
-            "season": "3",
-            "episode": 28,
+            "season": "03",
+            "episode": "28",
             "title": "Tanks A Lot!",
             "description": "Team Rocket’s latest invention is bound to be a hit...until Togepi and its newfound Sentret friend take it out for a spin!",
             "images": {
@@ -376,8 +376,8 @@
         },
         {
             "id": "s03e29",
-            "season": "3",
-            "episode": 29,
+            "season": "03",
+            "episode": "29",
             "title": "Charizard's Burning Ambitions!",
             "description": "Ash hears of a training ground for wild Charizard and decides it's just the place to hone his own Charizard’s strength. But the tough lessons to be learned there will change Ash and Charizard’s friendship forever!",
             "images": {
@@ -389,8 +389,8 @@
         },
         {
             "id": "s03e30",
-            "season": "3",
-            "episode": 30,
+            "season": "03",
+            "episode": "30",
             "title": "Grin To Win!",
             "description": "Back on the road to the Azalea Gym, our heroes discover a Sunflora festival in a nearby town and meet a Trainer whose Sunflora is too sad to compete. Can Ash and the gang put a smile on its face?",
             "images": {
@@ -402,8 +402,8 @@
         },
         {
             "id": "s03e31",
-            "season": "3",
-            "episode": 31,
+            "season": "03",
+            "episode": "31",
             "title": "Chikorita's Big Upset!",
             "description": "Ash is having a hard time getting his Chikorita to listen to him, and Nurse Joy thinks that it’s due to a bout of jealousy over Ash’s friendship with Pikachu! Can Ash prove how much Chikorita means to him?",
             "images": {
@@ -415,8 +415,8 @@
         },
         {
             "id": "s03e32",
-            "season": "3",
-            "episode": 32,
+            "season": "03",
+            "episode": "32",
             "title": "Foul Weather Friends!",
             "description": "Our heroes meet a Trainer whose Hoppip partners can predict the weather. But on the horizon, there are two storms approaching...and one of them goes by the name “Team Rocket”!",
             "images": {
@@ -428,8 +428,8 @@
         },
         {
             "id": "s03e33",
-            "season": "3",
-            "episode": 33,
+            "season": "03",
+            "episode": "33",
             "title": "The Superhero Secret!",
             "description": "The legendary superhero Gligarman grows old and is beginning to consider hanging up his cape. When Ash and friends wander into town, they bring with them a challenge that could be his final fight: Team Rocket!",
             "images": {
@@ -441,8 +441,8 @@
         },
         {
             "id": "s03e34",
-            "season": "3",
-            "episode": 34,
+            "season": "03",
+            "episode": "34",
             "title": "Mild 'n Wooly!",
             "description": "When an unruly herd of Mareep ruin their lunch plans, our heroes decide to help their timid herder in time to compete in a local battle festival.",
             "images": {
@@ -454,8 +454,8 @@
         },
         {
             "id": "s03e35",
-            "season": "3",
-            "episode": 35,
+            "season": "03",
+            "episode": "35",
             "title": "Wired For Battle!",
             "description": "When the top student at a Pokémon training center loses interest in Pokémon battles, opting to build a comprehensive Pokémon database instead, it’s up to Ash to convince him that battling is not just about probability!",
             "images": {
@@ -467,8 +467,8 @@
         },
         {
             "id": "s03e36",
-            "season": "3",
-            "episode": 36,
+            "season": "03",
+            "episode": "36",
             "title": "Good 'Quil Hunting!",
             "description": "When Ash finds a Cyndaquil in the wild, he is eager to catch it...but you can bet he’s not the only one!",
             "images": {
@@ -480,8 +480,8 @@
         },
         {
             "id": "s03e37",
-            "season": "3",
-            "episode": 37,
+            "season": "03",
+            "episode": "37",
             "title": "A Shadow Of A Drought!",
             "description": "Arriving in Azalea Town, Ash carelessly provokes its residents, who adore Slowpoke. And things only look worse as Team Rocket arrives, meaning to snag every last Slowpoke! What can Ash do?",
             "images": {
@@ -493,8 +493,8 @@
         },
         {
             "id": "s03e38",
-            "season": "3",
-            "episode": 38,
+            "season": "03",
+            "episode": "38",
             "title": "Going Apricorn!",
             "description": "As he promised Professor Oak, Ash delivers the mysterious GS Ball to a renowned Poké Ball expert. But the fruits of his labor are almost spoiled when Team Rocket bursts onto the scene!",
             "images": {
@@ -506,8 +506,8 @@
         },
         {
             "id": "s03e39",
-            "season": "3",
-            "episode": 39,
+            "season": "03",
+            "episode": "39",
             "title": "Gettin' the Bugs Out!",
             "description": "Ash has finally reached the Azalea Gym, but Cyndaquil isn’t quite fired up enough to take on the Gym Leader. As the battle heats up, Ash has to give his all to take on the powerful Bug-type Pokémon!",
             "images": {
@@ -519,8 +519,8 @@
         },
         {
             "id": "s03e40",
-            "season": "3",
-            "episode": 40,
+            "season": "03",
+            "episode": "40",
             "title": "A Farfetch'd Tale!",
             "description": "An inexperienced young Trainer has managed to scare off his own Farfetch’d. Our heroes are happy to help him out, but they'll have to find it before Team Rocket does!",
             "images": {
@@ -532,8 +532,8 @@
         },
         {
             "id": "s03e41",
-            "season": "3",
-            "episode": 41,
+            "season": "03",
+            "episode": "41",
             "title": "Tricks Of The Trade!",
             "description": "At an annual Pokémon trading festival, a young Trainer is looking for a good trade for his Wobbuffet. The Team Rocket trio are looking for opportunities as well, but both sets of Trainers get more than they bargain for!",
             "images": {
@@ -545,8 +545,8 @@
         },
         {
             "id": "s03e42",
-            "season": "3",
-            "episode": 42,
+            "season": "03",
+            "episode": "42",
             "title": "The Fire-ing Squad!",
             "description": "An unexpected Pokémon firefighting competition reunites our heroes with some old friends, the Squirtle Squad! But they are in desperate need of some leadership, so Ash and Squirtle rejoin the ranks.",
             "images": {
@@ -558,8 +558,8 @@
         },
         {
             "id": "s03e43",
-            "season": "3",
-            "episode": 43,
+            "season": "03",
+            "episode": "43",
             "title": "No Big Woop!",
             "description": "When they stumble upon a preschool for Wooper and an emergency calls the teacher away, our heroes come to the rescue! But, as always, Team Rocket is around the corner and up to no good…",
             "images": {
@@ -571,8 +571,8 @@
         },
         {
             "id": "s03e44",
-            "season": "3",
-            "episode": 44,
+            "season": "03",
+            "episode": "44",
             "title": "Tunnel Vision!",
             "description": "On the way to Goldenrod City, our heroes are forced to head through a tunnel guarded by angry Onix. To make it more difficult, Team Rocket, Snubbull, and Jigglypuff drop in for a visit…",
             "images": {
@@ -584,8 +584,8 @@
         },
         {
             "id": "s03e45",
-            "season": "3",
-            "episode": 45,
+            "season": "03",
+            "episode": "45",
             "title": "Hour Of The Houndour!",
             "description": "Following a string of mysterious thefts, our heroes discover some Houndour struggling to survive in the wild. To help these thieving Pokémon mend their ways, Ash and friends will first have to earn their trust.",
             "images": {
@@ -597,8 +597,8 @@
         },
         {
             "id": "s03e46",
-            "season": "3",
-            "episode": 46,
+            "season": "03",
+            "episode": "46",
             "title": "The Totodile Duel!",
             "description": "Ash and Misty’s rivalry is reignited when they both try to capture a Totodile at the same time. Unable to see whose Poké Ball actually caught it, they decide a battle is the best way to decide Totodile’s new Trainer.",
             "images": {
@@ -610,8 +610,8 @@
         },
         {
             "id": "s03e47",
-            "season": "3",
-            "episode": 47,
+            "season": "03",
+            "episode": "47",
             "title": "Hot Matches!",
             "description": "When Ash hears of a virtually unbeatable Trainer nearby, he's itching to take on the challenge. But both Brock’s Vulpix and Ash’s Cyndaquil take a beating from her Skarmory, even with their type advantage! How can Ash defeat it? ",
             "images": {
@@ -623,8 +623,8 @@
         },
         {
             "id": "s03e48",
-            "season": "3",
-            "episode": 48,
+            "season": "03",
+            "episode": "48",
             "title": "Love, Totodile Style!",
             "description": "Ash’s Totodile develops a crush on a passing Azumarill, the star performer of a Pokémon circus. When Team Rocket arrives to steal the show, Azumarill’s heart isn't the only thing Totodile has to win!",
             "images": {
@@ -636,8 +636,8 @@
         },
         {
             "id": "s03e49",
-            "season": "3",
-            "episode": 49,
+            "season": "03",
+            "episode": "49",
             "title": "Fowl Play!",
             "description": "Ash has his sights set on a rare Noctowl with unusual coloring, but this clever Pokémon repeatedly uses Hypnosis to get the better of him! Will Ash be able to catch this Noctowl napping?",
             "images": {
@@ -649,8 +649,8 @@
         },
         {
             "id": "s03e50",
-            "season": "3",
-            "episode": 50,
+            "season": "03",
+            "episode": "50",
             "title": "Forest Grumps!",
             "description": "A surprise attack from a group of Ursaring has our heroes and Team Rocket running for cover. In the chaos, the groups are split up, and the unenthusiastic pairings are forced to work together. But for how long?",
             "images": {
@@ -662,8 +662,8 @@
         },
         {
             "id": "s03e51",
-            "season": "3",
-            "episode": 51,
+            "season": "03",
+            "episode": "51",
             "title": "The Psychic Sidekicks!",
             "description": "After seeing a sign in the forest warning them about mischievous Ghost-type Pokémon, our heroes reach a town whose residents use Psychic types to repel them. But soon some spooky news arrives: a giant Gengar is on the loose!",
             "images": {
@@ -675,8 +675,8 @@
         },
         {
             "id": "s03e52",
-            "season": "3",
-            "episode": 52,
+            "season": "03",
+            "episode": "52",
             "title": "The Fortune Hunters!",
             "description": "A sudden craze in Pokémon fortune-telling turns out to be a plot to steal Pokémon from local Trainers. But Jessie, James and Meowth aren't behind it this time! Who are these con artists?",
             "images": {
