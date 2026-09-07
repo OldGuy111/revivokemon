@@ -24,6 +24,19 @@
             "embed_url": "https://www.youtube.com/embed/t4kyX_eaZt8"
         },
         {
+            "id": "fce9cc8ef7104d91a7c676b9345a740f",
+            "season": "3",
+            "episode": "1",
+            "title": "Don't Touch That 'dile",
+            "description": "Ash begins his journey in Johto, a largely unexplored region said to be thickly populated with Pokémon entirely new to him and his friends.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep12_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep12_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/EaOMsueW9v0"
+        },
+        {
             "id": "3fe7752ba09141f0b0f7756d1981c6b2",
             "season": "6",
             "episode": "1",

@@ -24,6 +24,19 @@
             "embed_url": "https://www.youtube.com/embed/VQFtkKgOVGk"
         },
         {
+            "id": "87eec0ff20ba4f688b8e1d217fa97740",
+            "season": "3",
+            "episode": "8",
+            "title": "Snubbull Snobbery",
+            "description": "With pet food prepared by a French chef, rooms of WalkMaster exercise equipment and closets stocked with the latest in Pokémon fashion, life couldn't be much better for a Palm Hills Snubbull.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep19_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep19_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/wSAa8vQNdhc"
+        },
+        {
             "id": "75c68d5c793b493b88fc0a2be9b3fa20",
             "season": "4",
             "episode": "18",

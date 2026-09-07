@@ -11,6 +11,19 @@
     "order": -1685059489,
     "media": [
         {
+            "id": "15de73a8194a4390bac924c55fac11cd",
+            "season": "3",
+            "episode": "11",
+            "title": "Once in a Blue Moon",
+            "description": "Professor Oak's errand—to deliver the mysterious GS Ball to a Poké Ball expert—is interrupted when a Quagsire with a penchant for spherical objects steals the GS ball for use in a nocturnal ritual.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep22_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep22_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/fmF-8w8yi78"
+        },
+        {
             "id": "4c5cb3b1b29f4e85a94d9c350e8c3ee1",
             "season": "3",
             "episode": "27",
@@ -21,7 +34,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep38_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/embed/u7dAwkjor0Q"
+            "embed_url": "https://www.youtube.com/embed/5bNbPfdSHq4"
         },
         {
             "id": "52bf7f15640f48089fa948c7be509d29",
@@ -34,7 +47,7 @@
                 "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep46_360_206.jpg"
             },
             "poketv_url": "",
-            "embed_url": "https://www.youtube.com/embed/vD9FvySkvLc"
+            "embed_url": "https://www.youtube.com/embed/s6rIaDkiV7I"
         },
         {
             "id": "7ac728c431e1450b9861c5e3ed9be1ed",
