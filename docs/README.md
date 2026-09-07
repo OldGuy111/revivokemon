@@ -11,6 +11,7 @@ That's where Revivokémon comes in. I hope you like it!
 Below is the list of content. Movies and Pokémon Origins will not be added as they are not available on YouTube officially.
 ## Done content
 * Season 1 to 10 - as far as September 5th, 2026
+* Seasons 1 to 4 with original thumbnails
 * Pokémon Generations
 * Pokémon Twilight Wings
 * Bidoof's Big Stand
@@ -27,7 +28,6 @@ Below is the list of content. Movies and Pokémon Origins will not be added as t
 ## To do
 * Episodes as they come
 * Extra Kids TV content
-* Fix Season 1-5 thumbnails
 * UI revamp
   * Home screen
 * Region-specific content

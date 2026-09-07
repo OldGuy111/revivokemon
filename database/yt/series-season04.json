@@ -3,8 +3,8 @@
     "title": "Pokémon: Johto League Champions",
     "description": "From the sprawling metropolis of Goldenrod City to the icy peak of Snowtop Mountain, the Johto region presents Ash, Misty, and Brock with exciting new adventures—along with a few familiar faces like their old friends Todd, Duplica, and Suzie! Johto’s rich past means plenty of Pokémon mysteries for our heroes to solve, and its exciting present means some tough challenges—Ash tackles three more Gyms, while handling competitions like the Pokémon Sumo Conference along the way.",
     "images": {
-        "dashboard": "https://qu.ax/hVrUt.jpg",
-        "spotlight": "https://i.ytimg.com/vi/3Zutr6Yhzk0/maxresdefault.jpg"
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season04/season04-1125x1500-en.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season04/season04-1660x940-en.png"
     },
     "category_id": 1.1,
     "category": "series",
@@ -17,8 +17,8 @@
             "title": "A Goldenrod Opportunity",
             "description": "Arriving in Goldenrod City, Ash is ready for his next Gym battle, but the Gym appears to be closed. Their plans delayed, our heroes decide to explore the vibrant city.",
             "images": {
-                "large": "https://i.ytimg.com/vi/3Zutr6Yhzk0/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/3Zutr6Yhzk0/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep01_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep01_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/3Zutr6Yhzk0"
@@ -30,8 +30,8 @@
             "title": "A Dairy Tale Ending",
             "description": "After losing to Whitney at the Goldenrod Gym, Ash is thinking of a rematch with her powerful Miltank. When Whitney suggests a trip to a Miltank dairy, it’s just the chance he's looking for!",
             "images": {
-                "large": "https://i.ytimg.com/vi/cM4XO3WBExc/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/cM4XO3WBExc/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep02_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep02_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/cM4XO3WBExc"
@@ -43,8 +43,8 @@
             "title": "Air Time",
             "description": "With his new Gym badge in hand, Ash is asked to appear on a local radio station. But while he's acting out a radio drama with some “professional actors,” the scripted danger becomes all too lifelike!",
             "images": {
-                "large": "https://i.ytimg.com/vi/qn1G5SZK6rM/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/qn1G5SZK6rM/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep03_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep03_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/qn1G5SZK6rM"
@@ -56,8 +56,8 @@
             "title": "The Bug Stops Here",
             "description": "A Bug Pokémon Catching Contest turns into a hive of activity when Ash goes up against his rival Casey—and it isn’t long before the Team Rocket villains swarm the scene, intent on catching a few things for themselves…",
             "images": {
-                "large": "https://i.ytimg.com/vi/Wcm8GAnr_48/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/Wcm8GAnr_48/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep04_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep04_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/Wcm8GAnr_48"
@@ -69,8 +69,8 @@
             "title": "Type Casting!",
             "description": "On the way to Ecruteak City, our heroes are trapped on the wrong side of a river. To get across, they first have to find a Sudowoodo...which, even for an expert, is no easy feat!",
             "images": {
-                "large": "https://i.ytimg.com/vi/jIe99CLgH6I/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/jIe99CLgH6I/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep05_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep05_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/jIe99CLgH6I"
@@ -82,8 +82,8 @@
             "title": "Fossil Fools",
             "description": "When an ex-student of Professor Oak’s discovers some restored Omanyte and Omastar in the wild, our heroes are called into action to save these prehistoric Pokémon from harsh times with Team Rocket!",
             "images": {
-                "large": "https://i.ytimg.com/vi/mJgxn8OUddk/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/mJgxn8OUddk/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep06_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep06_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/mJgxn8OUddk"
@@ -95,8 +95,8 @@
             "title": "Carrying On",
             "description": "The Pidgey Express courier service is in need of our heroes' helping hands, especially when Team Rocket wants to have the delivery Pidgey signed, sealed, and delivered to the Boss!",
             "images": {
-                "large": "https://i.ytimg.com/vi/_4706FpqFOs/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/_4706FpqFOs/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep07_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep07_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/_4706FpqFOs"
@@ -108,8 +108,8 @@
             "title": "Hassle in the Castle",
             "description": "Caught in a sudden downpour, our heroes find a castle clinic that uses Pokémon healers to help patients. But when Brock and the doctor end up trapped in the castle's labyrinth, a helping hand is needed to get them out!",
             "images": {
-                "large": "https://i.ytimg.com/vi/8j1okJVoO2g/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/8j1okJVoO2g/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep08_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep08_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/8j1okJVoO2g"
@@ -121,8 +121,8 @@
             "title": "Two Hits and a Miss",
             "description": "After meeting the elderly owner of a Pokémon dojo, Ash is called upon to replace the man's granddaughter as the chosen heir! But when a vicious challenger approaches, can Ash help defend the dojo from destruction? ",
             "images": {
-                "large": "https://i.ytimg.com/vi/fkzVjDF1woU/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/fkzVjDF1woU/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep09_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep09_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/fkzVjDF1woU"
@@ -134,8 +134,8 @@
             "title": "A Hot Water Battle",
             "description": "Chikorita, Cyndaquil, and Totodile find themselves separated from the group and stuck in a ravine! When Meowth finds himself stuck too, an unlikely partnership forms!",
             "images": {
-                "large": "https://i.ytimg.com/vi/uj_0liP4KEE/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/uj_0liP4KEE/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep10_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep10_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/uj_0liP4KEE"
@@ -147,8 +147,8 @@
             "title": "Hook, Line and Stinker",
             "description": "Misty is reeled into a rivalry at a local Seaking fishing competition. Can she come out on top?",
             "images": {
-                "large": "https://i.ytimg.com/vi/7yLIggbC4J4/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/7yLIggbC4J4/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep11_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep11_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/7yLIggbC4J4"
@@ -160,8 +160,8 @@
             "title": "Beauty and the Breeder",
             "description": "A Pokémon breeding contest gives our heroes a chance to compete, greet an old friend, and defeat Team Rocket once again!",
             "images": {
-                "large": "https://i.ytimg.com/vi/BTMZ1I1zGGI/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/BTMZ1I1zGGI/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep12_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep12_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/BTMZ1I1zGGI"
@@ -173,8 +173,8 @@
             "title": "A Better Pill to Swallow",
             "description": "When Ash comes down with a serious stomachache far from any hospital, a local healer and his Shuckle companions are on task to set him right!",
             "images": {
-                "large": "https://i.ytimg.com/vi/IHksXbhJNgA/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/IHksXbhJNgA/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep13_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep13_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/IHksXbhJNgA"
@@ -186,8 +186,8 @@
             "title": "Power Play",
             "description": "A run-in with his longtime rival Gary leaves Ash in a bad mood. But when Team Rocket’s latest weapon starts terrorizing the local Pokémon Center, Ash might have to turn to him for help! ",
             "images": {
-                "large": "https://i.ytimg.com/vi/Aa8VhPDbxbI/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/Aa8VhPDbxbI/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep14_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep14_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/Aa8VhPDbxbI"
@@ -199,8 +199,8 @@
             "title": "Mountain Time",
             "description": "After our heroes meet a mountain patrol and their Ledian partners, they'll have to help protect the mountain from a destructive Team Rocket attack!",
             "images": {
-                "large": "https://i.ytimg.com/vi/fIys567mMso/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/fIys567mMso/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep15_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep15_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/fIys567mMso"
@@ -212,8 +212,8 @@
             "title": "Wobbu-Palooza",
             "description": "The peace and quiet of a Wobbuffet festival is interrupted by some hooligans picking a fight. Pokémon battles are banned during the festival, so how can our heroes defend the town?",
             "images": {
-                "large": "https://i.ytimg.com/vi/i4nFCcn4U-g/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/i4nFCcn4U-g/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep16_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep16_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/i4nFCcn4U-g"
@@ -225,8 +225,8 @@
             "title": "Imitation Confrontation",
             "description": "Ash and the gang are happy to see Duplica again...but not as happy as the Team Rocket trio, when they discover her newest Ditto’s tiny transformations!",
             "images": {
-                "large": "https://i.ytimg.com/vi/2B8Ytj4fNIY/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/2B8Ytj4fNIY/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep17_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep17_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/2B8Ytj4fNIY"
@@ -238,8 +238,8 @@
             "title": "The Trouble with Snubbull",
             "description": "A Snubbull falls into a Team Rocket trap, and the villains try to ransom it back to its wealthy Trainer. But when the Pokémon fights back, Jessie, James, and Meowth might be the ones in trouble!",
             "images": {
-                "large": "https://i.ytimg.com/vi/2_qGrYE9TDw/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/2_qGrYE9TDw/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep18_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep18_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/2_qGrYE9TDw"
@@ -251,8 +251,8 @@
             "title": "Ariados, Amigos",
             "description": "On their way to Ecruteak City, our heroes must help a familiar Trainer and her Ariados defend a martial arts center from a rampaging Team Rocket!",
             "images": {
-                "large": "https://i.ytimg.com/vi/SXrXSW1jS4o/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/SXrXSW1jS4o/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep19_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep19_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/SXrXSW1jS4o"
@@ -264,8 +264,8 @@
             "title": "Wings 'n' Things",
             "description": "When a young Trainer’s Yanma accidentally destroys his father’s precious glasswork, it inspires a Team Rocket scheme that will shatter the peace and quiet of the town!",
             "images": {
-                "large": "https://i.ytimg.com/vi/VAhFssTid80/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/VAhFssTid80/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep20_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep20_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/VAhFssTid80"
@@ -277,8 +277,8 @@
             "title": "The Grass Route",
             "description": "Hearing of a nearby Grass-type Pokémon tournament, Ash decides to enter...and a rivalry soon begins to bloom amid the heat of battle!",
             "images": {
-                "large": "https://i.ytimg.com/vi/dKzblHJ0cDM/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/dKzblHJ0cDM/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep21_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep21_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/dKzblHJ0cDM"
@@ -290,8 +290,8 @@
             "title": "The Apple Corp!",
             "description": "Pikachu’s in trouble when an orchard owner mistakes it for one of the hungry Pichu that have ransacked her harvests. Ash wants to help, but will the fruits of his labor satisfy both the orchard owner and the Pokémon? ",
             "images": {
-                "large": "https://i.ytimg.com/vi/8ameAiAAmJs/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/8ameAiAAmJs/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep22_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep22_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/8ameAiAAmJs"
@@ -303,8 +303,8 @@
             "title": "Houndoom's Special Delivery",
             "description": "When the smoke clears after their latest run-in with Team Rocket, our heroes quickly realize that Togepi is missing! As they begin the search, Togepi has started making friends in another part of the forest.",
             "images": {
-                "large": "https://i.ytimg.com/vi/P0Jj_IABtSo/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/P0Jj_IABtSo/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep23_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep23_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/P0Jj_IABtSo"
@@ -316,8 +316,8 @@
             "title": "A Ghost of a Chance",
             "description": "Finally reaching Ecruteak City, our heroes set out to find the Gym, but wind up inside a decaying tower instead. Suddenly, the tower bursts into flames with our heroes trapped inside! How can they escape? ",
             "images": {
-                "large": "https://i.ytimg.com/vi/Dba8YZFbHYo/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/Dba8YZFbHYo/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep24_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep24_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/Dba8YZFbHYo"
@@ -329,8 +329,8 @@
             "title": "From Ghost to Ghost",
             "description": "It is finally time for Ash’s fourth Gym battle! After seeing Morty’s powerful Gengar in action, Ash is under no illusions about how tough these Ghost-type Pokémon will be! Can he claim the Fog Badge?",
             "images": {
-                "large": "https://i.ytimg.com/vi/EWW0L_R3OCg/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/EWW0L_R3OCg/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep25_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep25_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/EWW0L_R3OCg"
@@ -342,8 +342,8 @@
             "title": "Trouble's Brewing",
             "description": "When our heroes meet five beautiful sisters in a cultural garden, they are soon challenged to a series of testing battles involving Eevee and some of its evolved forms! ",
             "images": {
-                "large": "https://i.ytimg.com/vi/rCEXFhhHLm0/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/rCEXFhhHLm0/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep26_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep26_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/rCEXFhhHLm0"
@@ -355,8 +355,8 @@
             "title": "All That Glitters!",
             "description": "A mischievous flock of Murkrow cause trouble for Ash and Team Rocket by stealing some of their most prized possessions! Now, the race is on to get them back!",
             "images": {
-                "large": "https://i.ytimg.com/vi/WqEes5ERsVM/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/WqEes5ERsVM/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep27_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep27_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/WqEes5ERsVM"
@@ -368,8 +368,8 @@
             "title": "The Light Fantastic",
             "description": "In a harsh desert landscape, a strange light appears, and a city of ruins rises up before our heroes. But how did the city come to be this way? Could it have something to do with the beautiful light show?",
             "images": {
-                "large": "https://i.ytimg.com/vi/xv65Pd6vk-U/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/xv65Pd6vk-U/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep28_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep28_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/xv65Pd6vk-U"
@@ -381,8 +381,8 @@
             "title": "Unbearable",
             "description": "There’s a food thief amongst our heroes...could it have anything to do with the cute and cuddly Teddiursa who has joined them on their journey?",
             "images": {
-                "large": "https://i.ytimg.com/vi/-08cJlAxKpU/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/-08cJlAxKpU/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep29_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep29_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/-08cJlAxKpU"
@@ -394,8 +394,8 @@
             "title": "Moving Pictures",
             "description": "When our heroes are reunited with Pokémon photographer Todd Snap, he starts them on an adventure to find the Legendary Pokémon Articuno!",
             "images": {
-                "large": "https://i.ytimg.com/vi/F-e8KGGhgmA/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/F-e8KGGhgmA/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep30_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep30_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/F-e8KGGhgmA"
@@ -407,8 +407,8 @@
             "title": "Spring Fever",
             "description": "Still searching for Articuno, our heroes are found by a trio of keen-nosed, snuffling Swinub, and Team Rocket are keen on sniffing them out for profit!",
             "images": {
-                "large": "https://i.ytimg.com/vi/reQTs8lXBXs/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/reQTs8lXBXs/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep31_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep31_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/reQTs8lXBXs"
@@ -420,8 +420,8 @@
             "title": "Freeze Frame",
             "description": "Our heroes have finally found Articuno, but they’ve led Team Rocket right to the Legendary Pokémon as well!",
             "images": {
-                "large": "https://i.ytimg.com/vi/td9L5F0DLmI/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/td9L5F0DLmI/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep32_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep32_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/td9L5F0DLmI"
@@ -433,8 +433,8 @@
             "title": "The Stolen Stones",
             "description": "Ash and the gang are rescued by a courier service of Arcanine and Growlithe, and in turn must rescue them and their cargo of Fire Stones from the burning ambition of Team Rocket!",
             "images": {
-                "large": "https://i.ytimg.com/vi/tazDQefjoRw/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/tazDQefjoRw/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep33_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep33_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/tazDQefjoRw"
@@ -446,8 +446,8 @@
             "title": "The Dunsparce Deception",
             "description": "Our heroes find themselves in a village that adores Dunsparce and try to help one unlucky Trainer find one of his own! ",
             "images": {
-                "large": "https://i.ytimg.com/vi/SBF9gHDWHGs/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/SBF9gHDWHGs/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep34_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep34_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/SBF9gHDWHGs"
@@ -459,8 +459,8 @@
             "title": "The Wayward Wobbuffet",
             "description": "The race is on to find Team Rocket’s Wobbuffet when it runs off with the key to an indestructible cage…a cage that holds Ash's Pikachu!",
             "images": {
-                "large": "https://i.ytimg.com/vi/Td-URqrnuSg/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/Td-URqrnuSg/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep35_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep35_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/Td-URqrnuSg"
@@ -472,8 +472,8 @@
             "title": "Sick Days",
             "description": "When Brock falls ill, it’s up to Ash and Misty to keep the group well and fed. But their inexperience, and the meddling of Team Rocket, makes their new jobs not-so-simple!",
             "images": {
-                "large": "https://i.ytimg.com/vi/rzvRl1qkpB4/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/rzvRl1qkpB4/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep36_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep36_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/rzvRl1qkpB4"
@@ -485,8 +485,8 @@
             "title": "Ring Masters",
             "description": "Ash finds out about a local Pokémon Sumo competition and decides he wants to enter. He has just the Pokémon for the job: the mighty Snorlax!",
             "images": {
-                "large": "https://i.ytimg.com/vi/olOVsmvcliE/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/olOVsmvcliE/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep37_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep37_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/olOVsmvcliE"
@@ -498,8 +498,8 @@
             "title": "The Poké Spokésman",
             "description": "A supposed Pokémon translator helps an exhausted Pikachu out on the road, but our heroes soon discover he is wanted by the police for fraud. Whose story do they believe?",
             "images": {
-                "large": "https://i.ytimg.com/vi/WFukh52bHNk/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/WFukh52bHNk/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep38_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep38_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/WFukh52bHNk"
@@ -511,8 +511,8 @@
             "title": "Control Freak!",
             "description": "Hearing of ancient relics that allow the wearer to control any Pokémon, Jessie, James, and Meowth are preparing to crash an excavation to dig up the treasure of a lifetime!",
             "images": {
-                "large": "https://i.ytimg.com/vi/xEk1UOulEOY/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/xEk1UOulEOY/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep39_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep39_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/xEk1UOulEOY"
@@ -524,8 +524,8 @@
             "title": "The Art of Pokémon",
             "description": "An aging artist and his Smeargle assistants get in some hot water when they attempt to turn a town into their next great masterpiece!",
             "images": {
-                "large": "https://i.ytimg.com/vi/bD_nj1nGFGg/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/bD_nj1nGFGg/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep40_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep40_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/bD_nj1nGFGg"
@@ -537,8 +537,8 @@
             "title": "The Heartbreak of Brock",
             "description": "Brock finally meets his match when another Trainer develops a mad crush on him…but with the tables turned, he's not entirely sure how to behave around her!",
             "images": {
-                "large": "https://i.ytimg.com/vi/ybYJh-hyW8I/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/ybYJh-hyW8I/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep41_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep41_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/ybYJh-hyW8I"
@@ -550,8 +550,8 @@
             "title": "Current Events",
             "description": "After becoming accidentally locked inside an electrical generator, Ash and Chikorita will have to avoid the aggressive security Pokémon and Team Rocket to make it out safely!",
             "images": {
-                "large": "https://i.ytimg.com/vi/fSOp5jKyL2M/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/fSOp5jKyL2M/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep42_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep42_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/fSOp5jKyL2M"
@@ -563,8 +563,8 @@
             "title": "Turning Over a New Bayleef",
             "description": "Bayleef is still getting used to its newly evolved form, and when Ash becomes impatient, it gets upset and runs away. Can our hero find his friend again and make amends?",
             "images": {
-                "large": "https://i.ytimg.com/vi/vBwRWQPRRcE/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/vBwRWQPRRcE/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep43_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep43_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/vBwRWQPRRcE"
@@ -576,8 +576,8 @@
             "title": "Doin' What Comes Natu-rally",
             "description": "A young Natu fortune-teller learning his craft is lacking confidence in front of an audience. Can Ash help encourage the young artist’s talent?",
             "images": {
-                "large": "https://i.ytimg.com/vi/dIkww0nNus4/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/dIkww0nNus4/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep44_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep44_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/dIkww0nNus4"
@@ -589,8 +589,8 @@
             "title": "The Big Balloon Blow-Up",
             "description": "Our heroes take part in a high-speed race in a hot air balloon, but the stakes are raised when Team Rocket enters as well, causing chaos in the clouds!",
             "images": {
-                "large": "https://i.ytimg.com/vi/1hLR6wk0kfo/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/1hLR6wk0kfo/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep45_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep45_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/1hLR6wk0kfo"
@@ -602,8 +602,8 @@
             "title": "The Screen Actor's Guilt",
             "description": "When a hooded man leaves a Smoochum with our heroes, it unravels a tale that will take them all the way to the bright lights of the silver screen!",
             "images": {
-                "large": "https://i.ytimg.com/vi/UKKDa1VBTKc/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/UKKDa1VBTKc/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep46_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep46_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/UKKDa1VBTKc"
@@ -615,8 +615,8 @@
             "title": "Right On, Rhydon",
             "description": "Ash and his friends are approached by a civil engineer with a problem: she has a team of Ground-type Pokémon working to build a tunnel, but they're terrified of the water that keeps leaking in! Can our heroes help? ",
             "images": {
-                "large": "https://i.ytimg.com/vi/FnyT8KCI1ZI/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/FnyT8KCI1ZI/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep47_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep47_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/FnyT8KCI1ZI"
@@ -628,8 +628,8 @@
             "title": "The Kecleon Caper",
             "description": "Aboard a luxury blimp, Team Rocket are trying to pinch a few valuables from wealthy travelers—but some courageous Kecleon are on hand to get the better of them! ",
             "images": {
-                "large": "https://i.ytimg.com/vi/emQiPPvSzeg/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/emQiPPvSzeg/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep48_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep48_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/emQiPPvSzeg"
@@ -641,8 +641,8 @@
             "title": "The Joy of Water Pokémon",
             "description": "Misty finally meets one of her idols, a Nurse Joy who specializes in Water types! But the reality doesn’t live up to the dream when Nurse Joy reveals that she doesn't share Misty’s love for aquatic Pokémon after all…",
             "images": {
-                "large": "https://i.ytimg.com/vi/tZqECNiaYvI/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/tZqECNiaYvI/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep49_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep49_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/tZqECNiaYvI"
@@ -654,8 +654,8 @@
             "title": "Got Miltank?",
             "description": "Ash and his friends have one last obstacle before Olivine City: a scorching desert! And when Cyndaquil goes missing, they have more than the heat to deal with!",
             "images": {
-                "large": "https://i.ytimg.com/vi/0LsqgApXv_Y/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/0LsqgApXv_Y/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep50_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep50_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/0LsqgApXv_Y"
@@ -667,8 +667,8 @@
             "title": "Fight for the Light",
             "description": "Ash’s next Gym battle is under way, but it's soon called off by Jasmine, the real Olivine Gym Leader, who claims that Ash has been battling an impostor! Will Ash now get the challenge he’s been searching for?",
             "images": {
-                "large": "https://i.ytimg.com/vi/Z6JFs6Cwmpw/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/Z6JFs6Cwmpw/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep51_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep51_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/Z6JFs6Cwmpw"
@@ -680,8 +680,8 @@
             "title": "Machoke, Machoke Man",
             "description": "After receiving the medicine in Cianwood City, our heroes soon discover the Gym Leader training hard with his Machoke. It's only a matter of time before Ash decides to go toe to toe with Chuck’s Fighting-type Pokémon! ",
             "images": {
-                "large": "https://i.ytimg.com/vi/OJDH50m-hUc/maxresdefault.jpg",
-                "medium": "https://i.ytimg.com/vi/OJDH50m-hUc/hqdefault.jpg"
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep52_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep52_360_206.jpg"
             },
             "poketv_url": "",
             "embed_url": "https://www.youtube.com/embed/OJDH50m-hUc"
