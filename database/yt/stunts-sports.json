@@ -1,0 +1,53 @@
+{
+    "id": "sports",
+    "title": "Speed, Strength, and Spirit",
+    "description": "Enjoy feats of athleticism and power from your favorite Pokémon on Pokémon TV.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/sports/sports-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/sports/sports-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1627054187,
+    "media": [
+        {
+            "id": "c8ddd8030014412b8e0563a6004befc2",
+            "season": "1",
+            "episode": "28",
+            "title": "The Punchy Pokémon",
+            "description": "In the outskirts of Fuchsia City, our heroes come across Hitmonchan, a fighter-Pokémon. With little thought, Ash attempts to capture it, but he and Pikachu are badly defeated.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep28_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep28_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/_LhB0LIQlQ0"
+        },
+        {
+            "id": "e0cb8ca2aef749129968d78d403c2cec",
+            "season": "1",
+            "episode": "32",
+            "title": "The Flame Pokémon-athon!",
+            "description": "Our heroes come to a prairie where the Laramies, a family of Pokémon Ranchers live. They learn from a daughter of the Laramie family that a race is held at the ranch once a year to measure the growth of everyone's Pokémon.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep32_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep32_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/RYdXQlBjjPI"
+        },
+        {
+            "id": "d42975929d46490f802c1a672b2c4cb1",
+            "season": "4",
+            "episode": "37",
+            "title": "Ring Masters",
+            "description": "As Ash and company pass through an intriguing little village, they notice a Feraligatr in the midst of a battle.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep37_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep37_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/olOVsmvcliE"
+        }
+    ]
+}

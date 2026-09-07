@@ -1,0 +1,105 @@
+{
+    "id": "go-charmander",
+    "title": "Charmander Spotlight",
+    "description": "Charmander sizzles on Pokémon TV this October.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/go/charmander/charmander-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/go/charmander/charmander-2048x1152.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1602255898,
+    "media": [
+        {
+            "id": "fdc7801efa85466bb14b2271e8e5115d",
+            "season": "1",
+            "episode": "11",
+            "title": "Charmander-The Stray Pokémon",
+            "description": "Our friends, lost, discover an injured Charmander. Pikachu talks to it and learns that it's been waiting a long time for its trainer to return.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep11_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep11_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/JhhupHQlal8"
+        },
+        {
+            "id": "f3e38e3d7f224382b18771924d73e04c",
+            "season": "1",
+            "episode": "24",
+            "title": "Primeape Goes Bananas",
+            "description": "On their way to Celadon City, our heroes encounter Mankey, a wild Pokémon that if rubbed the wrong way can go into uncontrollable fits.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep24_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep24_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/9aLD8SGoPIc"
+        },
+        {
+            "id": "a31de3de5db74a60a5bdba568a70ae7c",
+            "season": "1",
+            "episode": "25",
+            "title": "Pokémon Scent-sation!",
+            "description": "The party arrives in Celadon City, a perfectly pleasant town full of large department stores, condominiums, and fancy arcades.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep25_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep25_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/rrQmjrZedac"
+        },
+        {
+            "id": "c277c1f37909406fbc02cf68d506db63",
+            "season": "1",
+            "episode": "40",
+            "title": "The March of the Exeggutor Squad",
+            "description": "Our heroes continue their Pokémon training without a break even over spring vacation, when what should appear before them but a carnival.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep40_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep40_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/pBXQbh0mtCE"
+        },
+        {
+            "id": "b5fb9367191a417b9007f8c51c6f24be",
+            "season": "2",
+            "episode": "24",
+            "title": "A Friend in Deed",
+            "description": "Ash's Mom and Professor Oak make a surprise visit to watch Ash battle in the Pokémon League Tournament.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep24_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep24_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/x3Lo2lSdfq8"
+        },
+        {
+            "id": "2e4729524d154be2891eacaa5b79782b",
+            "season": "2",
+            "episode": "25",
+            "title": "Friend and Foe Alike",
+            "description": "A twist of fate pits Ash and his new friend, Richie, against each other in the fifth round of the Pokémon League Competition.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep25_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep25_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/aW85odlbP8w"
+        },
+        {
+            "id": "544086f6de1a4288b8c4e5af4a986c27",
+            "season": "7",
+            "episode": "31",
+            "title": "Six Pack Attack",
+            "description": "Ash and friends decide to visit Professor Birch. On the road they are nearly run over by Birch in his jeep, on his way to the port to pick up Professor Oak.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep31_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep31_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Yi2UVijDkOY"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "team-rocket-fake-out",
+    "title": "Team Rocket Fake Out",
+    "description": "Witness Team Rocket’s most outrageous schemes and job themes in Pokémon the Series.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/team-rocket-fake-out/team-rocket-fake-out-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/team-rocket-fake-out/team-rocket-fake-out-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1663948560,
+    "media": [
+        {
+            "id": "b421a4cd362c42dcacbdae34e33a821d",
+            "season": "5",
+            "episode": "56",
+            "title": "A Claim to Flame!",
+            "description": "Gary is set on entering the Silver Conference, and is determined that this time he will be able to make it all the way, and beat Ash!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep04_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep04_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Dw9S9Et4gzU"
+        },
+        {
+            "id": "68d47e9daa4d4efb89c819e0aaac6134",
+            "season": "6",
+            "episode": "36",
+            "title": "The Spheal of Approval!",
+            "description": "Fresh out of the contest, our heroes are exploring the bustling city of Slateport. Ash and Max want to check out the Sea Museum but discover that it is closed.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep48_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep48_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/WSqWvo3eiWo"
+        },
+        {
+            "id": "5faa2059578a4337a7d14f39f843984c",
+            "season": "8",
+            "episode": "9",
+            "title": "Vanity Affair",
+            "description": "After winning his seventh Gym badge, Ash can't stop bragging about his battle skills…until he runs into a member of the Elite Four!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep09_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep09_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/v7lnr9dKrhA"
+        }
+    ]
+}

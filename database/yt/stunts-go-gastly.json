@@ -1,0 +1,105 @@
+{
+    "id": "go-gastly",
+    "title": "Gastly Spotlight",
+    "description": "A spooky spotlight shines on Gastly when this creepy Pokémon appears in classic Pokémon the Series episodes on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/go/gastly/gastly-1125x1500-en.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/go/gastly/gastly-2048x1152.jpg"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1594998337,
+    "media": [
+        {
+            "id": "be3e83dd333b4b4f96adc383c503fc79",
+            "season": "1",
+            "episode": "19",
+            "title": "The Ghost of Maiden's Peak",
+            "description": "After leaving Acapulco in search of Saffron City, our heroes finally arrive at a small port town in the middle of celebrating a summer festival.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep19_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep19_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/boY4QaYhBeM"
+        },
+        {
+            "id": "c03d22833df648ef8445ae2488682385",
+            "season": "1",
+            "episode": "22",
+            "title": "The Tower of Terror",
+            "description": "In search of a ghost Pokémon, Ash heads immediately for a tower in Lavender Town where they are said to dwell.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep22_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep22_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/hrANeOomxRw"
+        },
+        {
+            "id": "b8771ed4a18a48ceaa915fd48695f0f8",
+            "season": "2",
+            "episode": "32",
+            "title": "Pikachu Re-Volts",
+            "description": "Just as Ash, Misty, and Tracey set foot on Mandarin Island, Pikachu and Togepi turn against them and join a group of other angry Pokémon.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep32_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep32_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/ZxrAqlIq0Lk"
+        },
+        {
+            "id": "6dd048942110476d8d686d5815aa87d1",
+            "season": "2",
+            "episode": "40",
+            "title": "A Shipful of Shivers",
+            "description": "Ash, Tracey and Misty find more excitement than they bargain for when they reach their next destination.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep40_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep40_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Lr5Y5LSedaQ"
+        },
+        {
+            "id": "bc5e73904d89417cb65ba10a30755ed4",
+            "season": "4",
+            "episode": "24",
+            "title": "A Ghost of a Chance",
+            "description": "Arriving in Ecruteak, Ash immediately heads to the Gym to challenge it's leader for his next Johto League badge.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep24_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep24_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Dba8YZFbHYo"
+        },
+        {
+            "id": "ed0b7c8ab400493ba7df6b62c1d15900",
+            "season": "4",
+            "episode": "25",
+            "title": "From Ghost to Ghost",
+            "description": "Anxious to acquire the next Johto League badge, Ash challenges Ecruteak City's Gym Leader, Morty.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep25_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep25_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/EWW0L_R3OCg"
+        },
+        {
+            "id": "9efefb5ffccd4088b8b068c92a6918f6",
+            "season": "9",
+            "episode": "1",
+            "title": "Fear Factor Phony!",
+            "description": "On a dark and stormy night, Ash and his friends find a deserted town near an old mine. Inside the mine is a Haunter, who scares our heroes away!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep01_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/qXWhloLj2bM"
+        }
+    ]
+}

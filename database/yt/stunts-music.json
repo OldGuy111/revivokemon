@@ -1,0 +1,53 @@
+{
+    "id": "music",
+    "title": "Makin’ Music with Pokémon",
+    "description": "Get into the groove with a collection of classic music-themed episodes of Pokémon the Series on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/music/music-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/music/music-2048x1152.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1614353723,
+    "media": [
+        {
+            "id": "507b0748100340538ab09cff27f3de7d",
+            "season": "1",
+            "episode": "42",
+            "title": "The Song of Jigglypuff",
+            "description": "Our heroes trudge along, resigning themselves to the idea of camping out in the desert as the sun slowly sets. Suddenly they see bright lights in front of them: a glamorous city appears before them, covered in neon lights.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep42_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep42_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Ss13Pnq6XII"
+        },
+        {
+            "id": "bc59dc6bec1c40db930855d150f23a51",
+            "season": "5",
+            "episode": "34",
+            "title": "Same Old Song and Dance",
+            "description": "In the midst of their travels, Ash and friends meet up with a young girl who, along with her two Igglybuff assistants, stars in her own musical variety television program.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep34_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep34_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/2uJ4Qr9v4oQ"
+        },
+        {
+            "id": "5ff34b3d0e8d4929bafba22cd39a32f7",
+            "season": "6",
+            "episode": "39",
+            "title": "A Poké-BLOCK Party!",
+            "description": "After making it to Mauville City, Ash and the gang see a sign stating that whoever can make it through the trick house will win a lifetime supply of PokéBlocks. Ash and the gang decide to try their luck.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep51_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep51_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/zNbfIedhwbs"
+        }
+    ]
+}

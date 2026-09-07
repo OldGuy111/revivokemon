@@ -1,0 +1,66 @@
+{
+    "id": "bug-out",
+    "title": "Bug Out",
+    "description": "Catch the Buzz about Bug-Type Pokémon on Pokémon TV.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/bug-out/bug-out-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/bug-out/bug-out-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1653667748,
+    "media": [
+        {
+            "id": "d120746b3bd1413fa79e9fdd0ec1e2d6",
+            "season": "1",
+            "episode": "20",
+            "title": "Bye Bye Butterfree",
+            "description": "When the party sees a flock of Butterfree flying above the ocean, Brock, as a Pokémon breeder, explains that it is the Butterfree's egg-laying season.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep20_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep20_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/T23nJU-KwZo"
+        },
+        {
+            "id": "3f2b53d49e42416faa5d9a83effafdfa",
+            "season": "3",
+            "episode": "3",
+            "title": "A Sappy Ending",
+            "description": "Ash and friends discover a forest where invading Pinsir are causing heavy deforestation.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep14_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep14_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/cgMRq5mvU9Q"
+        },
+        {
+            "id": "89fce5c6e024404381e49d1ed12aead1",
+            "season": "3",
+            "episode": "28",
+            "title": "Gettin' the Bugs Out",
+            "description": "When Ash reaches the Hive Gym, he has just the Pokémon to challenge the Gym Leader's Bug Pokémon.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep39_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep39_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/HQSuocuOyHI"
+        },
+        {
+            "id": "6d8712aaea124ca88a920d0dfce66c07",
+            "season": "6",
+            "episode": "28",
+            "title": "Seeing Is Believing",
+            "description": "Team Rocket is devising a plan to capture a Seedot. Jessie is gushing over how wonderful it's going to be when her Silcoon (which is actually a Cascoon) evolves into a Beautifly. James and Meowth shudder at the impending doom.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep40_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep40_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/xe_WC0qAst4"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": "go-piplup",
+    "title": "Piplup Spotlight",
+    "description": "Watch classic adventures featuring the feisty Water-type Pokémon Piplup on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/go/piplup/1125x1500-en.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/go/piplup/2048x1152.jpg"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1578690237,
+    "media": [
+        {
+            "id": "b1924dd62c274c5f8f34baea61f48958",
+            "season": "10",
+            "episode": "1",
+            "title": "Following a Maiden's Voyage",
+            "description": "It's always exciting when new Pokémon Trainers receives their first Pokémon, but for a girl named Dawn, things will be far more exciting than she'd ever imagined!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep01_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/iPxSEVCvLLE"
+        },
+        {
+            "id": "1125df073fbc497e9e21758ce90ec27e",
+            "season": "10",
+            "episode": "7",
+            "title": "Like It or Lup It",
+            "description": "It's a rough day for hero and villain alike, as Dawn's Piplup struggles to perfect a move for the upcoming Pokémon Contest and Team Rocket struggles to find something to eat.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep07_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep07_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/zD4GLhMfdFg"
+        }
+    ]
+}

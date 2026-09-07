@@ -1,0 +1,79 @@
+{
+    "id": "mysteries",
+    "title": "Pokémon Mysteries",
+    "description": "Mysteries and Superstitions Abound on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/mysteries/mysteries-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/mysteries/mysteries-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1652461174,
+    "media": [
+        {
+            "id": "295ef5f60e734937986a83e9a071bc28",
+            "season": "1",
+            "episode": "13",
+            "title": "Mystery at the Lighthouse",
+            "description": "A tremendously large shadow begins to take form in the sea mists, but this possible discovery could be hindered due to the infamous Team Rocket lurking in the background cooking up another one of their schemes.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep13_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep13_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/3l1lSNQxJA0"
+        },
+        {
+            "id": "44d5d54e8f774028baf269232962b982",
+            "season": "2",
+            "episode": "46",
+            "title": "The Mystery Menace",
+            "description": "In Trovitopolis City, Ash and friends hear stories about some kind of monster that's been scaring everyone—and when the ground cracks open and dumps them in the sewer, it seems they might meet this monster face to face!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep46_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep46_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Th59tGIEcUE"
+        },
+        {
+            "id": "9eae98702f4047a49ef747622a62ce99",
+            "season": "7",
+            "episode": "23",
+            "title": "Take the Lombre Home",
+            "description": "Ash and friends are headed to Petalburg City so he can earn his fifth Gym badge. They fall into yet another Team Rocket scheme to steal Pikachu but are saved by a wild Solrock.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep23_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep23_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/9UycZ16xXq4"
+        },
+        {
+            "id": "fd63423d0d2847fd973bca7a52e7e2f5",
+            "season": "7",
+            "episode": "47",
+            "title": "Crazy as a Lunatone",
+            "description": "Ken and Mary of the Pokémon Mystery Club are once again looking for a Pokémon from outer space, checking the site of a meteor crash.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep47_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep47_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/JNj9cR_h_f8"
+        },
+        {
+            "id": "fd34cf92bff24ab187aa4992e36a8ee2",
+            "season": "8",
+            "episode": "15",
+            "title": "Absol-ute Disaster",
+            "description": "An Absol appears to warn a village of danger, but the villagers think it's the one causing the trouble! Can our heroes clear up this misunderstanding?",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep15_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep15_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/CeOOVTvj5QE"
+        }
+    ]
+}

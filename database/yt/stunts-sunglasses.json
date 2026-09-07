@@ -1,0 +1,40 @@
+{
+    "id": "sunglasses",
+    "title": "Summer in Shades",
+    "description": "These Pokémon are spending their Summer in Shades on Pokémon TV.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/sunglasses/sunglasses-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/sunglasses/sunglasses-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1622120853,
+    "media": [
+        {
+            "id": "9a1a1bd56ce84c0694c6ba421b803524",
+            "season": "1",
+            "episode": "12",
+            "title": "Here Comes the Squirtle Squad",
+            "description": "Ash and his friends walk along a path and fall into a hole dug by a batch of mischievous Squirtle. Ash climbs out and tries to battle them, but they scatter when Officer Jenny arrives.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep12_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep12_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/1TlOcjJodHw"
+        },
+        {
+            "id": "d21d7772be5e4c9abbe09cab467b0072",
+            "season": "3",
+            "episode": "31",
+            "title": "The Fire-ing Squad!",
+            "description": "Ash and friends enthusiastically volunteer to watch over a troubled trainer's school of Wooper.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep42_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep42_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/6XmwBX-N-FA"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "young-women-of-pokemon",
+    "title": "Young Women of Pokémon",
+    "description": "Whether battling, training, or chasing their dreams, the young women of Pokémon shine brightly on Pokémon TV.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/young-women-of-pokemon/young-women-of-pokemon-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/young-women-of-pokemon/young-women-of-pokemon-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1679669284,
+    "media": [
+        {
+            "id": "8bfbd8ab3c814653b8395f6f0e0336ba",
+            "season": "2",
+            "episode": "6",
+            "title": "The Misty Mermaid",
+            "description": "One of Misty's water Pokémon is in desperate need of exercise, so the gang decides to take her Horsea to a gym that's run by her sisters in Cerulean City.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep06_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep06_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/G7EBiaDe_K0"
+        },
+        {
+            "id": "36c24181637e4ddfb17cac60d91afe4f",
+            "season": "3",
+            "episode": "13",
+            "title": "Ignorance Is Blissey",
+            "description": "Team Rocket can't believe their luck when the Blissey employed in a Pokémon Center willingly gives them the cente's entire food supply.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep24_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep24_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/SJEy7hIBZU8"
+        },
+        {
+            "id": "1d9c3254947e4b8c85d99afc5d0d45b5",
+            "season": "7",
+            "episode": "38",
+            "title": "Cruisin' For a Losin'",
+            "description": "The Rubello Pokémon Contest begins! Savannah is still nervous, but May is overconfident.  Both of them do well in the first round performances.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep38_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep38_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/ILcequdWXfA"
+        }
+    ]
+}

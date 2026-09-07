@@ -1,0 +1,105 @@
+{
+    "id": "nurse-joy",
+    "title": "Jump for Joy!",
+    "description": "Discover the joy of healing Pokémon and helping Trainers on Pokémon TV.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/nurse-joy/nurse-joy-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/nurse-joy/nurse-joy-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1624635318,
+    "media": [
+        {
+            "id": "6b69ee5256d54ca08fd7ad4b8b499fb3",
+            "season": "1",
+            "episode": "2",
+            "title": "Pokémon Emergency",
+            "description": "The city's on high alert for Pokémon thieves—thieves like Jessie, James, and Meowth of Team Rocket, a group of bad guys dedicated to stealing valuable Pokémon.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep02_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep02_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/h6LFdBPjbf4"
+        },
+        {
+            "id": "0623d8eef8f843538227b0539506877c",
+            "season": "2",
+            "episode": "37",
+            "title": "The Joy of Pokémon",
+            "description": "While sailing between small islands, the group encounters an extremely busy Nurse Joy.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep37_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep37_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/LP_9xMRbmMA"
+        },
+        {
+            "id": "99e89f3cfa6b4dfd9bddcb04fa7d0047",
+            "season": "3",
+            "episode": "13",
+            "title": "Ignorance Is Blissey",
+            "description": "Team Rocket can't believe their luck when the Blissey employed in a Pokémon Center willingly gives them the cente's entire food supply.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep24_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep24_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/SJEy7hIBZU8"
+        },
+        {
+            "id": "c27ee754b91647bdaea13e8f2b5d9709",
+            "season": "4",
+            "episode": "49",
+            "title": "The Joy of Water Pokémon",
+            "description": "The Nurse Joy at Lake Lucid's Pokémon Center is famous among Water-type Pokémon Trainers, so Misty is thrilled when our heroes' travels take them to the lake.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep49_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep49_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/tZqECNiaYvI"
+        },
+        {
+            "id": "d95931e6494043afaeddae6207cbb4a9",
+            "season": "6",
+            "episode": "37",
+            "title": "Jump for Joy!",
+            "description": "Ash and company arrive at the Pokémon Center, but Nurse Joy is no where to be found. Pikachu inspects the room where she was and suddenly falls asleep. Ash follows it and meets the same fate.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season06_ep49_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season06/season6_ep49_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/3LSWaU0Dzzg"
+        },
+        {
+            "id": "844e8e68e9ae4502ab2effb8f761a5f1",
+            "season": "9",
+            "episode": "41",
+            "title": "Overjoyed",
+            "description": "Ash has reached Fennel Valley at last, where he plans to challenge Brandon to a rematch—but Brandon won't be back until tomorrow! Instead, our hero is welcomed by an enthusiastic Nurse Joy.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep41_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep41_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/YMFSudkUOC4"
+        },
+        {
+            "id": "575f7fb272ee4ea38333507f171d8a02",
+            "season": "10",
+            "episode": "28",
+            "title": "Drifloon on the Wind",
+            "description": "On the way to Eterna City, our heroes visit a Pokémon Center where they meet young Paige and her big sister Marnie, the daughters of the local Nurse Joy!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep28_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep28_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/MjmzZVA4R8A"
+        }
+    ]
+}

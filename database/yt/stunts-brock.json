@@ -1,0 +1,27 @@
+{
+    "id": "brock",
+    "title": "Brock’s Memorable Moments",
+    "description": "Get inspired by Brock’s devoted Pokémon care on Pokémon TV.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/brock/brock-1125x1500-en.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/brock/brock-1660x940.jpg"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1616774579,
+    "media": [
+        {
+            "id": "e2c3bd80ab12483a8c523b74cd05639d",
+            "season": "1",
+            "episode": "27",
+            "title": "Pokémon Fashion Flash",
+            "description": "At Brock's persistent request, our heroes stop by Caesar Street, a town of breeders famous for its Pokémon beauty salons.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep27_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep27_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/lKggkmrv7q4"
+        }
+    ]
+}

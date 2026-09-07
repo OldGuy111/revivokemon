@@ -1,0 +1,92 @@
+{
+    "id": "money",
+    "title": "Team Rocket’s Money-Making Schemes",
+    "description": "Team Rocket embarks on some elaborate money-making schemes in classic episodes of Pokémon the Series, now on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/money/1125x1500-en.jpg",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/money/2048x1152.jpg"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1586529254,
+    "media": [
+        {
+            "id": "e2c3bd80ab12483a8c523b74cd05639d",
+            "season": "1",
+            "episode": "27",
+            "title": "Pokémon Fashion Flash",
+            "description": "At Brock's persistent request, our heroes stop by Caesar Street, a town of breeders famous for its Pokémon beauty salons.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep27_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep27_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/lKggkmrv7q4"
+        },
+        {
+            "id": "4b13749746ab491aa884aac4d51ee346",
+            "season": "1",
+            "episode": "41",
+            "title": "The Problem with Paras",
+            "description": "Team Rocket never let up with their constant interception, but today something seems strange. The coin on Meowth's forehead is blinking red, indicating overheating.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep41_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep41_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/J2MF6t_N8vo"
+        },
+        {
+            "id": "86fdc1776f834166847a9f9851bd82b8",
+            "season": "4",
+            "episode": "18",
+            "title": "The Trouble With Snubbull",
+            "description": "As our heroes take a brief rest near a river, Ash sees a Snubbull rush by on the opposite bank.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep18_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep18_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/2_qGrYE9TDw"
+        },
+        {
+            "id": "ff2a2140a48646ec9ff8c42ebea736b0",
+            "season": "4",
+            "episode": "20",
+            "title": "Wings 'n' Things",
+            "description": "It's a sunny day on the road to Johto when our heroes encounter a Yanma... a troublemaker of a Yanma!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep20_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep20_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/VAhFssTid80"
+        },
+        {
+            "id": "a9f3e4cb1093435d98a286e58a57a644",
+            "season": "7",
+            "episode": "10",
+            "title": "Pros and Con Artists",
+            "description": "May and friends finally arrive in Fallarbor Town, ready for the next Pokémon Contest.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep10_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep10_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/2VWgxqYZBsQ"
+        },
+        {
+            "id": "b0978e37cb9341d7a6128b8dbcdd3906",
+            "season": "8",
+            "episode": "18",
+            "title": "The Great Eight Fate",
+            "description": "Our heroes have arrived in Sootopolis at last, and Ash is ready to earn his eighth badge—but first it's time to watch the Sootopolis Gym Leader, Juan, put on an impressive water show!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep18_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep18_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/yaH8cvHueH8"
+        }
+    ]
+}

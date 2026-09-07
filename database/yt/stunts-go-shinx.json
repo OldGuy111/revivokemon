@@ -1,0 +1,27 @@
+{
+    "id": "go-shinx",
+    "title": "Shinx Makes Sparks Fly",
+    "description": "Electrify your viewing with Shinx and its Evolutions on Pokémon TV.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/go/shinx/shinx-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/go/shinx/shinx-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1636736759,
+    "media": [
+        {
+            "id": "3b42352f16514ea7905d4e0e15de055c",
+            "season": "10",
+            "episode": "10",
+            "title": "Not On My Watch Ya Don't",
+            "description": "Dawn's first Pokémon Contest is just days away, and in order to prepare, she's searching Jubilife City for a Pokétch—a handy accessory that looks like a watch but has multiple useful functions.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep10_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep10_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/MPJJDakkELM"
+        }
+    ]
+}

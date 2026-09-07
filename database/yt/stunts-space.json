@@ -1,0 +1,105 @@
+{
+    "id": "space",
+    "title": "Out of this World Pokémon",
+    "description": "Ash and his friends experience the mysteries of the cosmos in outer space-themed episodes of Pokémon the Series on Pokémon TV!",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/space/space-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/space/space-2048x1152.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1600439839,
+    "media": [
+        {
+            "id": "627d931ab9c84c44bb8287d9da3c7f27",
+            "season": "2",
+            "episode": "7",
+            "title": "Clefairy Tales",
+            "description": "Ash, Brock and Misty get sidetracked on their way to Viridian City when all of their belongings mysteriously disappear.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep07_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep07_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/5jtFBj6nLw4"
+        },
+        {
+            "id": "f91330c6f83046e7a2107502dad50095",
+            "season": "5",
+            "episode": "37",
+            "title": "Wish Upon a Star Shape",
+            "description": "Ash, Misty, and Brock are traveling along when they notice a strange shape falling from the sky. They run in to investigate, but soon realized that they were not the only witnesses of this event.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep37_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep37_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/xMrBWjCGkCc"
+        },
+        {
+            "id": "d870b1ade09b483294c980126a90ca91",
+            "season": "7",
+            "episode": "47",
+            "title": "Crazy as a Lunatone",
+            "description": "Ken and Mary of the Pokémon Mystery Club are once again looking for a Pokémon from outer space, checking the site of a meteor crash.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep47_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep47_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/JNj9cR_h_f8"
+        },
+        {
+            "id": "d17612c4a1794ab283b8d56bcbf841f2",
+            "season": "8",
+            "episode": "7",
+            "title": "It's Still Rocket Roll to Me",
+            "description": "Ash and friends finally arrive in Mossdeep City and head straight to the Pokémon Gym—only to find it empty because everyone in town is at the Space Center for the shuttle launch.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep07_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep07_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/2O1nhl_klDI"
+        },
+        {
+            "id": "e750779e5e824697a6b0023d7170f560",
+            "season": "8",
+            "episode": "8",
+            "title": "Solid as a Solrock",
+            "description": "Ash's battle with the Mossdeep Gym Leaders is set to begin. He calls out Swellow and Pikachu versus Tate's Solrock and Liza's Lunatone, taking into account the strange planet-filled aerial battlefield they will be using.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep08_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep08_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/oc7Y2cZrcOY"
+        },
+        {
+            "id": "121d4f0a797641a6a763f3d182ec0303",
+            "season": "9",
+            "episode": "26",
+            "title": "Pokémon Ranger - Deoxys' Crisis (Part 1)",
+            "description": "Our heroes spot a confused flock of Pokémon and realize something isn't right, especially once an unusual aurora appears in the sky and their Poké Balls and PokéNav stop working!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep26_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep26_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/h45fr00bkfg"
+        },
+        {
+            "id": "df06f3589fe9401d8cf7fe8d0abff8a4",
+            "season": "9",
+            "episode": "27",
+            "title": "Pokémon Ranger - Deoxys' Crisis (Part 2)",
+            "description": "With Meowth and Max both vanished after an encounter with Deoxys, Team Rocket makes a truce with the twerps so they can rescue their favorite talking Pokémon.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep27_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season9_ep27_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/Oi3EkQBalF4"
+        }
+    ]
+}

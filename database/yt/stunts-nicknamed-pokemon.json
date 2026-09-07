@@ -1,0 +1,79 @@
+{
+    "id": "nicknamed-pokemon",
+    "title": "What’s in a (Nick)name?",
+    "description": "Find out what’s in a name when you relive classic episodes featuring Pokémon that have been given cool nicknames.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/nicknamed-pokemon/nicknamed-pokemon-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/nicknamed-pokemon/nicknamed-pokemon-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1632499877,
+    "media": [
+        {
+            "id": "9d86ce7b397b47009b066e883d78680f",
+            "season": "2",
+            "episode": "9",
+            "title": "It's Mr. Mime Time",
+            "description": "On their way back to Pallet Town, Ash, Brock and Misty encounter a runaway Mr. Mime.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep09_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep09_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/KH92hzvhv2g"
+        },
+        {
+            "id": "913102c358be4a2683e57fd84938dc90",
+            "season": "3",
+            "episode": "18",
+            "title": "Charizard's Burning Ambition",
+            "description": "When Ash hears of the nearby Charicific Valley, he is sure a quick trip would be just the thing to reignite his Charizard's flagging spirits.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep29_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep29_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/hOSXkiZ_8zY"
+        },
+        {
+            "id": "43593b465ea440cbae61e223e4feadc1",
+            "season": "5",
+            "episode": "11",
+            "title": "The Mystery is History",
+            "description": "While on their quest to locate a mysterious Pokemon, Ash, Misty, and Brock run into their old friends Richie, and his Pikachu, Sparky.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season05_ep11_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season05/season5_ep11_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/vbSH86rCW0w"
+        },
+        {
+            "id": "feff161f13a34e0e84485f0769a2008e",
+            "season": "8",
+            "episode": "20",
+            "title": "Showdown At Linoone!",
+            "description": "When May discovers that two of her Poké Balls are missing, she naturally assumes it's Team Rocket! But the culprit could be someone else entirely…",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season08_ep20_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season08/season8_ep20_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/3euRZiq7iPw"
+        },
+        {
+            "id": "bf582cc5ccee43b193be1adddf28933f",
+            "season": "10",
+            "episode": "24",
+            "title": "Cooking Up a Sweet Story",
+            "description": "Abigail takes Pikachu into the forest, where it uses Thunderbolt to zap berries and give them a delicious roasted flavor. Team Rocket notices this unusual electrical activity and tries to seize Pikachu.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep24_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season10/season10_ep24_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/UQg8F1duyjg"
+        }
+    ]
+}

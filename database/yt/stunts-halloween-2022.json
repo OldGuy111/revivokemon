@@ -1,0 +1,27 @@
+{
+    "id": "halloween-2022",
+    "title": "Overflowing with Emotion",
+    "description": "Wear black to watch your favorite spooky Trainers on Pokémon TV.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/halloween/2022/halloween-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/halloween/2022/halloween-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1665754588,
+    "media": [
+        {
+            "id": "aa88277c464c4ca09f94dc9e70b32724",
+            "season": "1",
+            "episode": "21",
+            "title": "Abra and the Psychic Showdown",
+            "description": "The party finally arrives in Saffron City where a young girl manages a gym of Pokémon using her psychic powers. If Ash defeats this particular Gym Leader, Ash can earn a gold badge.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep21_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep21_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/TYhdezzyqPo"
+        }
+    ]
+}

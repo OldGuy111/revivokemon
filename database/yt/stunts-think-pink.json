@@ -1,0 +1,92 @@
+{
+    "id": "think-pink",
+    "title": "Think Pink",
+    "description": "Ash and Pikachu meet Pokémon that are pretty (and powerful) in pink in a collection of classic episodes.",
+    "images": {
+        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/think-pink/think-pink-1125x1500-en.png",
+        "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/stunts/think-pink/think-pink-1660x940.png"
+    },
+    "category_id": 2,
+    "category": "stuns",
+    "order": -1676048663,
+    "media": [
+        {
+            "id": "d120746b3bd1413fa79e9fdd0ec1e2d6",
+            "season": "1",
+            "episode": "20",
+            "title": "Bye Bye Butterfree",
+            "description": "When the party sees a flock of Butterfree flying above the ocean, Brock, as a Pokémon breeder, explains that it is the Butterfree's egg-laying season.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep20_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season1_ep20_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/T23nJU-KwZo"
+        },
+        {
+            "id": "1557f55946454afcacf4dec3e03bfca1",
+            "season": "2",
+            "episode": "34",
+            "title": "In the Pink",
+            "description": "Ash and friends are caught in a whirlpool and swept to an unexplored island where all the Pokémon are pink.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season02_ep34_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season02/season2_ep34_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/uKo5RXqOQwI"
+        },
+        {
+            "id": "488437a92b3e4449acdcb6b37188c4be",
+            "season": "3",
+            "episode": "26",
+            "title": "A Shadow of a Drought",
+            "description": "Ash carelessly makes enemies of the Slowpoke-worshipping residents of a town.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep37_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep37_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/OIetH55YkDs"
+        },
+        {
+            "id": "0cd9975e6e264ddebd919a3386b63f8a",
+            "season": "4",
+            "episode": "1",
+            "title": "A Goldenrod Opportunity",
+            "description": "Our heroes have finally reached the next stop on the road to Johto: Goldenrod City!",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep01_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/3Zutr6Yhzk0"
+        },
+        {
+            "id": "75c68d5c793b493b88fc0a2be9b3fa20",
+            "season": "4",
+            "episode": "18",
+            "title": "The Trouble With Snubbull",
+            "description": "As our heroes take a brief rest near a river, Ash sees a Snubbull rush by on the opposite bank.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season04_ep18_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season04/season4_ep18_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/2_qGrYE9TDw"
+        },
+        {
+            "id": "ee4d749c9e6d47588ad3d78509d47949",
+            "season": "7",
+            "episode": "7",
+            "title": "I Feel Skitty!",
+            "description": "May is practicing for her next Pokémon Contest, when Torchic finds a Skitty in the bushes. May wants to catch it, but it's too sick to battle.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season07_ep07_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season07/season7_ep07_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/v5HDHEgg4LE"
+        }
+    ]
+}
