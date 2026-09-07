@@ -26,11 +26,12 @@ Below is the list of content. Movies and Pokémon Origins will not be added as t
 ## To do
 * Episodes as they come
 * Extra Kids TV content
-* Download thumbnails (currently depends on pokemon.com leftovers)
+* Fix Season 1-5 thumbnails
 * UI revamp
   * Home screen
 * Region-specific content
-* "Stunts" (check database/us folder)
+* Fix stuns - similar to compilations
+* Integrate buttons to YT embed API
 * Find a way to change video languages on YT embeds
 
 # Original description
