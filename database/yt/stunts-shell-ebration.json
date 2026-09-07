@@ -24,6 +24,19 @@
             "embed_url": "https://www.youtube.com/embed/1TlOcjJodHw"
         },
         {
+            "id": "81b09794b7e4462c9662e46c08529b49",
+            "season": "2",
+            "episode": "50",
+            "title": "The Pokémon Water War",
+            "description": "Our heroes try, but are unable to extinguish a dangerous fire, until the local fire brigade—a trained team of Wartortles—arrives and squelches the flames.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep01_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep01_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/RY0bYz4F9s8"
+        },
+        {
             "id": "65dd823cdc614e12b09eec32914f18aa",
             "season": "5",
             "episode": "60",

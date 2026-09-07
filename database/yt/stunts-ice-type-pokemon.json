@@ -11,6 +11,19 @@
     "order": -1642178481,
     "media": [
         {
+            "id": "6e825fccc07c4c33a19fd32e09cb5aeb",
+            "season": "2",
+            "episode": "57",
+            "title": "Viva Las Lapras",
+            "description": "It's piracy on the open seas and Ash and friends must rescue a local school of Lapras from would-be poachers.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep08_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep08_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/GLyzKxfN1B4"
+        },
+        {
             "id": "9e7a508993f6497897ab020851adaf08",
             "season": "5",
             "episode": "29",

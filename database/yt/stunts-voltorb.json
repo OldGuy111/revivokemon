@@ -50,6 +50,19 @@
             "embed_url": "https://www.youtube.com/embed/9RSOiS0QrS8"
         },
         {
+            "id": "10614663caa94f5d8f8e3b392c2d1002",
+            "season": "2",
+            "episode": "58",
+            "title": "The Underground Round Up",
+            "description": "A failed experiment has left a town a virtual wasteland, overrun with Electrodes.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep09_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep09_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/c0S1h3q3Dhw"
+        },
+        {
             "id": "53e7e2063d8943f38a3e559cc18683d7",
             "season": "6",
             "episode": "40",

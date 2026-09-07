@@ -24,19 +24,6 @@
             "embed_url": "https://www.youtube.com/embed/RYdXQlBjjPI"
         },
         {
-            "id": "b18dcec6bff148c5b900641dfd185fc3",
-            "season": "3",
-            "episode": "2",
-            "title": "The Double Trouble Header",
-            "description": "In a Pokémon battle, Ash soundly defeats an ambitious young Trainer, who runs away dejectedly.",
-            "images": {
-                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep13_ss01.jpg",
-                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep13_360_206.jpg"
-            },
-            "poketv_url": "",
-            "embed_url": "https://www.youtube.com/embed/WuCYn3BxXGE"
-        },
-        {
             "id": "ffd48b01be094da79fe641f1aef6782f",
             "season": "7",
             "episode": "40",

@@ -24,6 +24,19 @@
             "embed_url": "https://www.youtube.com/embed/RcBw50wD9_o"
         },
         {
+            "id": "6a12a56a7dd5425aac83e38b83f7c3d5",
+            "season": "2",
+            "episode": "52",
+            "title": "Pokémon Double Trouble",
+            "description": "Ash is anxious to square off against the Gym Leader who holds the final badge of the Orange League.",
+            "images": {
+                "large": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season03_ep03_ss01.jpg",
+                "medium": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season03/season3_ep03_360_206.jpg"
+            },
+            "poketv_url": "",
+            "embed_url": "https://www.youtube.com/embed/sTj8xUZfceg"
+        },
+        {
             "id": "5e6793e7de524a41ba22ce41145265bd",
             "season": "4",
             "episode": "1",
