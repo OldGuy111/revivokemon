@@ -1,4 +1,4 @@
-![A cartoon television with an eary orange creature with yellow cheeks, eyes, tiny nose and mouth inside. Its ears stick out. At the right of the screen stands the text REVIVOKÉMON in low caps italic.](https://github.com/OldGuy111/revivokemon/blob/master/revivokemon.png)
+![A cartoon television with an eary orange creature with yellow cheeks, eyes, tiny nose and mouth inside. Its ears stick out of the television. At the right of the screen stands the text REVIVOKÉMON in low caps italic.](https://github.com/OldGuy111/revivokemon/blob/master/revivokemon.png)
 # Revivokémon
 **REVIVOKÉMON HAS BEEN OFFICIALY RELEASED!**
 
@@ -22,6 +22,7 @@ Below is the list of content. Movies and Pokémon Origins will not be added as t
 * Pokémon Evolutions
 * Pokémon: Hisuian Snow
 * Pokémon: Path to the Peak
+* Stuns - mini-compilations (as far as the episodes go)
 * [Terms of Use and Privacy Policy](https://github.com/OldGuy111/revivokemon/wiki)
 ## To do
 * Episodes as they come
@@ -30,7 +31,6 @@ Below is the list of content. Movies and Pokémon Origins will not be added as t
 * UI revamp
   * Home screen
 * Region-specific content
-* Fix stuns - similar to compilations
 * Integrate buttons to YT embed API
 * Find a way to change video languages on YT embeds
 
