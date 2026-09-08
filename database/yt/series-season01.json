@@ -3,7 +3,7 @@
     "title": "Pokémon: Indigo League",
     "description": "It’s Ash Ketchum’s tenth birthday, and he’s ready to do what many 10-year-olds in the Kanto region set out to do—become a Pokémon Trainer! Things don’t go exactly the way he planned when he ends up with a Pikachu rather than one of the usual first partner Pokémon, and winning Gym badges turns out to be much tougher than he thought. Luckily, he’s got former Gym Leaders Brock and Misty at his side, along with a bevy of new Pokémon friends, including Bulbasaur, Squirtle, and Charmander.",
     "images": {
-        "dashboard": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season01/season01-1125x1500-en.jpg",
+        "dashboard": "img/season01-correctlysized.png",
         "spotlight": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/pokemon-tv-app/season01/season01-1660x940-en.png"
     },
     "category_id": 1.1,
